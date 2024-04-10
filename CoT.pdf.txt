@@ -1,0 +1,2 @@
+Page count: 1
+Metadata: {'format': 'PDF 1.3', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'LaTeX with hyperref', 'producer': 'macOS Version 14.2.1 (Build 23C71) Quartz PDFContext', 'creationDate': "D:20240114193810Z00'00'", 'modDate': "D:20240114193810Z00'00'", 'trapped': '', 'encryption': None}

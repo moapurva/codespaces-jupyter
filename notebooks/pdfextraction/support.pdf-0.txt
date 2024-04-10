@@ -1,0 +1,42 @@
+Contoso Real Estate Customer Support Guide
+This document contains information generated using a language model (Azure OpenAI). The
+information contained in this document is only for demonstration purposes and does not reflect
+the opinions or beliefs of Microsoft. Microsoft makes no representations or warranties of any kind,
+express or implied, about the completeness, accuracy, reliability, suitability or availability with
+respect to the information contained in this document.
+All rights reserved to Microsoft
+Customer Support Guide
+Welcome to Contoso Real Estate! We’re delighted to have you as a part of our community of travelers
+and hosts. This comprehensive customer support guide will assist you in navigating various aspects of our
+platform, ensuring that your experience with us is smooth and enjoyable.
+Table of Contents
+1. How to Search and Book Rentals
+2. How to Cancel a Confirmed Booking
+3. How to Contact Customer Support
+4. How to Report a Problem with a Listing
+5. How to Report a Problem with a Guest or Host
+6. How to Report a Safety Issue
+7. How to Report a Payment or Refund Issue
+8. Guest or Host Rule Violations
+9. Compensation for Damage
+10. Payment Error Resolution
+1. How to Search and Book Rentals
+Contoso Real Estate offers a wide range of rental properties for your stay. Here’s how to search and book
+rentals:
+1. Search for Rentals:
+• Enter your destination, check-in and check-out dates, and the number of guests.
+• Apply filters such as price range, property type, and amenities to narrow down your options.
+• Browse through the listings to find the perfect place for your stay.
+2. View Listing Details:
+• Click on a listing to view detailed information, including photos, property description, reviews,
+and host information.
+3. Make a Booking:
+• Click the “Book Now” button on the listing page.
+• Review the booking details, including the total cost and house rules.
+• Confirm your booking by providing payment information.
+• Once the host accepts your booking, you’ll receive a confirmation.
+4. Payment:
+• Contoso Real Estate handles the payment process securely. You’ll only be charged once your
+booking is confirmed.
+5. Communication:
+1
