@@ -1,0 +1,1078 @@
+Page count: 23
+Metadata: {'format': 'PDF 1.7', 'title': 'MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX', 'author': 'Pandey, Kamal', 'subject': '', 'keywords': '', 'creator': 'Microsoft® Word for Microsoft 365', 'producer': 'Microsoft® Word for Microsoft 365', 'creationDate': "D:20220915205745+08'00'", 'modDate': "D:20220915205745+08'00'", 'trapped': '', 'encryption': None}
+ 
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+MSCI.COM | PAGE 1 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI INDIA ESG 
+ENHANCED FOCUS 
+CTB SELECT INDEX 
+ 
+ 
+Pandey, Kamal 
+September 2022 
+
+ 
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+MSCI.COM | PAGE 2 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+ 
+ 
+ 
+1 
+Introduction ............................................................................ 3 
+2 
+MSCI ESG Research ............................................................... 4 
+2.1 
+MSCI ESG Ratings 
+............................................................................... 
+4 
+2.2 
+MSCI ESG Controversies 
+.................................................................... 
+4 
+2.3 
+MSCI ESG Business Involvement Screening Research ................... 
+4 
+2.4 
+MSCI Climate Change Metrics 
+........................................................... 
+5 
+2.5 
+MSCI ESG Sustainable Impact Metrics 
+............................................. 
+5 
+3 
+Constructing the MSCI India ESG Enhanced Focus CTB 
+Select Index 
+................................................................................... 6 
+3.1 
+Defining the exclusion criteria ........................................................... 
+6 
+3.1.1 
+Business Exclusion criteria ....................................................................... 6 
+Other exclusion criteria 
+............................................................................................. 7 
+3.2 
+Optimization Constraints ................................................................... 
+7 
+3.3 
+Determining the Optimized Index ...................................................... 
+7 
+4 
+Maintaining MSCI India ESG Enhanced Focus CTB Select 
+Index .............................................................................................. 8 
+4.1 
+Quarterly Index Reviews ..................................................................... 
+8 
+4.2 
+Ongoing Event-Related Maintenance 
+................................................ 
+8 
+Appendix 1: Business Exclusion Criteria ................................... 10 
+Appendix 2: Optimization Constraints ....................................... 13 
+Appendix 3: New Release of Barra® Equity Model or Barra® 
+Optimizer ..................................................................................... 16 
+Appendix 4: Calculation of Target Metrics ................................ 17 
+ 
+Contents 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 3 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+1 
+Introduction 
+The MSCI India ESG Enhanced Focus CTB Select Index (the ‘Index’) is designed to 
+maximize exposure to positive environmental, social and governance (ESG) factors 
+while maintaining risk and return characteristics similar to those of MSCI India (the 
+‘Parent Index’).  
+The Index is constructed by selecting constituents of the Parent Index through an 
+optimization process that aims to maximize exposure to ESG factors for a target 
+tracking error budget and exceed the minimum standards of the EU Climate 
+Transition Benchmark (CTB).  
+The Index is constructed following an optimization-based approach and aims to: 
+ 
+• 
+Exceed the minimum technical requirements laid out for EU Climate 
+Transition Benchmarks in the EU Delegated Acts1  
+• 
+Reduce the weighted average greenhouse gas intensity by 30% (compared to 
+the underlying investment universe 
+• 
+Reduce the weighted average greenhouse gas (GHG) intensity by 7% on an 
+annualized basis 
+• 
+Reduce the weighted average potential emissions intensity by 30% 
+(compared to the underlying investment universe) 
+• 
+Have at least equivalent ratio of weighted average “Green Revenues” to 
+weighted average “Fossil Fuels-based Revenues” as that of the underlying 
+investment universe 
+• 
+Increase the weight of companies with credible carbon reduction targets 
+through the weighting scheme  
+• 
+Be sector-diversified and target companies with high ESG ratings in each 
+sector 
+ 
+ 
+ 
+1 https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R1816&from=EN 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 4 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+2 
+MSCI ESG Research  
+The Index uses company ratings and research provided by MSCI ESG Research. The 
+Index uses the following MSCI ESG Research products:  MSCI ESG Ratings, MSCI 
+ESG Controversies, MSCI Business Involvement Screening Research and MSCI 
+Climate Change Metrics. 
+For details on MSCI ESG Research’s full suite of ESG products, please refer to: 
+https://www.msci.com/esg-investing. 
+2.1 
+MSCI ESG RATINGS 
+MSCI ESG Ratings provides research, analysis and ratings of how well companies 
+manage environmental, social and governance risks and opportunities.  
+MSCI ESG Ratings provides an overall company ESG rating - a seven-point scale from 
+‘AAA’ to ‘CCC’.  In addition, the product provides scores and percentiles indicating 
+how well a company manages each key issue relative to industry peers. 
+For more details on MSCI ESG Ratings, please refer to: https://www.msci.com/esg-
+ratings. 
+2.2 
+MSCI ESG CONTROVERSIES 
+MSCI ESG Controversies provides assessments of controversies concerning the 
+negative environmental, social, and/or governance impact of company operations, 
+products and services. The evaluation framework used in MSCI ESG Controversies is 
+designed to be consistent with international norms represented by the UN 
+Declaration of Human Rights, the ILO Declaration on Fundamental Principles and 
+Rights at Work, and the UN Global Compact. MSCI ESG Controversies Score falls on 
+a 0-10 scale, with “0” being the most severe controversy.  
+For more details on MSCI ESG Controversies, please refer to : 
+https://www.msci.com/documents/10199/acbe7c8a-a4e4-49de-9cf8-
+5e957245b86b.  
+2.3 
+MSCI ESG BUSINESS INVOLVEMENT SCREENING RESEARCH 
+MSCI ESG Business Involvement Screening Research (BISR) aims to enable 
+institutional investors to manage environmental, social and governance (ESG) 
+standards and restrictions reliably and efficiently.  
+For more details on MSCI ESG Business Involvement Screening Research, please 
+refer to http://www.msci.com/resources/factsheets/MSCI_ESG_BISR.pdf. 
+ 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 5 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+2.4 
+MSCI CLIMATE CHANGE METRICS 
+MSCI Climate Change Metrics is designed to support investors seeking to achieve a 
+range of objectives, including measuring and reporting on climate risk exposure, 
+implementing low carbon and fossil fuel-free strategies, and factoring climate 
+change research into their risk management processes. It provides Carbon 
+Emissions, Fossil Fuel exposure, environmental impact (i.e., clean technology) data 
+and screens, as well as climate-related risk exposure and management assessment 
+on companies such as Low Carbon Transition scores and categories. 
+For more details on MSCI Climate Change Metrics, please refer to 
+https://www.msci.com/climate-change-solutions. 
+2.5 
+MSCI ESG SUSTAINABLE IMPACT METRICS 
+MSCI ESG Research’s Sustainable Impact Metrics is designed to identify companies 
+that currently offer products or services that address at least one of the major social 
+and environmental challenges as defined by the UN Sustainable Development Goals. 
+Designed as a positive screen, it is designed to highlight companies that are deriving 
+sales from products or services that may have a positive impact on society and the 
+environment. 
+For more details on the MSCI ESG Sustainable Impact Metrics, please refer to 
+https://www.msci.com/esg-sustainable-impact-metrics. 
+ 
+ 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 6 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+3 
+Constructing the MSCI India ESG Enhanced Focus CTB 
+Select Index 
+The Index is constructed from the MSCI India Index. 
+The construction of the Index further involves the following steps: 
+• 
+Defining the exclusion criteria 
+• 
+Defining the optimization constraints 
+• 
+Determining the optimized portfolio 
+The steps mentioned above are defined in detail in the subsequent sections. 
+ 
+3.1 
+DEFINING THE EXCLUSION CRITERIA 
+Securities of companies involved in Very Severe business controversies as defined 
+by the MSCI ESG Controversies Methodology are not eligible for inclusion in the 
+Index. This is implemented by excluding constituents of the Parent Index with ESG 
+Controversy Score = 0 (‘Red Flag’ companies). 
+3.1.1 
+BUSINESS EXCLUSION CRITERIA 
+Companies that are involved in specific businesses which have high potential for 
+negative social and/or environmental impact are ineligible for inclusion in the Index.  
+• 
+Controversial Weapons 
+• 
+Nuclear Weapons 
+• 
+Civilian Firearms  
+• 
+Tobacco 
+• 
+Thermal Coal 
+• 
+Conventional Weapons 
+• 
+Unconventional Oil and Gas 
+In addition to the above, companies that fail to comply with the United Nations 
+Global Compact Principles are also excluded from the Index. 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 7 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+In addition, companies with an Environment Controversy Score2 of 0 or 1 will also be 
+excluded from the Index. 
+Please refer to Appendix 1 for more details on these criteria. 
+OTHER EXCLUSION CRITERIA 
+• 
+Missing Controversy Score – Companies not assessed by MSCI ESG 
+Research’s MSCI ESG Controversy Scores are excluded from the Index. 
+• 
+Missing ESG Rating or ESG Score – Companies which are not rated by MSCI 
+ESG Research for an MSCI ESG Rating are excluded from the Index. 
+3.2 
+OPTIMIZATION CONSTRAINTS 
+The optimization process aims to maximize the Index’s exposure to ESG scores for a 
+given tracking error budget. ESG scores are normalized and used in the optimization 
+process. The following ex-ante tracking error target is used for the construction of 
+the Index – 
+MSCI ESG Enhanced Focus CTB Index 
+Ex-Ante Tracking Error 
+MSCI India ESG Enhanced Focus CTB Select Index 
+1.5% 
+ 
+Normalization of the ESG scores is designed to allow the optimization process to 
+assess each score in the context of the overall distribution of the ESG scores.  
+Please refer to Appendix 2 for the optimization constraints. The definitions of the 
+target metrics for the optimization are detailed in Appendix 4. 
+3.3 
+DETERMINING THE OPTIMIZED INDEX 
+The Index is constructed using the Barra Open Optimizer3 in combination with the 
+relevant Barra Equity Model. The optimization uses the universe of eligible securities 
+and the specified optimization objectives and constraints to determine the 
+constituents of the Index. 
+ 
+ 
+2 This ESG pillar is an assessment of controversies (if any) related to a firm’s impact on the environment. Factors affecting 
+this evaluation include whether a company is involved in controversies related to land use and biodiversity, toxic spills 
+and releases, energy and climate change, water management, operational non-hazardous waste, and management of 
+supply chain environmental impact. MSCI Environment Controversy Score falls on a 0-10 scale, with “0” being the most 
+severe controversy. 
+3 Please refer to Appendix II, III and IV for more details. 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 8 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+4 
+Maintaining MSCI India ESG Enhanced Focus CTB 
+Select Index 
+4.1 
+QUARTERLY INDEX REVIEWS 
+The Index is rebalanced on a quarterly basis to coincide with the regular Index 
+Reviews (Semi-Annual Index Reviews in May and November and Quarterly Index 
+Reviews in February and August) of the MSCI Global Investable Market Indexes. 
+Changes are implemented at the end of February, May, August and November. The 
+pro forma Index is in general announced nine business days before the effective 
+date. 
+ESG scores used for the Quarterly Index Reviews will be taken as of the end of the 
+month preceding the Index Review, i.e., January, April, July, and October. 
+At each Index Review, the optimization process outlined in Section 3 is implemented. 
+In general, MSCI uses MSCI ESG Research data (including MSCI ESG Ratings, MSCI 
+ESG Controversies Scores, MSCI Business Involvement Screening Research, MSCI 
+Climate Change Metrics, and MSCI ESG Sustainable Impact Metrics) as of the end of 
+the month preceding the Index Reviews. For some securities, such data may not be 
+published by MSCI ESG Research by the end of the month preceding the Index 
+Review. For such securities, MSCI will use ESG data published after the end of 
+month, when available. 
+4.2 
+ONGOING EVENT-RELATED MAINTENANCE 
+The general treatment of corporate events in the Index aims to minimize turnover 
+outside of Index Reviews. The methodology aims to appropriately represent an 
+investor’s participation in an event based on relevant deal terms and pre-event 
+weighting of the Index constituents that are involved.  Further, changes in Index 
+market capitalization that occur as a result of corporate event implementation will be 
+offset by a corresponding change in the Variable Weighting Factor (VWF) of the 
+constituent.  
+The following section briefly describes the treatment of common corporate events 
+within the MSCI India ESG Enhanced Focus CTB Select Index. No new securities will 
+be added (except where noted below) to the Index between Index Reviews. Parent 
+Index deletions will be reflected simultaneously. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 9 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+EVENT TYPE 
+ 
+ 
+ 
+ 
+EVENT DETAILS 
+ 
+ 
+ 
+New additions to the Parent Index 
+A new security added to the Parent 
+Index (such as IPO and other early 
+inclusions) will not be added to the 
+Index. 
+ 
+Spin-Offs 
+All securities created as a result of the 
+spin-off of an existing Index 
+constituent will be added to the Index 
+at the time of event implementation. 
+Reevaluation for continued inclusion 
+in the Index will occur at the 
+subsequent Index Review. 
+ 
+Merger/Acquisition 
+For Mergers and Acquisitions, the 
+acquirer’s post event weight will 
+account for the proportionate amount 
+of shares involved in deal 
+consideration, while cash proceeds 
+will be invested across the Index. 
+ 
+If an existing Index constituent is 
+acquired by a non-Index constituent, 
+the existing constituent will be deleted 
+from the Index and the acquiring non-
+constituent will not be added to the 
+Index. 
+ 
+Changes in Security Characteristics 
+A security will continue to be an Index 
+constituent if there are changes in 
+characteristics (country, sector, size 
+segment, etc.) Reevaluation for 
+continued inclusion in the Index will 
+occur at the subsequent Index Review. 
+ 
+Further detail and illustration regarding specific treatment of corporate events 
+relevant to this Index can be found in the MSCI Corporate Events Methodology book 
+under the sections detailing the treatment of events in Capped Weighted and Non-
+Market Capitalization Weighted Indexes.  
+  
+The MSCI Corporate Events methodology book is available at:  
+https://www.msci.com/Index-methodology. 
+ 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 10 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+Appendix 1: Business Exclusion Criteria 
+MSCI ESG Research has developed a framework designed to define significant 
+involvement in controversial activities. According to this framework, there are three 
+tolerance levels: Zero Tolerance, Minimal Tolerance and Low Tolerance. 
+Each controversial activity screened by the MSCI India ESG Enhanced Focus CTB 
+Select Index (except Thermal Coal, Oil Sands and Global Norms) is assigned to one 
+of these tolerance levels: 
+Activities classified under “Zero Tolerance”  
+• 
+Controversial Weapons 
+o 
+All companies with any tie to Controversial Weapons (cluster 
+munitions, landmines, depleted uranium weapons, 
+biological/chemical weapons, blinding lasers, non-detectable 
+fragments and incendiary weapons), as defined by the methodology 
+of the MSCI Ex-Controversial Weapons Indexes available at 
+https://www.msci.com/Index-methodology.  
+Activities classified under “Minimal Tolerance” 
+• 
+Nuclear Weapons 
+o 
+All companies that manufacture nuclear warheads and/or whole 
+nuclear missiles. 
+o 
+All companies that manufacture components that were developed or 
+are significantly modified for exclusive use in nuclear weapons 
+(warheads and missiles). 
+o 
+All companies that manufacture or assemble delivery platforms that 
+were developed or significantly modified for the exclusive delivery of 
+nuclear weapons. 
+o 
+All companies that provide auxiliary services related to nuclear 
+weapons. 
+o 
+All companies that manufacture components that were not 
+developed or not significantly modified for exclusive use in nuclear 
+weapons (warheads and missiles). 
+o 
+All companies that manufacture or assemble delivery platforms that 
+were not developed or not significantly modified for the exclusive 
+delivery of nuclear weapons. 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 11 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+o 
+All companies that manufacture components for nuclear-exclusive 
+delivery platforms. 
+• 
+Civilian Firearms 
+o 
+All companies classified as “Producer” of firearms and small arms 
+ammunitions for civilian markets. It does not include companies that 
+cater to the military, government, and law enforcement markets. 
+o 
+All companies deriving 5% or more revenue from the distribution 
+(wholesale or retail) of firearms or small arms ammunition intended 
+for civilian use. 
+• 
+Tobacco  
+o 
+All companies classified as a “Producer”.  
+o 
+All companies deriving 5% or more aggregate revenue from the 
+production, distribution, retail and supply of tobacco-related products.  
+ 
+Activities not classified under any specific tolerance level 
+• 
+Thermal Coal  
+o 
+All companies deriving 5% or more revenue (either reported or 
+estimated) from the mining of thermal coal (including lignite, 
+bituminous, anthracite and steam coal) and its sale to external 
+parties. It excludes revenue from metallurgical coal; coal mined for 
+internal power generation (e.g. in the case of vertically integrated 
+power producers); intra-company sales of mined thermal coal; and 
+revenue from coal trading. 
+o 
+All companies deriving 5% or more revenue (either reported or 
+estimated) from the thermal coal based power generation. 
+• 
+Conventional Weapons 
+o 
+All companies deriving 5% or more revenue from the production of 
+conventional weapons. 
+o 
+All companies deriving 10% or more aggregate revenue from 
+weapons systems, components and support systems and services. 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 12 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+• 
+Unconventional Oil and Gas 
+o 
+All companies deriving 5% or more revenues from oil sands, oil shale 
+(kerogen-rich deposits), shale gas, shale oil, coal-seam gas, coal-bed 
+methane as well as Arctic onshore/offshore reserves. 
+• 
+Global Norms – United Nations Global Compact Compliance 
+o 
+All companies that fail to comply with the United Nations Global 
+Compact principles. 
+ 
+ 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 13 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+Appendix 2: Optimization Constraints 
+At each Quarterly Index Review, the following optimization constraints along with the 
+ex-ante tracking error targets defined in Section 3.4 are used to ensure replicability 
+and investability. 
+Screened Parent 
+The Screened Parent is constructed by excluding securities from the Parent Index 
+based on the exclusion criteria as defined in Section 3.3. The security weights are 
+then normalized to 100%. 
+Constraints imposed to meet transition and physical risk objectives 
+No. 
+Transition and Physical Risk Objective 
+MSCI India ESG 
+Enhanced Focus 
+CTB Select Index 
+1^ 
+Minimum reduction in Greenhouse Gas (GHG) 
+Intensity (Scope 1+2+3)  
+30% 
+2 
+Minimum average reduction (per annum) in GHG 
+Intensity relative to GHG Intensity at the Base Date4 
+7% 
+3^ 
+Minimum active weight in High Climate Impact 
+Sector  as defined in Appendix 4  
+0% 
+4^ 
+Minimum Increase in aggregate weight in 
+companies setting targets relative to the aggregate 
+weight of such companies in the Parent Index. 
+Companies Setting Targets are defined in Appendix 
+4 
+10% 
+5^ 
+Minimum reduction in Weighted Average Potential 
+Emissions Intensity  
+30% 
+6^ 
+Minimum ratio of Weighted Average Green 
+Revenue/ Weighted Average Fossil fuels-based 
+Revenue  
+At least equal 
+ 
+ 
+ 
+ 
+4 MSCI India ESG Enhanced Focus CTB Select Index has a base date of Sep 01, 2022. 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 14 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+Diversification Constraints 
+ 
+* Active Country Weights – In case there are countries in the Parent Index which 
+weigh less than 2.5% in the Parent Index, then for such countries the active country 
+upper bound of +5% is not applicable. When a country weighs less than 2.5% in the 
+Parent Index then the upper bound of country weight in the MSCI India ESG Enhanced 
+Focus CTB Select Index is set at three times of the country’s weight in the Parent 
+Index. 
+ 
+^ The Optimization Constraints are applied relative to the Parent Index. 
+ 
+ 
+Infeasible Solution –  
+ 
+During the Semi-Annual or Quarterly Index Review, in the event that there is no 
+optimal solution that satisfies all the optimization constraints, the following 
+constraints will be relaxed, until an optimal solution is found: 
+• 
+The turnover constraint will be relaxed up to a maximum of 5 times of the 
+original turnover budget in steps of 5%. 
+No. 
+Parameter 
+Values 
+1 
+Minimum Constituent Weight 
+Minimum constituent weight in the 
+Screened Parent 
+2^ 
+Asset Lower Bound 
+Maximum (Minimum constituent 
+weight in the Screened Parent, 0.25 * 
+Security Weight in the Screened Parent) 
+3^ 
+Asset Upper Bound  
+Minimum (5 * Security Weight in the 
+Screened Parent, Security Weight in the 
+Screened Parent +2%) 
+4^ 
+Active Sector Weights 
++/-5% 
+5^ 
+Active Country Weights* 
++/-5% 
+6^ 
+One Way Turnover during May 
+and November Index Review 
+10% 
+7^ 
+One Way Turnover during Feb and 
+Aug Index Review 
+5% 
+8 
+Specific Risk Aversion 
+0.075 
+9 
+Common Factor Risk Aversion 
+0.0075 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 15 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+• 
+The ex-ante tracking error is relaxed up to a maximum of 5 times of the 
+original ex-ante tracking error in steps on 0.1%. 
+• 
+The one-way Index turnover constraint and the ex-ante tracking error 
+constraint are alternately relaxed until a feasible solution is achieved. 
+In the event that no optimal solution is found after the above constraint relaxations 
+are exhausted, the relevant Index will not be rebalanced for that Index Review. 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 16 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+Appendix 3: New Release of Barra® Equity Model or 
+Barra® Optimizer  
+The methodology presently uses MSCI Barra Global Equity Model for Long-Term 
+Investors (“GEMLTL”) for the optimization. A new release of the relevant Barra Equity 
+Model or Barra Optimizer may replace the former version within a suitable 
+timeframe.  
+ 
+ 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 17 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+Appendix 4: Calculation of Target Metrics 
+Calculation of GHG Intensity 
+For Parent Index constituents where the Scope 1+2+3 Emissions Intensity is not 
+available, the average Scope 1+2+3 Emissions Intensity of all the constituents of the 
+MSCI ACWI in the same Global Industry Classification Standard (GICS®5) Industry 
+Group in which the constituent belongs is used.  
+Security Level GHG Intensity = 
+ 𝑆𝑐𝑜𝑝𝑒 1 + 2 + 3 𝐶𝑎𝑟𝑏𝑜𝑛 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠∗ (1 + 𝐸𝑉𝐼𝐴𝐹)
+𝐸𝑛𝑡𝑒𝑟𝑝𝑟𝑖𝑠𝑒 𝑉𝑎𝑙𝑢𝑒+ 𝐶𝑎𝑠ℎ(𝑖𝑛 𝑀$)
+ 
+ 
+Enterprise Value Inflation Adjustment Factor (EVIAF) = 
+𝐸𝑉𝐼𝐴𝐹= (
+𝐴𝑣𝑒𝑟𝑎𝑔𝑒(𝐸𝑛𝑡𝑒𝑟𝑝𝑟𝑖𝑠𝑒 𝑉𝑎𝑙𝑢𝑒+ 𝐶𝑎𝑠ℎ)
+𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 (𝐴𝑣𝑒𝑟𝑎𝑔𝑒(𝐸𝑛𝑡𝑒𝑟𝑝𝑟𝑖𝑠𝑒 𝑉𝑎𝑙𝑢𝑒+ 𝐶𝑎𝑠ℎ)) ) −1 
+ 
+ 
+Weighted Average GHG Intensity of Parent Index = 
+ 
+∑(𝑊𝑒𝑖𝑔ℎ𝑡 𝑖𝑛 𝑃𝑎𝑟𝑒𝑛𝑡 𝐼𝑛𝑑𝑒𝑥∗ 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝐿𝑒𝑣𝑒𝑙 𝐺𝐻𝐺 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦) 
+ 
+Weighted Average GHG Intensity of Derived Index =   
+∑(𝐼𝑛𝑑𝑒𝑥 𝑊𝑒𝑖𝑔ℎ𝑡∗ 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝐿𝑒𝑣𝑒𝑙 𝐺𝐻𝐺 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦) 
+ 
+ 
+Calculation of Potential Carbon Emissions Intensity 
+For newly added companies to the Index where data is not available yet, MSCI uses 
+zero fossil fuel reserves. 
+Security Level Potential Carbon Emissions (PCE) Intensity = 
+ 𝐴𝑏𝑠𝑜𝑙𝑢𝑡𝑒 𝑃𝑜𝑡𝑒𝑛𝑡𝑖𝑎𝑙 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠∗ (1 + 𝐸𝑉𝐼𝐴𝐹)
+𝐸𝑛𝑡𝑒𝑟𝑝𝑟𝑖𝑠𝑒 𝑉𝑎𝑙𝑢𝑒+ 𝐶𝑎𝑠ℎ(𝑖𝑛 𝑀$)
+ 
+ 
+5 For further information regarding GICS, please refer to https://www.msci.com/gics 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 18 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+Weighted Average Potential Emissions Intensity of Parent Index = 
+ 
+∑(𝑊𝑒𝑖𝑔ℎ𝑡 𝑖𝑛 𝑃𝑎𝑟𝑒𝑛𝑡 𝐼𝑛𝑑𝑒𝑥∗ 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝐿𝑒𝑣𝑒𝑙 𝑃𝐶𝐸 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦) 
+ 
+Weighted Average Potential Emissions Intensity of Derived Index = 
+  
+∑(𝐼𝑛𝑑𝑒𝑥 𝑊𝑒𝑖𝑔ℎ𝑡∗ 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝐿𝑒𝑣𝑒𝑙 𝑃𝐶𝐸 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦) 
+ 
+Calculation of Average Decarbonization 
+On average, the Index follows a 7% decarbonization trajectory since the Base Date. 
+The Weighted Average GHG Intensity at the Base Date (W1) is used to compute the 
+target Weighted Average GHG Intensity at any given Quarterly Index Review (Wt) as per 
+the below formula. 
+𝑊
+𝑡= 𝑊
+1 ∗  0.93
+(𝑡−1)
+4  
+Where ‘t’ is the number of Quarterly Index Reviews since the Base Date.  
+Thus, for the 5th Quarterly Index Review since the Base Date (t=5), the target Weighted 
+Average GHG Intensity will be W1*0.93. 
+ 
+Companies Setting Targets 
+Relative to their corresponding Parent Index, the Index requires a minimum 20% 
+increase in the aggregate weight of companies setting emissions reduction targets  
+• 
+companies publishing emissions reduction targets 
+• 
+companies publishing their annual emissions and  
+• 
+Companies reducing their GHG intensity by 7% over each of the last 3 years  
+ 
+Calculation of Green Revenue to Fossil fuels-based Revenue Multiple 
+Green Revenue 
+For each constituent in the Parent Index, the Green Revenue% is calculated as the 
+cumulative revenue (%) from the six Clean Tech themes which are as follows: 
+• 
+Alternative Energy – products and services that support the transmission, 
+distribution and generation of renewable energy and alternative fuels to 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 19 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+reduce carbon and pollutant emissions in supporting affordable and clean 
+energy to combat climate change.  
+• 
+Energy Efficiency – products, and services that support the maximization of 
+productivity in labor, transportation, power and domestic applications with 
+minimal energy consumption to ensure universal access to affordable, 
+reliable and modern energy services.  
+• 
+Sustainable Water – products, services, infrastructure projects and 
+technologies that resolve water scarcity and water quality issues, through 
+minimizing and monitoring current water demand, improving the quality and 
+availability of water supply to improve resource management in both 
+domestic and industrial use.  
+• 
+Green Building – design, construction, redevelopment, retrofitting, or 
+acquisition of green-certified properties to promote mechanisms for raising 
+capacity for effective climate change mitigation and adaptation.  
+• 
+Pollution Prevention – products, services, infrastructure projects and 
+technologies that reduces volume of waste materials through recycling, 
+minimizes introduction of toxic substances, and offers remediation of 
+existing contaminants such as heavy metals and organic pollutants in 
+various environmental media to significantly address pollution in all levels 
+and its negative effects.  
+• 
+Sustainable Agriculture - revenues from forest and agricultural products that 
+meet environmental and organic certification requirements to address 
+significantly biodiversity loss, pollution, land disturbance, and water overuse. 
+The Weighted Average Green Revenue% is calculated as:  
+= ∑(𝑊𝑒𝑖𝑔ℎ𝑡 𝑖𝑛 𝐼𝑛𝑑𝑒𝑥∗ 𝐺𝑟𝑒𝑒𝑛 𝑅𝑒𝑣𝑒𝑛𝑢𝑒%) 
+Fossil fuels-based Revenue 
+For each constituent in the Parent Index, the Fossil fuels-based Revenue% is 
+calculated as the cumulative revenue (%) from the following sources: 
+• 
+Revenue% (either reported or estimated) from the mining of thermal coal 
+(including lignite, bituminous, anthracite and steam coal) and its sale to 
+external parties. It excludes revenue from metallurgical coal, coal mined for 
+internal power generation (e.g. in the case of vertically integrated power 
+producers), intra-company sales of mined thermal coal and revenue from 
+coal trading (either reported or estimated). 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 20 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+• 
+Revenue% from the extraction, production and refining of Conventional and 
+Unconventional Oil & Gas. Conventional Oil and Gas includes Arctic 
+onshore/offshore, deep water, shallow water and other onshore/offshore. 
+Unconventional Oil and Gas includes oil sands, oil shale (kerogen-rich 
+deposits), shale gas, shale oil, coal seam gas, and coal bed methane. 
+• 
+Revenue% from thermal coal based power generation, liquid fuel based 
+power generation and natural gas based power generation. 
+The Weighted Average Fossil fuels-based Revenue% is calculated as:  
+= ∑(𝑊𝑒𝑖𝑔ℎ𝑡 𝑖𝑛 𝐼𝑛𝑑𝑒𝑥∗ 𝐹𝑜𝑠𝑠𝑖𝑙 𝑓𝑢𝑒𝑙𝑠−𝑏𝑎𝑠𝑒𝑑 𝑅𝑒𝑣𝑒𝑛𝑢𝑒%) 
+The Green Revenues to Fossil fuels-based Revenues multiple for either the Parent 
+Index or the Index is calculated as a ratio of the Weighted Average Green Revenue to 
+the Weighted Average Fossil fuels-based Revenue as per the formula below: 
+= 
+𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑 𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝐺𝑟𝑒𝑒𝑛 𝑅𝑒𝑣𝑒𝑛𝑢𝑒%
+𝑊𝑒𝑖𝑔ℎ𝑡𝑒𝑑 𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝐹𝑜𝑠𝑠𝑖𝑙 𝑓𝑢𝑒𝑙𝑠−𝑏𝑎𝑠𝑒𝑑𝑅𝑒𝑣𝑒𝑛𝑢𝑒% 
+ 
+Climate Impact Sectors 
+NACE6 is the European Union’s classification of economic activities. As per the draft 
+DA, stocks in the NACE Section codes A, B, C, D, E, F, G, H, L are classified as “High 
+Climate Impact” sector and other stocks are classified ‘Low Climate Impact’ sector. 
+The GICS Sub-Industry code for each security is mapped to the corresponding 
+“Climate Impact Sector” using a mapping. This mapping is constructed in the 
+following steps: 
+1. MSCI has published a mapping7 between the NACE classes and GICS Sub-
+Industry.  
+2. For each GICS Sub-Industry, the number of NACE classes which fall under the 
+High Climate Impact Sector (say the number of classes is NH) and Low 
+Climate Impact Sector (say the number of classes is NL) is identified. 
+3. If all the NACE classes for a given GICS Sub-Industry are identified in the High 
+Climate Impact Sector (NL = 0), then the GICS Sub-Industry is mapped to the 
+ 
+6 For further details regarding NACE, please refer to https://ec.europa.eu/eurostat/statistics-
+explained/index.php?title=NACE_background 
+7 This mapping is available in the Handbook of Climate Transition Benchmarks, Paris-Aligned Benchmark and Benchmarks’ 
+ESG Disclosures 
+
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+ 
+MSCI.COM | PAGE 21 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+High Climate Impact Sector. Conversely, if all the NACE classes for a given 
+GICS Sub-Industry are identified in the Low Climate Impact Sector (NH = 0) 
+then the GICS Sub-Industry is mapped to the Low Climate Impact Sector. 
+4. In case a GICS Sub-Industry is mapped to some NACE classes in the High 
+Climate Impact Sector and the others in the Low Climate Impact Sector, the 
+GICS Industry is mapped to the Climate Impact Sector in the following 
+manner: 
+a. NH >= NL: If the number of NACE classes in the High Climate Impact 
+Sector is at least equivalent to the number of NACE classes in the 
+Low Climate Impact Sector, the GICS Sub-Industry is mapped to the 
+High Climate Impact Sector. 
+b. NH < NL: If the number of NACE classes in the High Climate Impact 
+Sector is less than the number of NACE classes in the Low Climate 
+Impact Sector, the GICS Sub-Industry is mapped to the Low Climate 
+Impact Sector. 
+Using the GICS Sub-Industry to Climate Impact Sector mapping created in Step 4, and 
+the security-level GICS Sub-Industry, each security in the Parent Index is classified in 
+either High Climate Impact Sector or Low Climate Impact Sector. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+MSCI India ESG ENHANCED FOCUS CTB SELECT INDEX | September 2022 
+MSCI.COM | PAGE 22 OF 23 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+ 
+AMERICAS 
+ 
+Americas 
+1 888 588 4567 * 
+Atlanta  
++ 1 404 551 3212 
+Boston  
++ 1 617 532 0920 
+Chicago 
++ 1 312 675 0545 
+Monterrey 
++ 52 81 1253 4020 
+New York 
++ 1 212 804 3901 
+San Francisco + 1 415 836 8800 
+São Paulo 
++ 55 11 3706 1360 
+Toronto 
++ 1 416 628 1007 
+ 
+ 
+EUROPE, MIDDLE EAST & AFRICA 
+ 
+Cape Town 
++ 27 21 673 0100 
+Frankfurt 
++ 49 69 133 859 00 
+Geneva  
++ 41 22 817 9777 
+London 
+ 
++ 44 20 7618 2222 
+Milan  
++ 39 02 5849 0415 
+Paris 
+ 
+0800 91 59 17 * 
+ 
+ 
+ASIA PACIFIC 
+ 
+China North 
+10800 852 1032 * 
+China South 
+10800 152 1032 * 
+Hong Kong 
++ 852 2844 9333 
+Mumbai 
++ 91 22 6784 9160 
+Seoul  
+00798 8521 3392 * 
+Singapore 
+800 852 3749 * 
+Sydney  
++ 61 2 9033 9333 
+Taipei  
+008 0112 7513 * 
+Thailand 
+0018 0015 6207 7181 * 
+Tokyo  
++ 81 3 5290 1555 
+ 
+ABOUT MSCI 
+ 
+MSCI is a leader provider of critical 
+decision support tools and services for 
+the global investment community. With 
+over 50 years of expertise in research, 
+data, and technology, we power better 
+investment decisions by enabling clients 
+to understand and analyze key drivers of 
+risk and return and confidently build 
+more effective portfolios. We create 
+industry-leading research-enhanced 
+solutions that clients use to gain insight 
+into and improve transparency across 
+the investment process. 
+ 
+To learn more, please visit 
+www.msci.com. 
+ 
+The process for submitting a formal 
+Index complaint can be found on the 
+Index regulation page of MSCI’s website 
+at: https://www.msci.com/Index-
+regulation. 
+* =  toll free 
+ 
+Contact us 
+ 
+clientservice@msci.com 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 23 OF 23 
+© 2022 MSCI Inc. All rights reserved. 
+ 
+Notice and disclaimer 
+ 
+This document and all of the information contained in it, including without limitation all text, data, graphs, charts (collectively, the “Information”) is the property of MSCI Inc. or its subsidiaries 
+(collectively, “MSCI”), or MSCI’s licensors, direct or indirect suppliers or any third party involved in making or compiling any Information (collectively, with MSCI, the “Information Providers”) 
+and is provided for informational purposes only.  The Information may not be modified, reverse-engineered, reproduced or redisseminated in whole or in part without prior written permission 
+from MSCI. All rights in the Information are reserved by MSCI and/or its Information Providers. 
+The Information may not be used to create derivative works or to verify or correct other data or information.   For example (but without limitation), the Information may not be used to create 
+Indexes, databases, risk models, analytics, software, or in connection with the issuing, offering, sponsoring, managing or marketing of any securities, portfolios, financial products or other 
+investment vehicles utilizing or based on, linked to, tracking or otherwise derived from the Information or any other MSCI data, information, products or services.   
+The user of the Information assumes the entire risk of any use it may make or permit to be made of the Information.  NONE OF THE INFORMATION PROVIDERS MAKES ANY EXPRESS OR 
+IMPLIED WARRANTIES OR REPRESENTATIONS WITH RESPECT TO THE INFORMATION (OR THE RESULTS TO BE OBTAINED BY THE USE THEREOF), AND TO THE MAXIMUM EXTENT 
+PERMITTED BY APPLICABLE LAW, EACH INFORMATION PROVIDER EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES (INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES 
+OF ORIGINALITY, ACCURACY, TIMELINESS, NON-INFRINGEMENT, COMPLETENESS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE) WITH RESPECT TO ANY OF THE 
+INFORMATION. 
+Without limiting any of the foregoing and to the maximum extent permitted by applicable law, in no event shall any Information Provider have any liability regarding any of the Information 
+for any direct, indirect, special, punitive, consequential (including lost profits) or any other damages even if notified of the possibility of such damages. The foregoing shall not exclude or 
+limit any liability that may not by applicable law be excluded or limited, including without limitation (as applicable), any liability for death or personal injury to the extent that such injury results 
+from the negligence or willful default of itself, its servants, agents or sub-contractors.   
+Information containing any historical information, data or analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction.  Past 
+performance does not guarantee future results.   
+The Information should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment 
+and other business decisions.  All Information is impersonal and not tailored to the needs of any person, entity or group of persons. 
+None of the Information constitutes an offer to sell (or a solicitation of an offer to buy), any security, financial product or other investment vehicle or any trading strategy.  
+It is not possible to invest directly in an Index.  Exposure to an asset class or trading strategy or other category represented by an Index is only available through third party investable 
+instruments (if any) based on that Index.   MSCI does not issue, sponsor, endorse, market, offer, review or otherwise express any opinion regarding any fund, ETF, derivative or other security, 
+investment, financial product or trading strategy that is based on, linked to or seeks to provide an investment return related to the performance of any MSCI Index (collectively, “Index Linked 
+Investments”). MSCI makes no assurance that any Index Linked Investments will accurately track Index performance or provide positive investment returns.  MSCI Inc. is not an investment 
+adviser or fiduciary and MSCI makes no representation regarding the advisability of investing in any Index Linked Investments. 
+Index returns do not represent the results of actual trading of investible assets/securities. MSCI maintains and calculates Indexes, but does not manage actual assets. Index returns do not 
+reflect payment of any sales charges or fees an investor may pay to purchase the securities underlying the Index or Index Linked Investments. The imposition of these fees and charges 
+would cause the performance of an Index Linked Investment to be different than the MSCI Index performance. 
+The Information may contain back tested data.  Back-tested performance is not actual performance, but is hypothetical.  There are frequently material differences between back tested 
+performance results and actual results subsequently achieved by any investment strategy.   
+Constituents of MSCI equity Indexes are listed companies, which are included in or excluded from the Indexes according to the application of the relevant Index methodologies. Accordingly, 
+constituents in MSCI equity Indexes may include MSCI Inc., clients of MSCI or suppliers to MSCI.  Inclusion of a security within an MSCI Index is not a recommendation by MSCI to buy, sell, 
+or hold such security, nor is it considered to be investment advice. 
+Data and information produced by various affiliates of MSCI Inc., including MSCI ESG Research LLC and Barra LLC, may be used in calculating certain MSCI Indexes.  More information can 
+be found in the relevant Index methodologies on www.msci.com.  
+MSCI receives compensation in connection with licensing its Indexes to third parties.  MSCI Inc.’s revenue includes fees based on assets in Index Linked Investments. Information can be 
+found in MSCI Inc.’s company filings on the Investor Relations section of www.msci.com. 
+MSCI ESG Research LLC is a Registered Investment Adviser under the Investment Advisers Act of 1940 and a subsidiary of MSCI Inc.  Except with respect to any applicable products or 
+services from MSCI ESG Research, neither MSCI nor any of its products or services recommends, endorses, approves or otherwise expresses any opinion regarding any issuer, securities, 
+financial products or instruments or trading strategies and MSCI’s products or services are not intended to constitute investment advice or a recommendation to make (or refrain from 
+making) any kind of investment decision and may not be relied on as such. Issuers mentioned or included in any MSCI ESG Research materials may include MSCI Inc., clients of MSCI or 
+suppliers to MSCI, and may also purchase research or other products or services from MSCI ESG Research.  MSCI ESG Research materials, including materials utilized in any MSCI ESG 
+Indexes or other products, have not been submitted to, nor received approval from, the United States Securities and Exchange Commission or any other regulatory body. 
+Any use of or access to products, services or information of MSCI requires a license from MSCI. MSCI, Barra, RiskMetrics, IPD and other MSCI brands and product names are the trademarks, 
+service marks, or registered trademarks of MSCI or its subsidiaries in the United States and other jurisdictions.  The Global Industry Classification Standard (GICS) was developed by and is 
+the exclusive property of MSCI and Standard & Poor’s.  “Global Industry Classification Standard (GICS)” is a service mark of MSCI and Standard & Poor’s. 
+MIFID2/MIFIR notice: MSCI ESG Research LLC does not distribute or act as an intermediary for financial instruments or structured deposits, nor does it deal on its own account, provide 
+execution services for others or manage client accounts. No MSCI ESG Research product or service supports, promotes or is intended to support or promote any such activity. MSCI ESG 
+Research is an independent provider of ESG data, reports and ratings based on published methodologies and available to clients on a subscription basis.  We do not provide custom or one-
+off ratings or recommendations of securities or other financial instruments upon request. 
+For information about how MSCI collects and uses personal data, please refer to our Privacy Notice at https://www.msci.com/privacy-pledge. 
+ 
+

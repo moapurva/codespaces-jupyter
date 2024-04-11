@@ -1,0 +1,1811 @@
+Page count: 22
+Metadata: {'format': 'PDF 1.7', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Adobe InDesign 15.0 (Macintosh)', 'producer': 'Adobe PDF Library 15.0', 'creationDate': "D:20200807112811+01'00'", 'modDate': "D:20200807112849+01'00'", 'trapped': '', 'encryption': None}
+Measuring climate risk
+in real estate portfolios
+18
+How COVID-19 could impact 
+private real estate values
+12
+What’s driven capital growth 
+in real estate portfolios?
+05
+Real Estate  
+ 
+Research Snapshot
+2020 Part 1
+
+2
+Introduction
+t the start of the year I suggested that 
+2020 may prove to be a watershed 
+year in terms of the way investors 
+consider real estate as an asset class. 
+On the face of it, it seems that due to 
+the ongoing COVID-19 pandemic I may have been 
+right, albeit for entirely different reasons. 
+No one could have predicted just how disruptive and 
+broad-based the impact of the COVID-19 pandemic 
+was going to be. However, the ensuing crisis does 
+highlight how real estate is inextricably linked to 
+other financial markets, the broader economy and 
+society around it. These links are at the heart of the 
+emerging trends we identified for 2020.
+The emerging trends span a broad range of topics, 
+each having the potential to have a profound 
+impact on real estate investing. They all appear 
+more relevant, rather than less so in the context of 
+COVID-19. For instance, the first of the five trends 
+focuses on Climate Risk. Some commentators have 
+raised concerns that climate change may take a 
+back seat whilst society grapples with coronavirus. 
+However, our recent discussions with real estate 
+asset owners and managers suggest increased 
+focus on addressing climate change within their 
+investment decision making processes. This 
+increasing relevance runs right the way through 
+to the fifth trend: Real Estate Doesn’t Exist in in a 
+Vacuum. During periods of economic and financial 
+market disruption, the performance of property 
+portfolios have historically come under severe 
+stress. Investors are thirsty for analysis and insight 
+about what risk factors they are exposed to across 
+their multi-asset portfolios and how these are 
+driving their real estate returns as we navigate 
+through this turning point.
+A
+WILL ROBSON
+Executive 
+Director,  
+Global Head  
+of Real Estate  
+Solutions 
+Research
+Welcome to the MSCI Real Estate Research Snapshot: 
+a compendium of the best applied research and 
+thought pieces since the beginning of the year
+
+3
+Investors are thirsty for analysis and
+insight about the risk factors they  
+are exposed to
+Whilst the nature of the research we have published 
+through the first half of 2020 has tilted its focus 
+toward the COVID-19 crisis, all the research in this 
+snapshot still relate to the emerging trends we set 
+out at the start of 2020: 
+Climate risk: getting to the bottom line
+From abstract to urgent; why climate risk is today’s 
+priority even in the face of COVID-19...
+Is your property portfolio fit for a society that is 
+decarbonising? Have you considered how attractive 
+your properties may be in a world experiencing 
+climate change? Beyond protecting against acute, 
+physical risks like wildfire, or even safe guarding 
+for longer-term chronic risk, such as rising sea 
+levels... climate change presents significant and 
+perhaps more immediate transitional risk for real 
+estate investors. Improved financial metrics can 
+be essential to embed such risk analysis into 
+investment decision making.
+Places are for people:  
+social impact investing 
+Where do social impacts factor into your investment 
+process? Inner-city regeneration projects can be 
+beneficial for both investors and society, increasing 
+local employment, or perhaps creating more 
+affordable housing. On the flip-side… a city’s social 
+issues effect their attractiveness to potential 
+inhabitants and may influence asset returns. 
+COVID-19 has only highlighted the relevance of public 
+health resilience at city, state and national levels. 
+The many dimensions of real estate risk
+Top-down vs. bottom-up analysis:  
+a meeting of minds…
+You work hard to analyze and manage specific risks 
+to your assets. But do you ever feel like you are 
+only seeing half the picture? With real estate now 
+occupying a greater slice of asset-class portfolios, 
+investors may wish to monitor the effects of high-
+level macro issues such as the economic impact 
+of COVID-19 in tandem with asset-specific risk 
+analysis to evaluate a fuller picture.
+Beyond location, location, location
+What lies beneath: there is more to real estate 
+performance than location and purpose
+Do physical asset and cash-flow characteristics 
+factor into your top-down, strategy formation? 
+Nonmarket performance drivers such as lease 
+length or vacancy are often no longer considered 
+idiosyncratic to individual assets and attributed 
+to stock selection. With rental markets becoming 
+weaker across many markets as a result of 
+COVID-19, the systematic risk associated with lease 
+length is becoming clearer. As increasing data is 
+generated, and technology developed, many more 
+drivers of performance beyond sector and geography 
+will be measured and managed systematically.
+Everything is relative,  
+and only that is absolute
+How market forces impact the asset  
+and the portfolio...
+When it comes to your real estate investments, 
+context may be key to the perception of ‘good’ 
+performance – especially during such turbulent 
+times as we are now facing. What level of risk did 
+you take? How much did the market buoy returns? 
+How did the real estate help diversify the broader 
+portfolio? Investors may seek answers to these 
+questions by relative market analysis within and 
+across asset classes. To do so, real estate investors 
+may need to evolve to take their data and analytics 
+to the next level. 
+ 
+
+4
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+Contents
+16
+COVID-19 and real estate:  
+the devil is in the dispersion
+14
+Real estate asset selection mattered  
+— especially in a crisis
+18
+Measuring climate risk  
+in real estate portfolios	
+07
+Real estate is about more than location  
+during uncertain times
+05
+What’s driven capital growth  
+in real estate portfolios?
+10
+What out-of-cycle write-downs  
+may mean for real estate yields	
+12
+How could COVID-19 impact  
+private real estate values?
+
+5
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+What’s driven capital 
+growth in real estate 
+portfolios?
+an investors really know what has driven the 
+performance of real estate portfolios? Capital-
+growth decomposition — i.e., breaking capital 
+growth into drivers like yield movements and 
+income growth — may help answer that question.
+Capital growth helps tell the story  
+of portfolio performance
+Capital growth has historically been more volatile and 
+less predictable than income return in MSCI’s private real 
+estate indexes. For that reason, there is often a demand to 
+better understand what has driven capital growth. Using a 
+simulated portfolio of U.K. property assets and measuring 
+its performance against the MSCI UK Quarterly Property 
+Index, we demonstrate how capital-growth decomposition 
+can shed light on the drivers of portfolio performance. 
+In this exercise, we decomposed capital growth into four 
+components based on equivalent yield.1
+The first component, active-management impact, represents 
+how much transactions and developments contributed to 
+capital growth. Equivalent-yield impact shows how much the 
+change in asset values was attributable to movements in 
+equivalent yield. Income impact represents how much 
+of the change in asset values came from growth in 
+initial and expected rental income. (Added together, 
+the equivalent-yield impact and income impact 
+show the total change in asset values.) And the 
+investment impact, the difference between 
+asset-value growth and capital growth, 
+equals the amount of capital expenditure 
+reinvested in the hypothetical portfolio.
+1
+As this blog post examines a simulated 
+U.K. portfolio, our decomposition is 
+based on equivalent yield, the most 
+commonly used yield in the 
+U.K. market. Capital-growth 
+decomposition could also  
+be performed using  
+other yields.
+BRYAN REID 
+Executive Director, 
+Real Estate 
+Solutions 
+Research
+C
+5
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+	
+] 
+In real estate investing, 
+capital growth has 
+historically been more 
+volatile and less predictable 
+than income return and has 
+therefore been responsible 
+for most of the observed 
+variability in total returns.
+	
+] 
+Investors looking to monitor 
+and evaluate their portfolio’s 
+capital growth may use 
+a suitable benchmark to 
+calculate relative returns, 
+which can help identify areas 
+of under- or outperformance.
+	
+] 
+Decomposing relative capital 
+ 
+growth provided additional 
+context that helped shed 
+light on what has driven 
+relative performance, and  
+how much could be 
+attributed to variables like 
+yield compression  
+and income growth.
+
+6
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+In the example here (Exhibit 1), we observe that the 
+simulated portfolio achieved higher capital growth 
+than the benchmark over a three-year period ended 
+September 2019. The drivers of capital growth in the 
+portfolio also differed from those of the benchmark. 
+For the benchmark, the largest driver was income 
+impact; but in the simulated portfolio, it was 
+equivalent-yield impact that provided the largest 
+positive contribution. Active-management impact 
+also played a bigger role for the portfolio than it did 
+for the benchmark.
+From these results we can infer that the 
+hypothetical portfolio outperformed the market in 
+terms of transaction and development activity, as 
+well as in terms of equivalent-yield compression, 
+but that income growth acted as a drag on relative 
+performance. An investor reviewing these results 
+may decide to increase their focus on income 
+growth in the portfolio. The fact that the primary 
+driver for the simulated portfolio was different from 
+that of the benchmark provides a useful illustration 
+of why it may not always make sense to try to 
+explain the performance of a portfolio using broader 
+market trends.
+The story can differ within the portfolio
+We next broke down the hypothetical portfolio and 
+benchmark into consistent segmentations to delve 
+even deeper into what drove relative capital growth 
+for different parts of the portfolio (Exhibit 2). The 
+exhibit segments properties by sector to show how 
+the drivers of relative capital growth varied within 
+the simulated portfolio. As the exhibit highlights, the 
+impacts’ magnitudes and directions can vary, so it 
+may be useful to understand these more granular 
+trends. For example, unlike the overall portfolio, the 
+office exposure actually outperformed in income 
+growth, but did not benefit as much as the wider 
+market from yield compression, suggesting that a 
+different focus may be required for this part of the 
+hypothetical portfolio.
+As the results demonstrate, decomposing capital 
+growth can show what has driven growth in a 
+hypothetical portfolio, how those drivers compare to 
+the wider market and whether there are differences 
+within the portfolio. Given the important role that 
+capital growth plays in real estate portfolios, capital-
+growth decomposition may therefore be a useful 
+part of a performance-benchmarking process. 
+3.5%
+3.0%
+2.5%
+2.0%
+2.0%
+1.5%
+1.5%
+1.0%
+1.0%
+0.5%
+0.5%
+-0.5%
+-0.5%
+-1.0%
+-1.0%
+Exhibit 1: Decomposing capital growth shows drivers of return
+Exhibit 2: Segmenting portfolios for additional insight
+3-year annualized return / impact
+3-year annualized relative return / impact
+0.0%
+0.0%
+6
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+Active management impact
+Relative active management impact
+Income impact (equivalent yield)
+It may not always make sense to try to 
+explain the performance of a portfolio 
+using broader market trends
+Relative income impact (equivalent yield)
+Capital growth
+Relative capital growth
+Equivalent yield impact
+Relative equivalent 
+yield impact
+Investment impact
+Relative investment impact
+A simulated U.K. real estate portfolio’s three-year annualized figures  
+to September 2019. Source: MSCI Real Estate Enterprise Analytics
+A simulated U.K. real estate portfolio’s three-year annualized figures  
+to September 2019. Source: MSCI Real Estate Enterprise Analytics
+Benchmark
+All property
+Retail
+Office
+Industrial
+Portfolio
+Relative
+2%
+0.5%
+0.1%
+0.5%
+2.5%
+-0.6%
+1.3%
+
+7
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+Real estate is about 
+more than location 
+during uncertain times
+n 1956, California’s Van Nuys News 
+proclaimed the three most important 
+things about real estate to be location, 
+location, location.1 In the 64 years 
+since, asset-specific risk and high-level 
+macro issues have become increasingly important 
+considerations, as have understanding what drives 
+risk and return in this complex and diverse asset 
+class and how it correlates with others.
+Fast-improving technology and the evolution 
+of big data have meant that a higher volume of 
+information can be processed more efficiently in 
+helping investors understand risk and return drivers 
+and aid portfolio construction. Lease structures and 
+the quality of tenants have often been among the 
+key drivers of growth and resilience of cash flows. 
+This blog investigates the impact lease length has 
+had on relative investment performance in both 
+rising and declining markets. The ongoing global 
+spread and negative impact of the novel coronavirus 
+may be an example of a scenario where the 
+significance of lease lengths could come to the fore.
+Real estate investors’ white WALE?
+Historically, past performance in real estate has 
+primarily been explained in terms of property type 
+and geographic exposure. But there are many other 
+potential factors that can help explain real estate 
+performance. Our analysis found that lease length 
+has been one such cyclical factor.
+I
+7
+	
+] 
+Investors often think of their real 
+estate exposure in terms of property 
+type and geography, but there are 
+many other potential factors that 
+may help explain performance.
+	
+] 
+Our analysis shows lease length 
+has historically been one such 
+cyclical factor, with long leases 
+having provided a performance 
+boost during periods of weakening 
+rental growth – an insight that may 
+prove particularly relevant in today’s 
+economic environment.
+	
+] 
+Investors may wish to benchmark 
+more than just property type and 
+sector exposure.
+NIEL HARMSE 
+Senior Associate, 
+Real Estate 
+Solutions 
+Research
+
+8
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+The exhibit below shows the annual total return of 
+the MSCI UK Quarterly Property Index segmented 
+by remaining lease term. For the purposes of the 
+analysis, shorter- and longer-lease properties are 
+defined as those with a remaining lease term in the 
+bottom and top quartiles per period, respectively.
+Looking back to 2008, longer-lease real estate 
+assets provided a performance boost during 
+declining market periods, since properties with 
+a longer weighted-average lease expiry (WALE) 
+were likely to be more insulated from negative 
+reversionary potential. On the flipside, longer-lease 
+assets depressed returns during rising markets, as 
+properties with a drawn-out expiration profile were 
+less able to capture reversionary upside through 
+active management intervention, compared to 
+properties with a shorter WALE.
+In the five-year period after the global financial 
+crisis, long-lease properties in the U.K. delivered 
+an annualized total return of 9.6%, compared to 
+the 5.2% of shorter-lease properties. By contrast, 
+in the period from the first quarter of 2014 to the 
+second quarter of 2016, shorter-lease assets stole 
+the limelight, courtesy of buoyant growth in market 
+rentals. This came as the U.K. economy grew at its 
+fastest rate for nine years in 2014. From the second 
+quarter 2016 to fourth quarter 2019, longer-lease 
+assets provided an extra 100 basis points (bps) in 
+annual returns, aided by their reduced exposure to 
+dilutionary lease events. Rental growth and returns 
+were already weakening ahead of the coronavirus 
+outbreak in the U.K., with longer leases beginning to 
+outperform. We may see this trend accelerate as the 
+pandemic begins to impact rental income (refer to 
+chart below).
+Exhibit 3: Longer leases were a boost during weakening markets but a drag during rising markets
+UK quarterly property index – total return (annual). All property; standing investments; by lease length
+-30%
+-9%
+10%
+3%
+-20%
+-6%
+20%
+6%
+-10%
+-3%
+30%
+9%
+0%
+0%
+Dec 08
+Jun 18
+Jun 19
+Dec 18
+Dec 19
+Jun 10
+Jun 13
+Jun 15
+Jun 11
+Jun 16
+Jun 12
+Jun 14
+Jun 17
+Dec 10
+Dec 15
+Dec 11
+Dec 13
+Dec 16
+Dec 12
+Dec 14
+Dec 17
+Jun 09
+Dec 09
+Source: MSCI Real Estate Global Intel
+Looking back to 2008, 
+longer-lease real estate
+assets provided a 
+performance boost during
+declining market periods
+Long lease outperformance
+Longer leases (upper quartile range)
+Market rental growth (RH axis)
+Short lease outperformance
+Shorter leases (lower quartile range)
+
+1 
+Safire, W. ‘On Language: Location, Location, Location.’  
+New York Times, Jun. 26, 2009.
+2 According to the MSCI UK Quarterly Property Index
+9
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+Lease length improved sector returns
+After the U.K. Brexit referendum, industrial 
+property in the U.K. has had a strong run, 
+delivering an annualized total return of 13.2% 
+from June 2016 to December 2019, compared 
+to the retail property sector’s -0.3%.2 However, 
+retail properties with actively managed lease 
+lengths, the outcome would likely have been 
+more favorable. Over the same analysis period, 
+long-lease retail property delivered an annualized 
+total return of 5.3%, 380 bps in excess of the 1.5% 
+annual return of shorter-lease retail assets, as its 
+exposure to negative rental reversions would have 
+been more contained. By contrast, shorter-lease 
+industrial assets, with an annualized total return 
+of 14.9%, outperformed longer-lease industrial 
+property, which produced an 11.3% annualized 
+return, based on the latter’s higher exposure to 
+accelerating market-rental growth.
+The exhibit to the left shows the decomposition 
+of the relative capital growth of long versus 
+short leases for the retail and industrial sectors, 
+annualized over various time periods. In more recent 
+periods, much of the respective outperformance 
+of shorter-leased industrial and longer-leased 
+retail property was due to superior fundamental 
+income growth as opposed to yield-compression-
+driven capital growth. This suggests that the 
+relative exposure to potential rental reversion may 
+have been the more significant driver of relative 
+performance during the analysis period.
+Assessing performance from all angles
+With real estate now occupying a greater slice 
+of multi-asset-class portfolios, investors have 
+been looking beyond inherent property attributes 
+such as sector and location as the key drivers 
+of investment performance. In the same way 
+that factor analysis has helped explain more 
+systematic drivers of performance in the broader 
+equities market, a similar analysis might be made 
+of real estate assets. Factors such as lease 
+length, which were previously perceived to have 
+been attributed to idiosyncratic risk and stock 
+selection, may be more systematic drivers of 
+return than previously thought.
+There has always been a need to understand the 
+drivers of risk and return in investment portfolios; 
+but as investors face an increasingly uncertain 
+COVID-19-impacted world, the more factors we 
+can analyze to understand performance and help 
+position portfolios, the better. 
+Exhibit 4: Income growth mattered most
+Decomposition of relative capital growth – 
+performance of long leases over short leases
+0%
+1%
+-1%
+-2%
+-3%
+3%
+6%
+2%
+5%
+4%
+7%
+Income impact
+Investment impact
+Capital growth
+Residual
+Yield impact
+Source: MSCI Real Estate Global Intel
+Retail
+1 year
+3 years
+Retail
+Industrial
+Industrial
+
+1 0
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+What out-of-cycle  
+write-downs may mean 
+for real estate yields
+s the COVID-19 pandemic continues 
+to take its human toll and disrupt 
+global economies, real estate 
+investors have been seeking to 
+understand what impact the crisis 
+could have on their portfolios. Recently, several 
+large Australian pension funds took the decision 
+to do an out-of-cycle valuation write-down on 
+their portfolios of up to 10%.¹ Using the Property 
+Council of Australia/MSCI Australia Annual 
+Property Index, we can investigate how a 10% 
+write-down compares to past asset-value declines 
+and what that might imply for yields under different 
+scenarios for net-operating-income (NOI) growth.
+Putting the 10% in historical context
+The Property Council of Australia/MSCI Australia 
+Annual Property Index dates back more than 30 
+years, to December 1984 — yet there have been 
+only two periods in which overall asset values 
+declined during that time. The first was in the early 
+1990s, when an economic recession and over-
+supply caused asset values to fall 32% (between 
+December 1989 and September 1993). The second 
+was during the 2008 global financial crisis, when 
+asset values declined 13% (between March 2008 
+and December 2009).
+During the early 1990s, we estimate that declines 
+in NOI contributed approximately -6% to the fall 
+in asset values, while repricing — as measured by 
+increases in NOI yield — contributed approximately 
+-27%. During the financial crisis, Australia’s overall 
+economy was insulated from the worst effects by a 
+natural-resources boom, which helped maintain GDP 
+growth. As a result, NOI growth remained positive 
+through the crisis, and we estimate that it provided 
+a positive 5% contribution to asset-value growth in 
+real estate portfolios. However, the disruption in 
+financial markets saw NOI yield expand from 6.0% 
+to 7.2%, contributing an estimated -17% to asset-
+value growth.
+In the context of these two past corrections, a 
+10% write-down is more comparable to what was 
+observed in the late 2000s; and if a 10% write-down 
+were applied to the overall Property Council of 
+Australia/MSCI Australia Annual Property Index, our 
+models indicate that under the same parameters, 
+values would return to levels last seen in late 2017.
+A
+BRYAN REID 
+Executive Director, 
+Real Estate 
+Solutions 
+Research
+	
+] 
+Several Australian pension funds 
+recently announced an out-of-cycle 
+valuation adjustment to their real 
+estate portfolios, writing down asset 
+values by up to 10%.
+	
+] 
+We extrapolated what this information 
+could mean for Australian real estate 
+yields under different income-growth 
+scenarios and compared the results to 
+past corrections.
+	
+] 
+A 10% write-down in our scenarios 
+could indicate that asset values 
+return to levels last seen in late 
+2017, but imply a relatively modest 
+increase in yields compared to the 
+global financial crisis or the early 
+1990s recession.
+
+1 
+Mather, J. ‘Super funds slash the value of unlisted 
+assets in ‘unique’ times.’ Australian Financial Review, 
+March 24, 2020.
+1 1
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+How would a 10% write-down 
+affect yields in this model?
+If we assume a 10% reduction in asset 
+values, we can see what that could imply 
+for NOI yields under different scenarios 
+for NOI growth. In December 2019, NOI 
+yields reached a record low of 5.0%, so 
+a 10% reduction in asset values would 
+imply an approximately 60-basis-point 
+(bp) increase in yield, assuming no NOI 
+growth under the same conditions. If, at 
+the same time, NOI were to fall by 6% (as 
+happened in the early 1990s), the implied 
+increase in NOI yield would only be 
+approximately 20 bps. But if NOI growth 
+remains positive and grows at the same 
+rate observed during the financial crisis, 
+our test implied an increase in NOI yield 
+of approximately 90 bps.
+In all three test scenarios, NOI yields 
+remain below 6% — still lower than 
+before the financial crisis. Further, the 
+increase in NOI yield, in absolute as well 
+as proportional terms, remains lower 
+than in past corrections.
+The full impact of COVID-19 on 
+real estate portfolios will take 
+time to understand
+As uncertainty over COVID-19 looms 
+over global markets, we can’t determine 
+what the full implications for real estate 
+markets will be. We used historical 
+data and scenario analysis to test 
+different possible outcomes — and 
+potentially gain a better sense of real 
+estate portfolios’ sensitivities and risks. 
+Understanding what changes in NOI 
+growth or yield could imply for asset 
+values, or vice versa, may help investors 
+gain a clearer picture of the times ahead. 
+Past corrections against different 10% write-down scenarios
+Exhibit 5: Visualizing yield movements
+5%
+8%
+7%
+6%
+9%
+Historically observed NOI yield range
+Start NOI yield
+End NOI yield
+Asset 
+value 
+growth
+NOI 
+growth
+NOI yield 
+impact
+Start 
+NOI yield
+End  
+NOI yield
+Yield 
+increase 
+(bps)
+Yield 
+increase 
+(%)
+Write-down  
+scenario 3
+Write-down  
+scenario 3
+Write-down  
+scenario 2
+Write-down  
+scenario 2
+2008  
+Financial Crisis
+2008  
+Financial Crisis
+Write-down  
+scenario 1
+Write-down  
+scenario 1
+1990s 
+recession
+1990s 
+recession
+-32%
+-27%
+-6%
+6.1%
+8.4%
+230
+38%
+-13%
+-17%
+5%
+6.0%
+7.2%
+120
+20%
+-10%
+-4%
+-6%
+5.0%
+5.2%
+20
+4%
+-10%
+-10%
+0%
+5.0%
+5.6%
+60
+12%
+-10%
+-15%
+5%
+5.0%
+5.9%
+90
+18%
+NOI yield
+
+1 2
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+How COVID-19 could 
+impact private real 
+estate values
+he COVID-19 pandemic has already 
+had a notable impact on public equity 
+markets, with the MSCI ACWI Index 
+declining by just over 20% for the 
+first quarter of 2020. By contrast, the 
+impact on private markets such as real estate has 
+been harder to establish. As a private asset class 
+with lease structures and investment-hold periods 
+that typically extend over multiple years, as well 
+as a reliance on relatively infrequent appraisals, 
+it has historically taken longer for adjustments to 
+play out.1 However, real estate has not historically 
+been immune to growth shocks. Discounted-
+cash-flow (DCF) scenarios may help investors 
+better understand the potential sensitivity of their 
+portfolios to those shocks.
+Defining and comparing  
+discounted-cash-flow scenarios
+To demonstrate this approach, we define several 
+hypothetical scenarios in the MSCI Valuation 
+Scenario Model and compare them against the 
+result of a hypothetical base case. The MSCI 
+Valuation Scenario Model is a DCF-based tool. It 
+derives cash flows based on growth expectations 
+over short, medium and long horizons, which follow 
+an auto-regressive process with mean-reverting 
+features and discounts forecast cash flows with 
+the expected risk-free rate and risk premium. By 
+comparing valuations from scenarios with varying 
+projections for growth and discount rates, the model 
+analyzes the impact of growth shocks and discount-
+rate shocks on valuations.
+BRYAN REID 
+Executive Director, 
+Real Estate 
+Solutions 
+Research 
+YANG LIU
+Executive Director, 
+MSCI Research
+T
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+	
+] 
+Longer investment horizons and a 
+reliance on appraisals may mean that 
+private real estate does not react to 
+shocks as rapidly as public markets. 
+However, this does not mean the asset 
+class is immune to those shocks.
+	
+] 
+As the COVID-19 pandemic continues 
+to take its human toll and disrupt 
+global economies, many real estate 
+investors have been seeking to 
+understand what impact the crisis 
+could have on their portfolios.
+	
+] 
+We used MSCI’s Valuation Scenario 
+Model to show how discounted-cash-
+flow models could be used to explore 
+the impact the crisis could have on 
+asset values. In the hypothetical 
+scenarios we created, asset values 
+declined between 13% and 37% 
+highlighting how sensitive the outcomes 
+can be to changes in assumptions.
+
+1 3
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+Much of the media’s discussion to date has focused 
+on the negotiations taking place between tenants 
+and landlords and the potential for landlords to 
+grant tenants relief in the form of rent deferral or 
+rental holidays. For that reason, we have built our 
+scenarios around these possibilities.
+	
+] 
+In the base case, cash flows are assumed to 
+grow at 3% per year and are discounted with a 
+risk-free rate of 1% and a risk premium of 6%.
+	
+] 
+In the first hypothetical scenario, we model a 
+rent deferral where 95% of cash flows from 
+the first six months are deferred. The risk-free 
+rate falls to 50 basis points (bps), but the risk 
+premium increases to 7%.
+	
+] 
+In the second hypothetical scenario, we model 
+a rent holiday with the same 95% reduction in 
+cash flows over the first six months but the 
+foregone income is not recovered. The risk-free 
+rate falls 50 bps, but the risk premium increases 
+to 7.5%.
+	
+] 
+The final hypothetical scenario is the same as 
+the rent holiday, but we model a more prolonged 
+slowdown by reducing medium-term growth to 
+2% and increasing the risk premium to 8%.
+Compared to the base case, under the rent-deferral 
+scenario, the model shows asset values falling 13%. 
+In the rent-holiday scenario, the model shows asset 
+values fall 24% and in the prolonged-slowdown 
+scenario, according to the model, the implied asset 
+value falls by 37%. The model also calculates a 
+cash-flow impact and a discount-rate impact, with 
+the former applying the base-case discount rate to 
+the hypothetical scenarios’ cash flows and the latter 
+applying the scenarios’ discount rate to the base-
+case cash flows.
+In the three hypothetical scenarios we’ve modeled 
+in this analysis, the impact of the changes to cash 
+flows on their own could result in asset-value 
+declines between 2% and 13%. The changes to the 
+risk-free rate and risk premiums in isolation implied a 
+reduction in asset values of 12% to 28% (Exhibit 6).
+One thing to note in this analysis is that, while much 
+of the public discussion to date has focused on 
+the potential short-term disruption to income, the 
+cash-flow impacts from the rent-deferral and rent-
+holiday scenarios, as modeled, are relatively small. 
+Reductions to longer-term cash-flow expectations 
+or changes to the discount rate had a much 
+bigger impact on the results. This illustrates why 
+some may want to consider what effects these 
+variables could have on portfolios, in addition to the 
+immediate disruptions to near-term cash flows.
+Addressing uncertainty
+With the situation evolving rapidly, there is still 
+much uncertainty about how the crisis will impact 
+the cash flows of real estate assets and financial-
+market conditions.
+The above scenarios are not meant to be predictions, 
+but to illustrate how investors can use tools like 
+the MSCI Valuation Scenario Model to explore 
+how sensitive a portfolio might be to changes in 
+assumptions about growth and discounting. This sort 
+of approach could be applied to the overall portfolio, 
+but also to different segments within a portfolio. 
+For example, the office exposure could be analyzed 
+separately to the retail exposure, or the analysis could 
+be applied to individual assets. In defining scenarios 
+for this kind of analysis, investors can draw on their 
+own internal underwriting assumptions, but the use 
+of historical market data may also be helpful. It could 
+be used to either define scenarios based on previous 
+shocks or contextualize the assumptions applied to 
+the current crisis.2 
+1 
+For example, in 21 national market corrections we explored, the 
+median peak-to-trough timing was 3.5 years. Reid, B. “What’s the 
+downside in real estate?” MSCI Blog, Oct. 4, 2019.
+2 
+For an example of how historical data can be used to provide 
+context to scenarios, see: Reid, B. “What out-of-cycle write-downs 
+may mean for real estate yields.” MSCI Blog, April 3, 2020.
+-25%
+-20%
+-30%
+-35%
+-40%
+-45%
+-10%
+5%
+-15%
+0%
+-5%
+10%
+Exhibit 6: Comparing the hypothetical scenarios to the base case  
+shows the potential impact on asset values
+Cash-flow impact
+Discount-rate impact
+Interaction
+Total
+1 3
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+Rent-deferral 
+scenario
+Rent-holiday 
+scenario
+Prolonged-slowdown 
+scenario
+
+1 4
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+Real estate asset 
+selection mattered — 
+especially in a crisis
+eal estate, along with politics and 
+sports, must be one of the world’s 
+favorite obsessions. There is often 
+plenty written about the wider 
+trends shaping real estate markets 
+and no shortage of opinions. In the current crisis 
+this may be especially true. But real estate is a 
+heterogeneous asset class: Every property is unique, 
+and no two portfolios will provide the same returns.
+Similar statements apply to individual real estate 
+portfolios, which can be shaped by a number of 
+specific factors that will influence performance 
+relative to the broader market. The use of attribution 
+analysis may help investors understand and 
+communicate their relative performance, separating 
+the impact of allocation differences from the impact 
+of asset selection within those allocations, and 
+providing the means to position performance within 
+the context of wider market trends. Our analysis 
+of historical allocation and selection scores from 
+actual portfolios suggests that asset selection may 
+have been a particularly important driver of relative 
+performance, especially in times of crisis. With the 
+COVID-19 pandemic expected to continue causing 
+considerable disruption to real estate markets, 
+attribution analysis may be a useful tool.
+Attributing relative portfolio performance
+Asset-level attribution analysis can help 
+investors understand the reasons for a portfolio’s 
+outperformance or underperformance versus 
+an index. It breaks down the relative return into 
+structure- and property-specific scores, allowing 
+the influences of submarket allocations and asset 
+selection to be distinguished.
+Specifically, attribution analysis distinguishes 
+that part of the relative return derived from the 
+portfolio’s weightings in strong or weak sectors of 
+the market (allocation), from that part derived from 
+the performance of the assets in the portfolio within 
+each segment of the market (selection).
+Using data from 94 real portfolios we explored 
+how allocation and selection scores contributed to 
+relative returns between 2008 and 2019. Over the 
+entire analysis period, selection accounted for 70% 
+of the annual tracking error between portfolios and 
+benchmarks, with its contribution ranging from a 
+low of 60% in 2018 to a high of 78% in 2016.
+R
+BRYAN REID 
+Executive Director, 
+Real Estate 
+Solutions 
+Research 
+	
+] 
+Analyzing 94 actual portfolios 
+from 2008 and 2019, we find asset 
+selection accounted for anywhere 
+between 60% and 78% of tracking 
+error between portfolios and 
+benchmarks over any given year.
+	
+] 
+During past market disruptions, such 
+as the 2008 global financial crisis, 
+variation in both allocation and 
+selection increased, but the increase 
+for selection was more pronounced.
+	
+] 
+With the COVID-19 pandemic causing 
+unprecedented disruption, attribution 
+analysis may be a useful tool for 
+helping investors understand and 
+explain what drove returns in their  
+real estate portfolios.
+
+1 5
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+During periods of market stress like the 2008 global 
+financial crisis, as the spread in relative returns 
+between portfolios increased, we observed more 
+variation in both allocation and selection scores. 
+However, the increase tended to be greater for 
+selection, meaning that it tended to account for 
+more tracking error in these years.
+Why the lower contribution  
+from allocation?
+One potential explanation for the lower contribution 
+we observed from allocation could be that real 
+portfolios are built and managed while referencing 
+benchmark weightings that may constrain the 
+allocation scores. Another explanation may lie in 
+the construction of benchmark segmentations 
+themselves. Traditionally, segmentations have 
+been built along property type and geography lines, 
+but underlying these groupings may be additional 
+systematic drivers of return that could be used 
+to construct alternative segmentations, which, if 
+implemented, could potentially increase how much 
+tracking error is explained by allocation.
+Putting portfolios into  
+a broader market context
+As strategies become more sophisticated and 
+investors demand more insight into the drivers 
+of risk and return in their portfolios, attribution 
+analysis may provide valuable insights. Our 
+analysis showed that asset selection played 
+an important role in driving the relative returns 
+of real estate portfolios from 2008 to 2019, 
+particularly during periods of disruption. With 
+the COVID-19 pandemic causing unprecedented 
+disruption, attribution analysis may be a useful 
+tool for understanding and communicating the 
+idiosyncratic aspects of portfolios. 
+Exhibit 7: Selection accounted for 60% to 78% of observed tracking error in any given year
+0%
+0%
+0%
+-5%
+-5%
+-5%
+5%
+5%
+5%
+-10%
+-10%
+-10%
+10%
+10%
+10%
+0%
+0%
+0%
+0%
+-10%
+-10%
+-10%
+-10%
+10%
+10%
+10%
+10%
+APAC
+EMEA
+NA
+2008
+2012
+2016
+2010
+2014
+2018
+2009
+2013
+2017
+2011
+2015
+2019
+Selection
+Allocation
+
+1 6
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+COVID-19 and real 
+estate: the devil is 
+in the dispersion
+s the old adage goes, economic 
+expansions don’t die of old age. 
+This most recent expansion is no 
+different. Many real estate markets 
+were showing signs of a slowdown 
+before anyone had heard of social distancing. But 
+the COVID-19 crisis seems to have been this cycle’s 
+grim reaper.
+Has this correction been similar to previous ones? 
+The 2008 global financial crisis (GFC) is an obvious 
+comparison due to its global nature. The GFC was 
+marked by synchronized declines across real estate 
+sectors. That decline stands in stark contrast to 
+today’s performance landscape, where long-running 
+structural changes to the use of retail and industrial 
+space have caused very different investment 
+outcomes over recent years. The more recent impact 
+of COVID-19 has merely accelerated these trends.
+What remains similar, though, is that the dispersion 
+of returns within underperforming sectors, such as 
+retail, is widening. This cross-sectional dispersion of 
+returns highlights the importance of asset selection 
+and taking a more granular analysis of performance 
+within segments and sectors. This way, real estate 
+investors can better understand potential drivers of 
+returns. To illustrate, we looked at data from four 
+markets in different global regions: the U.S., U.K., 
+Netherlands and Australia.
+COVID-19: a secular or pervasive  
+crisis for real estate?
+Real estate returns began declining more sharply 
+when COVID-19 started affecting global markets. As 
+we’ve noted, its real estate impact has been more 
+localized, unlike during the GFC. The key difference: 
+The drop in asset-value growth and widening 
+performance dispersion have so far been more 
+sector-specific, with retail the hardest hit, as can be 
+seen in the following exhibit (Exhibit 8).
+A combination of reduced overall consumer 
+spending, mandatory lockdowns in scores of 
+countries and significant uncertainty about the 
+future of the sector weighed heavily on retail-
+property valuations. The interquartile range¹ in 
+the following charts highlights how periods of 
+high uncertainty may be reflected in increased 
+dispersion of returns, whether with broad co-
+movement of sectors and geographies, as we 
+saw during the GFC, or on a localized basis. (For 
+example, the U.K. experienced a wider returns 
+dispersion after the Brexit referendum in June 
+2016.) The current widening of the interquartile 
+range echoes the GFC insofar as that such wide 
+dispersions, even limited to certain sectors or 
+geographies, have been uncommon outside 
+periods of significant market volatility. And it 
+reminds us that, on an asset level, real estate 
+performance can be highly varied during periods  
+of heightened uncertainty.
+FRITZ LOUW 
+Senior Associate, 
+Real Estate 
+Solutions 
+Research
+NIEL HARMSE 
+Senior Associate, 
+Real Estate 
+Solutions 
+Research
+A
+1 6
+	
+] 
+The recent market turmoil has 
+resembled the 2008 global financial 
+crisis and other volatile periods, in 
+that we have observed a widening of 
+the dispersion of returns across real 
+estate assets.
+	
+] 
+This widening spread has been most 
+pronounced in retail property — a 
+sector that was under pressure long 
+before the COVID-19 pandemic — 
+particularly in the U.K.
+	
+] 
+Given the increased dispersion of 
+returns, institutional investors may 
+wish to pay closer attention to asset 
+selection and conduct more granular 
+performance analysis.
+
+1 7
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+It is important to note that the weakness in retail 
+real estate predates the COVID-19 crisis. In all four 
+markets we examined, asset-value growth in retail 
+either peaked before the GFC or briefly surged 
+during the subsequent recovery (in the U.K.) before 
+embarking on its secular decline. In recent years 
+we’ve seen that the interquartile range of asset-
+value growth tends to spike when that growth 
+reaches a turning point or approaches zero. This 
+seems relatively more pronounced for the retail 
+sector. The relative weakness of retail versus other 
+sectors is common across all four markets — and 
+has been for quite some time.
+The devil is in the dispersion
+We are still in the early days of seeing how 
+COVID-19 may play out for real estate. The data 
+we used in this analysis was limited to the end of 
+first quarter of 2020. Many lockdowns didn’t start 
+until March, and it remains to be seen how variants 
+of continued lockdown across the globe impacted 
+each of the property sectors.
+What is, however, clear is that COVID-19 has 
+already had an unequal impact on asset classes, 
+geographies and sectors. If the individual assets 
+or property types (e.g., shopping malls in retail) 
+were more uniform within a given sector, one might 
+expect that sector’s overall returns to vary over 
+time; but one would not expect dramatic shifts in 
+the dispersion of returns, as we have seen during 
+uncertain times.
+In reality, we know that individual real estate 
+assets vary along many dimensions (income 
+duration, exposure to tenant industries and their 
+credit strength, to name just a few). Each of these 
+characteristics may determine how quickly and to 
+what extent the assets’ returns are impacted by 
+broader market movements like those created  
+by COVID-19.
+A widening performance dispersion within 
+real estate sectors and geographies reminds 
+us that not all assets are created equal within 
+these broader classifications. In particular, it is 
+a reminder that asset selection has long played 
+an important role in the real estate investment 
+process — and that an in-depth analysis of more 
+granular data, at the sub-sector or even asset level, 
+can help investors understand the factors that 
+really drove performance. 
+1 
+Interquartile range is the difference between the 75th and 25th 
+percentiles of a distribution.
+-20%
+10%
+10%
+-40%
+-10%
+20%
+-30%
+0%
+0%
+5%
+15%
+20%
+25%
+Exhibit 8: Asset-value growth slowed and dispersion widened, especially in retail
+Mar-00
+Mar-00
+Mar-00
+Mar-00
+Mar-05
+Mar-05
+Mar-05
+Mar-05
+Mar-10
+Mar-10
+Mar-10
+Mar-10
+Retail
+Office
+Industrial
+Mar-15
+Mar-15
+Mar-15
+Mar-15
+All sectors excluding retail 
+Mar-20
+Mar-20
+Mar-20
+Mar-20
+Asset value growth
+Asset value growth:
+interquartile range
+We are still in the early days of seeing 
+how COVID-19 may play out for real estate
+Source: MSCI Real Estate
+Australia
+Netherlands
+USA
+UK
+
+1 8
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+any assets investors own can only 
+figuratively be underwater when a 
+company becomes insolvent or a 
+stock loses all its value. But for real 
+estate, with long-life fixed assets, there 
+is — literally — a real possibility a building might 
+one day be underwater because of climate change. 
+Given this, investors in real estate may benefit from 
+a better understanding of potential physical and 
+transition risks. 
+Using the MSCI Real Estate Climate Value-at-Risk 
+(Climate VaR) model we demonstrate how the 
+nature and magnitude of physical risks may differ 
+across assets and portfolios; and highlight the 
+importance of considering transition risk.1
+The different types of climate risk
+In general, climate risk considerations in real 
+estate can be divided into two categories, physical 
+risk and transition risk (also known as regulatory 
+risk). Physical risks are related to the damage to 
+buildings from extreme weather events caused 
+by climate change. These changing weather 
+patterns could cause both chronic (steady long-
+term) and acute (severe short-term) effects that 
+can vary depending on geographic location and 
+could increase the costs faced by investors. 
+Transition risks could arise from efforts to address 
+climate change and the transition to a low-carbon 
+economy. They are based on the carbon intensity 
+of the assets and estimate the potential costs of 
+meeting carbon-reduction targets.
+Both physical and transition risk can be assessed 
+under different scenarios. When combined they 
+can provide an estimate of how much of the capital 
+value in a real estate portfolio may be at risk due to 
+climate change. However, investors may still need 
+to drill down into the specific hazard exposures 
+and how financially significant any associated 
+costs could be to fully understand the investment 
+implications of climate risk.
+	
+] 
+As a long-term asset class 
+with fixed asset locations, 
+private real estate may be 
+especially vulnerable to both 
+physical and transition risks 
+from climate change. 
+	
+] 
+Real estate portfolios may 
+be exposed to a variety of 
+physical risks that could 
+impact values. Our analysis 
+found that different potential 
+risks may require different 
+mitigation strategies.
+	
+] 
+As the world moves towards 
+a low-carbon economy, 
+transition risk may also play 
+an increasingly important role 
+with investors facing potential 
+costs from emission-reduction 
+requirements.
+M
+BRYAN REID 
+Executive Director, 
+Real Estate 
+Solutions 
+Research 
+Measuring climate risk 
+in real estate portfolios
+
+1 9
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+Not all physical risks are the same
+We used the MSCI Real Estate Climate VaR model 
+and a sample of 671 assets from the MSCI U.S. 
+Annual Property Index to evaluate two particularly 
+impactful physical risks: Coastal flooding and 
+tropical storms (Exhibit 9). All the assets sampled 
+were from either the New York City, North New 
+Jersey, Long Island (NY, NNJ, LI) metropolitan area 
+or the Miami-Fort Lauderdale-Pompano Beach 
+(South Florida) metropolitan area. Each were run 
+under the model’s default assumptions. 
+The results suggested that, for this sample of 
+institutionally owned assets, the total Climate 
+VaR due to coastal flooding was lower than for 
+tropical storms in both regions. However, there 
+was some difference in the relative size of these 
+two types of physical risks. In this sample, the 
+Climate VaR from coastal flooding was lower in 
+South Florida than in NY, NNJ, LI (-0.7% vs. -1.3%), 
+but the Climate VaR from tropical storm exposure 
+was higher (-5.3% vs. -4.0%).
+Another distinction was how the different physical 
+risks were distributed across the asset sample. 
+For coastal flooding, we observed that only a 
+handful of assets with the highest exposure were 
+responsible for nearly all (91%) of the estimated 
+Climate VaR. By contrast, the Climate VaR caused 
+by exposure to tropical storms was more evenly 
+distributed across the sample, as illustrated in the 
+second chart (Exhibit 10).
+This is unsurprising given that there can be 
+considerable variation in the elevation of 
+individual assets even within a relatively 
+small geographic area, and this can 
+largely drive how much coastal flooding 
+risk they are exposed to. The relatively 
+small number of assets that are exposed, 
+however, typically suffer significant 
+damage, leading to a more substantial 
+contribution to total portfolio risk. By 
+contrast, tropical storms affect broader areas 
+more uniformly, so the potential damage is 
+generally more evenly distributed. This illustrates 
+how mitigation strategies may vary by risk type. For 
+instance, careful asset selection may be a way to 
+minimize coastal flooding risk, but market allocation 
+strategies may help as a way to address risk from 
+tropical storm exposure.
+Source: MSCI Real Estate Climate Value-at-Risk model run on a sample 
+of assets from the MSCI U.S. Annual Property Index. Index data as of 
+December 2019 and model run as of July 3, 2020.
+Source: MSCI Real Estate Climate Value-at-Risk model run on a sample 
+of assets from the MSCI U.S. Annual Property Index. Index data as at 
+December 2019 and model run as of July 3, 2020.
+Exhibit 10: Physical climate risks may not  
+be evenly spread across all assets
+Exhibit 9: The magnitude and relative importance  
+of physical risks can differ
+Worst affected assets (top 5%)
+South Florida
+Coastal flooding
+Tropical storms
+Rest of assets
+New York / North New Jersey / Long Island
+The nature and magnitude 
+of physical risks may differ 
+across assets and portfolios
+91%
+4%
+Share of VaR 
+due to coastal 
+flooding
+Share of VaR 
+due to tropical 
+storms
+0%
+-1%
+-3%
+-5%
+-2%
+-4%
+-6%
+
+2 0
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+Transition risk may also be a consideration
+While there may be a temptation to focus on physical 
+risks for real assets, transition risk may play an 
+increasingly important role as well. As the world 
+moves towards a low-carbon economy, there are 
+several potential emissions pathways available, 
+with the required emissions reduction for each 
+pathway being inversely proportional to the amount 
+of warming. For example, limiting warming to 1.5 
+degrees Celsius would require more drastic cuts than 
+a 2 degrees Celsius scenario which would in turn 
+require more cuts than a 3 degrees Celsius scenario. 
+To illustrate how transition risks may vary, we used 
+the same sample of assets to estimate transition 
+VaR under different scenarios. As we expected, the 
+more aggressive reduction requirements under a 
+1.5 degrees Celsius scenario resulted in the highest 
+VaR at 4.0%, but even under a 2 degrees Celsius 
+scenario, up to 1.4% of the value in these assets 
+was estimated to be at risk from transition costs, 
+according to our model (Exhibit 11).
+Irrespective of what pathway is taken, assets and 
+portfolios with higher carbon intensity could face 
+greater reduction requirements over the coming 
+decades, potentially translating into higher transition 
+costs. When those costs are compared to an asset’s 
+value per square meter, it becomes clear that some 
+assets may also be better positioned to absorb 
+those costs. 
+Given real estate’s long-term nature and fixed 
+locations, the asset class may be particularly 
+vulnerable to climate change. By evaluating their 
+real estate portfolios in terms of different physical 
+risks as well as under different transition-risk 
+scenarios, investors may be able to build a more 
+complete picture of their exposure. 
+1 
+The MSCI Real Estate Climate VaR model provides a framework for 
+investors (investment managers, asset owners, banks and insurers) 
+to improve portfolio performance, risk management, regulatory 
+reporting and progress towards broader sustainability goals. 
+Developed by MSCI’s Climate Risk Center in Zurich, the framework is 
+closely aligned to the G20’s Financial Stability Board’s Taskforce on 
+Climate-Related Disclosures (TCFD).
+2 
+More information on the model can be found in the MSCI Real 
+Estate Climate Value-at-Risk (Climate VaR) Methodology document.
+Exhibit 11: Transition VaR for the asset sample  
+(NY / NNJ / LI / South Florida) under different scenarios 
+-3.5%
+-3.0%
+-5.5%
+-2.5%
+-5.0%
+-2.0%
+-4.5%
+-1.5%
+-4.0%
+-1.0%
+-0.5%
+0.0%
+3° scenario
+2° scenario
+1.5° scenario
+Climate VaR
+Transition risk
+There can be considerable 
+variation in the elevation of 
+individual assets even within 
+a small geographic area
+Source: MSCI Real Estate Climate Value-at-Risk model run on a sample  
+of assets from the MSCI U.S. Annual Property Index. Index data as at  
+December 2019 and model run as of July 3, 2020.
+
+2 1
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+2 1
+A M E R I C A S
+Canada	
++ 1 416 687 6284
+U.S.	
++ 1 212 804 3900
+E U R O P E ,  M I D D L E  E A S T  
+&  A F R I C A
+U.K.	
++ 44 20 7336 9200
+France 	
++ 44 20 7336 4783
+Germany 	
++ 49 691 3385 900
+Italy	
++ 44 20 7336 9684
+Spain 	
++ 34 93 467 7403
+South Africa	
++ 27 11 656 2115
+Sweden 	
++ 46 8 400 252 30
+A S I A  PA C I F I C
+Australia	
++ 61 2 9033 9300
+Hong Kong	
++ 852 2844 9333
+Singapore	
++ 65 6826 9339
+Japan	
++ 81 3 5211 1455
+A B O U T  M S C I
+MSCI is a leading provider of critical 
+decision support tools and services for 
+the global investment community. With 
+over 45 years of expertise in research, 
+data and technology, we power better 
+investment decisions by enabling clients 
+to understand and analyze key drivers 
+of risk and return and confidently build 
+more effective portfolios. We create 
+industry-leading research-enhanced 
+solutions that clients use to gain insight 
+into and improve transparency across 
+the investment process.
+To learn more, please visit  
+ 
+www.msci.com/real-estate
+msci.com/real-estate
+@msci
+msci-real-estate
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+Contact us
+
+2 2
+M S C I
+R E A L  E S T A T E  R E S E A R C H  S N A P S H O T  2 0 2 0  H 1
+This document and all of the information contained in it, including without 
+limitation all text, data, graphs, charts (collectively, the “Information”) is the 
+property of MSCI Inc. or its subsidiaries (collectively, “MSCI”), or MSCI’s 
+licensors, direct or indirect suppliers or any third party involved in making 
+or compiling any Information (collectively, with MSCI, the “Information 
+Providers”) and is provided for informational purposes only. The 
+Information may not be modified, reverse-engineered, reproduced or 
+redisseminated in whole or in part without prior written permission from 
+MSCI. All rights in the Information are reserved by MSCI and/or its 
+Information Providers.The Information may not be used to create 
+derivative works or to verify or correct other data or information. For 
+example (but without limitation), the Information may not be used to 
+create indexes, databases, risk models, analytics, software, or in 
+connection with the issuing, offering, sponsoring, managing or marketing 
+of any securities, portfolios, financial products or other investment vehicles 
+utilizing or based on, linked to, tracking or otherwise derived from the 
+Information or any other MSCI data, information, products or services.The 
+user of the Information assumes the entire risk of any use it may make or 
+permit to be made of the Information. NONE OF THE INFORMATION 
+PROVIDERS MAKES ANY EXPRESS OR IMPLIED WARRANTIES OR 
+REPRESENTATIONS WITH RESPECT TO THE INFORMATION (OR THE 
+RESUL
+TS TO BE OBTAINED BY THE USE THEREOF), AND TO THE 
+MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EACH 
+INFORMATION PROVIDER EXPRESSLY DISCLAIMS ALL IMPLIED 
+WARRANTIES (INCLUDING, WITHOUT LIMITATION, ANY IMPLIED 
+WARRANTIES OF ORIGINALITY, ACCURACY, TIMELINESS, NON-
+INFRINGEMENT, COMPLETENESS, MERCHANTABILITY AND FITNESS 
+FOR A PARTICULAR PURPOSE) WITH RESPECT TO ANY OF THE 
+INFORMATION.Without limiting any of the foregoing and to the maximum 
+extent permitted by applicable law, in no event shall any Information 
+Provider have any liability regarding any of the Information for any direct, 
+indirect, special, punitive, consequential (including lost profits) or any other 
+damages even if notified of the possibility of such damages. The foregoing 
+shall not exclude or limit any liability that may not by applicable law be 
+excluded or limited, including without limitation (as applicable), any liability 
+for death or personal injury to the extent that such injury results from the 
+negligence or willful default of itself, its servants, agents or sub-
+contractors.Information containing any historical information, data or 
+analysis should not be taken as an indication or guarantee of any future 
+performance, analysis, forecast or prediction. Past performance does not 
+guarantee future results.The Information should not be relied on and is not 
+a substitute for the skill, judgment and experience of the user, its 
+management, employees, advisors and/or clients when making 
+investment and other business decisions. All Information is impersonal 
+and not tailored to the needs of any person, entity or group of persons.
+None of the Information constitutes an offer to sell (or a solicitation of an 
+offer to buy), any security, financial product or other investment vehicle or 
+any trading strategy.It is not possible to invest directly in an index. 
+Exposure to an asset class or trading strategy or other category 
+represented by an index is only available through third party investable 
+instruments (if any) based on that index. MSCI does not issue, sponsor, 
+endorse, market, offer, review or otherwise express any opinion regarding 
+any fund, ETF, derivative or other security, investment, financial product or 
+trading strategy that is based on, linked to or seeks to provide an 
+investment return related to the performance of any MSCI index 
+(collectively, “Index Linked Investments”). MSCI makes no assurance that 
+any Index Linked Investments will accurately track index performance or 
+provide positive investment returns. MSCI Inc. is not an investment adviser 
+or fiduciary and MSCI makes no representation regarding the advisability 
+of investing in any Index Linked Investments.Index returns do not represent 
+the results of actual trading of investible assets/securities. MSCI maintains 
+and calculates indexes, but does not manage actual assets. Index returns 
+do not reflect payment of any sales charges or fees an investor may pay to 
+purchase the securities underlying the index or Index Linked Investments. 
+The imposition of these fees and charges would cause the performance of 
+an Index Linked Investment to be different than the MSCI index 
+performance.The Information may contain back tested data. Back-tested 
+performance is not actual performance, but is hypothetical. There are 
+frequently material differences between back tested performance results 
+and actual results subsequently achieved by any investment strategy.
+Constituents of MSCI equity indexes are listed companies, which are 
+included in or excluded from the indexes according to the application of 
+the relevant index methodologies. Accordingly, constituents in MSCI equity 
+indexes may include MSCI Inc., clients of MSCI or suppliers to MSCI. 
+Inclusion of a security within an MSCI index is not a recommendation by 
+MSCI to buy, sell, or hold such security, nor is it considered to be 
+investment advice.Data and information produced by various affiliates of 
+MSCI Inc., including MSCI ESG Research LLC and Barra LLC, may be 
+used in calculating certain MSCI indexes. More information can be found 
+in the relevant index methodologies on www.msci.com.MSCI receives 
+compensation in connection with licensing its indexes to third parties. 
+MSCI Inc.’s revenue includes fees based on assets in Index Linked 
+Investments. Information can be found in MSCI Inc.’s company filings on 
+the Investor Relations section of www.msci.com.MSCI ESG Research 
+LLC is a Registered Investment Adviser under the Investment Advisers 
+Act of 1940 and a subsidiary of MSCI Inc. Except with respect to any 
+applicable products or services from MSCI ESG Research, neither MSCI 
+nor any of its products or services recommends, endorses, approves or 
+otherwise expresses any opinion regarding any issuer, securities, 
+financial products or instruments or trading strategies and MSCI’s 
+products or services are not intended to constitute investment advice or 
+a recommendation to make (or refrain from making) any kind of 
+investment decision and may not be relied on as such. Issuers 
+mentioned or included in any MSCI ESG Research materials may include 
+MSCI Inc., clients of MSCI or suppliers to MSCI, and may also purchase 
+research or other products or services from MSCI ESG Research. MSCI 
+ESG Research materials, including materials utilized in any MSCI ESG 
+Indexes or other products, have not been submitted to, nor received 
+approval from, the United States Securities and Exchange Commission 
+or any other regulatory body.Any use of or access to products, services 
+or information of MSCI requires a license from MSCI. MSCI, Barra, 
+RiskMetrics, IPD and other MSCI brands and product names are the 
+trademarks, service marks, or registered trademarks of MSCI or its 
+subsidiaries in the United States and other jurisdictions. The Global 
+Industry Classification Standard (GICS) was developed by and is the 
+exclusive property of MSCI and Standard & Poor’s. “Global Industry 
+Classification Standard (GICS)” is a service mark of MSCI and Standard & 
+Poor’s.MIFID2/MIFIR notice: MSCI ESG Research LLC does not distribute 
+or act as an intermediary for financial instruments or structured deposits, 
+nor does it deal on its own account, provide execution services for others 
+or manage client accounts. No MSCI ESG Research product or service 
+supports, promotes or is intended to support or promote any such 
+activity. MSCI ESG Research is an independent provider of ESG data, 
+reports and ratings based on published methodologies and available to 
+clients on a subscription basis. We do not provide custom or one-off 
+ratings or recommendations of securities or other financial instruments 
+upon request. Privacy notice: For information about how MSCI collects 
+and uses personal data, please refer to our Privacy Notice at https://
+www.msci.com/privacy-pledge.NO REGULATED USE OF ANY MSCI 
+PRIVATE REAL ASSETS INDEXES IN ANY JURISDICTION IS PERMITTED 
+WITHOUT MSCI’S EXPRESS WRITTEN AUTHORIZATION. THE PROCESS 
+FOR APPLYING FOR MSCI’S EXPRESS WRITTEN AUTHORIZATION CAN 
+BE FOUND ON THE INDEX REGULATION PAGE OF MSCI’S WEBSITE AT: 
+https://www.msci.com/index-regulation.
+

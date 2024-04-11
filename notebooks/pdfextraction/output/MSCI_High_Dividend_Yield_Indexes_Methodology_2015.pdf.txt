@@ -1,0 +1,776 @@
+Page count: 18
+Metadata: {'format': 'PDF 1.5', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Microsoft® Word 2010', 'producer': 'Microsoft® Word 2010', 'creationDate': "D:20150806142840+05'30'", 'modDate': "D:20150806142840+05'30'", 'trapped': '', 'encryption': None}
+ 
+ 
+JULY 2015 
+INDEX METHODOLOGY  
+MSCI HIGH DIVIDEND 
+YIELD INDEXES 
+METHODOLOGY 
+ 
+ 
+ 
+August 2015 
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 2 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+ 
+ 
+1 
+Introduction ................................................................................ 3 
+2 
+MSCI High Dividend Yield Index Construction ............................. 4 
+2.1 
+Defining the Eligible Universe .................................................................. 4 
+2.2 
+Dividend Sustainability and Persistence Screening ................................. 5 
+2.2.1 
+Applying the Dividend Sustainability Screening 
+................................................5 
+2.2.2 
+Applying the Dividend Persistence Screening 
+...................................................5 
+2.3 
+Quality Screening ..................................................................................... 5 
+2.4 
+Price Performance Screening ................................................................... 6 
+2.5 
+High Dividend Yield Security Selection 
+..................................................... 6 
+2.6 
+Constituent Weighting ............................................................................. 6 
+3 
+Maintenance of the MSCI High Dividend Yield Indexes ............... 8 
+3.1 
+Semi-Annual Index Review 
+....................................................................... 8 
+3.2 
+Quarterly Index Reviews .......................................................................... 8 
+3.3 
+Ongoing event related changes ............................................................... 9 
+3.3.1 
+IPOs and other Early Inclusions 
+.........................................................................9 
+3.3.2 
+Additions and Deletions due to Corporate Events ...........................................9 
+Appendix I:  Variable Definitions and Computations ........................ 10 
+Dividend yield (D / P) ..................................................................................................... 10 
+Payout Ratio (PO) 
+........................................................................................................... 10 
+5Y DPS Growth ............................................................................................................... 10 
+1Y DPS Growth ............................................................................................................... 11 
+Appendix II: Calculation of Market Mean 
+......................................... 12 
+Appendix III: Constructing MSCI Dividend Tilt Indexes ..................... 13 
+Appendix IV: Transition of existing MSCI IMI HDY Indexes 
+............... 15 
+ 
+CONTENTS 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 3 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+1 
+INTRODUCTION 
+The MSCI High Dividend Yield Indexes are designed to focus on dividend yield and to 
+represent the opportunity set of securities with high Dividend Income and Quality 
+Characteristics.  The MSCI High Dividend Yield Indexes aim to depict the high dividend yield 
+opportunity set within MSCI equity indexes.    
+The MSCI High Dividend Yield Indexes:   
+ 
+Are derived from country, regional, or composite level MSCI Equity indexes (herein, 
+“Parent Indexes”). 
+ 
+Include only securities that offer a higher than average dividend yield relative to their 
+respective Parent Index and pass dividend sustainability screens  
+ 
+Securities entering the index must have a dividend yield which is at least 30% higher 
+than the respective Parent Index yield   
+ 
+Target securities with reasonable payout and a non-negative 5Y Dividends per share 
+(DPS) growth rate1 for inclusion in the High Dividend Yield Index. 
+ 
+Offer reasonably broad market coverage  
+ 
+Are designed to have moderate turnover due to the use of a market cap weighted 
+scheme and appropriate buffer rules and 
+ 
+Are free float market capitalization weighted to allow replicability in institutional and 
+retail portfolios of reasonable size. 
+This Methodology book describes a generic methodology that can be applied to create MSCI 
+High Dividend Yield Indexes from any of the existing MSCI global or domestic equity indexes.  
+MSCI also calculates MSCI Dividend Tilt Indexes with an aim to represent the performance of 
+a high dividend yield strategy with high investment capacity. Please refer to Appendix III for 
+further details on the methodology of MSCI Dividend Tilt Indexes.    
+                                                     
+ 
+1 See appendix for definition of 5Y DPS growth rate and its calculation. 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 4 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+2 
+MSCI HIGH DIVIDEND YIELD INDEX CONSTRUCTION 
+The MSCI High Dividend Yield Index construction is based on a six -step process: 
+ 
+Defining the eligible universe 
+ 
+Applying dividend sustainability and persistence screening 
+ 
+Applying quality screening 
+ 
+Applying price performance screening 
+ 
+Including high yielding securities 
+ 
+Weighting the securities in an index 
+ 
+ 
+2.1 
+DEFINING THE ELIGIBLE UNIVERSE 
+All securities belonging to the underlying Parent Index are eligible for inclusion in the MSCI 
+High Dividend Yield Index, with the exception of Real Estate Investment Trusts (REITs). REITs 
+have structurally very high dividend yield and, if included, would represent a 
+ 
+ 
+Constituent  
+Selection:  
+Companies with  
+dividend yield  
+greater than or  
+equal to 1.3 times  
+the dividend yield   
+of the MSCI Parent  
+Index  
+MSCI High Dividend Yield Index Construction 
+Parent Index :  
+MSCI Standard or  
+Domestic 
+Eligible Universe:  
+MSCI Parent Index  
+ex REITs  
+Dividend  
+Sustainability and  
+Persistence  
+Screens, Quality  
+Screen and Price  
+     Performance  
+        Screen  
+ 
+  
+
+ 
+ 
+ 
+MSCI.COM | PAGE 5 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+disproportionate constituency in the MSCI High Dividend Yield Index. Also, typically, 
+regulatory constraints restrict the inclusion of REITs in meaningful proportions in many 
+institutional portfolios.  
+2.2 
+DIVIDEND SUSTAINABILITY AND PERSISTENCE SCREENING 
+Dividend yield strategies typically target not only high dividend yield but also companies 
+where that dividend is sustainable and/or persistent. Therefore, MSCI High Dividend Yield 
+Indexes consider the following dividend sustainability and persistence screens in order to 
+achieve a better representation of the opportunity set of high dividend yield strategies: 
+ 
+Dividend sustainability screening: Securities whose dividend payout is extremely high or 
+negative, and therefore, where future dividend payments might be in jeopardy are not 
+considered for inclusion  
+ 
+Dividend persistence screening: Securities without a historical track record of consistent 
+dividend payment are also not considered for inclusion 
+2.2.1 
+APPLYING THE DIVIDEND SUSTAINABILITY SCREENING 
+Securities with zero or negative payout ratios are not considered for inclusion in the MSCI 
+High Dividend Yield Indexes as they either do not pay dividends or have negative earnings 
+which may put their future dividend payments at risk. 
+Additionally, securities with an extremely high payout ratio, which occurs when earnings are 
+low relative to dividends and may also indicate that the dividend payment might not be 
+sustainable in the future, are also not considered for inclusion in the MSCI High Dividend 
+Yield Indexes. Under this screen, securities with extremely high payout ratios, defined to be 
+the top 5% of securities by number within the universe of securities with positive payout, 
+are not considered eligible for inclusion in the index. The use of a relative payout ratio 
+screen aims to ensure that the companies at most relative risk of dividend cuts are excluded 
+irrespective of the absolute level of the payout. 
+2.2.2 
+APPLYING THE DIVIDEND PERSISTENCE SCREENING 
+Securities with a negative 5Y DPS growth are also excluded from the index as this is an 
+indicator of shrinking dividend growth is which could be a precursor to lower dividends. 
+Securities which have insufficient data to calculate a 5Y DPS growth rate are not excluded 
+from the index. 
+2.3 
+QUALITY SCREENING 
+Securities with negative Quality Z-score are not considered for inclusion in the MSCI High 
+Dividend Yield Indexes.  
+
+ 
+ 
+ 
+MSCI.COM | PAGE 6 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+The Quality Z-scores are calculated using fundamental variables such as Return on Equity, 
+Earnings Variability and Debt to Equity. For the details on computation of the Quality Z-
+score, please refer to the section 2.2.3 of MSCI Quality Indexes Methodology 
+(http://www.msci.com/eqb/methodology/meth_docs/MSCI_Quality_Indexes_Methodology
+_March2014.pdf) 
+2.4 
+PRICE PERFORMANCE SCREENING 
+Securities ranked in the bottom 5% of the universe of securities with negative 1-year Price 
+Performance are excluded from the index. 
+2.5 
+HIGH DIVIDEND YIELD SECURITY SELECTION 
+Securities that have passed the above screens are then considered for inclusion in the High 
+Dividend Yield index. Only securities with a dividend yield greater than or equal to 1.3 times 
+the dividend yield of the Parent Index are included in the High Dividend Yield Index. For 
+example, MSCI compares the yield of a European security to the yield of the MSCI Europe 
+Index to determine if it is eligible for inclusion in the MSCI Europe High Dividend Yield Index. 
+By contrast, MSCI compares the yield of the same security to the yield of the MSCI World 
+Index to determine if it is eligible for inclusion in the MSCI World High Dividend Yield Index.  
+2.6 
+CONSTITUENT WEIGHTING 
+The constituents of the MSCI High Dividend Yield Indexes are first weighted based on their 
+free float market capitalization, and are then capped at the issuer level in order to mitigate 
+concentration risk. The excess weight of such issuers is distributed among the remaining 
+constituents in proportion to their free float market capitalization. The issuer level capping is 
+applied only at Semi-Annual Index Reviews.   
+ 
+Issuers in the MSCI High Dividend Yield Indexes based on Broad Parent MSCI Indexes 
+(e.g. MSCI World Index, MSCI Emerging Markets Index etc.) will be capped at 5% 
+ 
+Issuers in the MSCI High Dividend Yield Indexes based on Narrow Parent MSCI Indexes 
+will be capped at the maximum weight in the Parent Index. 
+MSCI defines Narrow Parent Indexes as those indexes where the largest capitalization 
+weight in the index is more than 10%. 
+Note that the capping of the issuer weight is done for the pro forma index as of the effective 
+date, based on the closing prices as of the Index Review announcement date. In cases where 
+an issuer weight breaches the cap as a result of market price movements or corporate 
+events between the announcement date and the effective date, the capping is not applied 
+again. Similarly, even if any issuer weight breaches the cap as a result of market price 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 7 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+movements or corporate events between two Semi-Annual Index Reviews, no capping is 
+applied.  
+
+ 
+ 
+ 
+MSCI.COM | PAGE 8 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+3 
+MAINTENANCE OF THE MSCI HIGH DIVIDEND YIELD INDEXES 
+3.1 
+SEMI-ANNUAL INDEX REVIEW 
+The MSCI High Dividend Yield Indexes are rebalanced semi-annually. Changes are 
+implemented as of the close of the last business day of May and November, to coincide with 
+the Semi-Annual Index Reviews of their Parent Indexes. The pro forma Indexes are 
+announced nine business days before the effective date. 
+The fundamental data used to determine the High Dividend Yield Indexes is maintained 
+monthly. For the May and November Semi-Annual Index Reviews, the fundamental data as 
+of the end of April and the end of October is used respectively. 
+During each Semi-Annual Index Review, the constituents of the underlying Parent Index are 
+screened for potential inclusion in the High Dividend Yield Index according to the screening 
+process described in Section 2.  
+Existing constituents of the current High Dividend Yield Index will also be evaluated for 
+continued inclusion using the following screening process: 
+ 
+If a security is already an Index constituent, it will remain in the Index until it reaches the 
+top 2% by increasing order of dividend payout. If it is within the top 2% limit, it will be 
+excluded from the Index. 
+ 
+If a security is already an Index constituent but its 5Y DPS growth rate turns negative, it 
+will still be allowed to remain in the Index, provided that the 1Y DPS growth rate2 of that 
+security is non-negative.  This allows current Index constituents that suffer only a 
+temporary decline in the 5Y DPS growth rate to remain in the index and thus avoid 
+excessive index turnover. Securities which do not have sufficient data to calculate a 5Y 
+DPS growth rate or 1Y DPS growth rate would still be eligible to remain in the index. 
+ 
+If a security is already an Index constituent, it will remain in the index as long as its 
+Quality Z-score is higher than or equal to -0.5. 
+ 
+If a security is already an Index constituent, it will remain in the index as long as its 
+dividend yield is higher than or equal to the Parent Index yield.  
+ 
+3.2 
+QUARTERLY INDEX REVIEWS 
+Deletions from the Parent Indexes resulting from the Quarterly Index Review of the Parent 
+Indexes will result in deletion from the MSCI High Dividend Yield Indexes. Changes in the 
+                                                     
+ 
+2 See appendix for definition of 1Y DPS growth and its calculation. 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 9 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+number of shares (NOS) and Foreign Inclusion Factor (FIF) that occur as part of the Quarterly 
+Index Review of the Parent Indexes are also reflected in the MSCI High Dividend Yield 
+Indexes. 
+3.3 
+ONGOING EVENT RELATED CHANGES 
+Between Semi-Annual Index Reviews, the MSCI High Dividend Yield Indexes follow the event 
+maintenance of the Parent Index.  
+3.3.1 
+IPOS AND OTHER EARLY INCLUSIONS 
+IPOs and other newly listed securities will only be considered for inclusion at the next Semi-
+Annual Index Review, even if they qualify for early inclusion in the Parent Indexes.  
+3.3.2 
+ADDITIONS AND DELETIONS DUE TO CORPORATE EVENTS  
+There will be no early inclusion of new securities to the High Dividend Yield Index, except 
+when the new security results from an event affecting an existing constituent (e.g., spin off, 
+merger).   
+A constituent deleted from the Parent Index following a corporate event will be 
+simultaneously deleted from the MSCI High Dividend Yield Index. 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 10 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+APPENDIX I:  VARIABLE DEFINITIONS AND COMPUTATIONS 
+This appendix provides details on the definitions and computations of the variables used to 
+screen the securities for index construction and maintenance.  
+DIVIDEND YIELD (D / P)  
+ 
+𝐷𝑃
+⁄
+= 𝐶𝑢𝑟𝑟𝑒𝑛𝑡 𝐴𝑛𝑛𝑢𝑎𝑙𝑖𝑧𝑒𝑑 𝐷𝑖𝑣𝑖𝑑𝑒𝑛𝑑 𝑝𝑒𝑟 𝑆ℎ𝑎𝑟𝑒𝑃𝑟𝑖𝑐𝑒 𝑜𝑓 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦
+⁄
+ 
+ 
+The current annualized dividend per share is the trailing 12-month dividend per share 
+derived from the current fiscal year end dividend per share plus the difference between the 
+interim dividend per share of the current fiscal year and the previous fiscal year. For the USA 
+and Canada, the current annualized dividend per share is calculated by annualizing the latest 
+published quarterly dividend.  
+Yields are gross, before withholding tax, and take into account special tax credits when 
+applicable.  
+PAYOUT RATIO (PO) 
+The payout ratio is calculated as follows: 
+ 
+𝑃𝑂= 𝐷𝑖𝑣𝑖𝑑𝑒𝑛𝑑𝑠 𝑝𝑒𝑟 𝑠ℎ𝑎𝑟𝑒𝐸𝑎𝑟𝑛𝑖𝑛𝑔𝑠 𝑝𝑒𝑟 𝑠ℎ𝑎𝑟𝑒
+⁄
+ 
+ 
+The most recently reported earnings value is used to for earnings per share while the 
+current annualized dividend per share is used for dividends.  
+5Y DPS GROWTH 
+For the calculation of the 5Y DPS Growth, first a regression (ordinary least squares method) 
+is applied to the last 5 yearly DPS. 
+ 
+𝐷𝑃𝑆𝑡= 𝑎× 𝑡+ 𝑏 
+Where:  
+ 
+a, the slope coefficient,  
+ 
+b, the intercept,  
+ 
+t, the year expressed in number of months.  
+Then, an average DPS is estimated: 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 11 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+ 
+𝐷
+~
+𝑃
+~
+𝑆
+~
+= ∑
+𝐷𝑃𝑆𝑖
+𝑛
+𝑖=1
+𝑛
+ 
+ 
+The growth trend is finally obtained as follows:  
+ 
+5𝑌 𝐷𝑃𝑆 𝐺= 𝑎𝐷𝑃𝑆
+𝐷
+~
+𝑃
+~
+𝑆
+~ 
+ 
+In order to compute a meaningful long-term historical growth trend for the DPS, 5 years of 
+comparable data are generally required. In the event that comparable restated pro forma 
+data are unavailable, MSCI may restate the data using adjustments. A minimum of the last 
+four DPS values are required for calculating the growth and growth trends for securities 
+without sufficient DPS values are considered to be missing (except in the case of IPOs where 
+it will be on a case-by-case basis.).  
+1Y DPS GROWTH 
+The 1Y DPS growth rate is the difference between the current and previous annual DPS.  
+ 
+1𝑌 𝐷𝑃𝑆 𝐺= 𝐷𝑃𝑆𝑡−𝐷𝑃𝑆𝑡−12
+𝐷𝑃𝑆𝑡−12
+ 
+ 
+Where:  
+ 
+t is the year expressed in number of months.  
+ 
+The 1Y DPS growth is used for assessing the continued eligibility of existing constituents 
+whose 5Y DPS growth has turned negative. 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 12 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+APPENDIX II: CALCULATION OF MARKET MEAN  
+This appendix explains the calculation of the market mean used in the determination of the 
+market average dividend yield.  
+The market mean is the market capitalization weighted average of the variable and is 
+computed as follows:  
+ 
+∑
+(𝐶𝑢𝑟𝑟𝑒𝑛𝑡 𝑠𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝑝𝑟𝑖𝑐𝑒× 𝑇𝑜𝑡𝑎𝑙 𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑠𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝑠ℎ𝑎𝑟𝑒𝑠 𝑜𝑢𝑡𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔×
+1
+𝐸𝑥𝑐ℎ𝑎𝑛𝑔𝑒 𝑅𝑎𝑡𝑒× 𝐼𝑛𝑐𝑙𝑢𝑠𝑖𝑜𝑛 𝐹𝑎𝑐𝑡𝑜𝑟)
+𝑛
+𝑖=1
+∑
+(𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝑙𝑒𝑣𝑒𝑙 𝑝𝑒𝑟 𝑠ℎ𝑎𝑟𝑒 𝑓𝑖𝑔𝑢𝑟𝑒× 𝑇𝑜𝑡𝑎𝑙 𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑠𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝑠ℎ𝑎𝑟𝑒𝑠 𝑜𝑢𝑡𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔×
+1
+𝐸𝑥𝑐ℎ𝑎𝑛𝑔𝑒 𝑅𝑎𝑡𝑒× 𝐼𝑛𝑐𝑙𝑢𝑠𝑖𝑜𝑛 𝐹𝑎𝑐𝑡𝑜𝑟)
+𝑛
+𝑖=1
+ 
+ 
+Where, 
+ 
+n=number of securities included in the calculation. 
+ 
+If any per share figure is not available for a particular security, the security is not included in 
+the calculation for that particular ratio. 
+Only securities with non-missing variables are included in the market mean and standard 
+deviation.  
+
+ 
+ 
+ 
+MSCI.COM | PAGE 13 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+APPENDIX III: CONSTRUCTING MSCI DIVIDEND TILT INDEXES   
+The MSCI Dividend Tilt Indexes aim to reflect the performance of a high dividend yield 
+strategy with high investment capacity. The MSCI Dividend Tilt Indexes are created by 
+including all the dividend-paying constituents in the Parent Index that passed the screens as 
+described in Section 2.1 to 2.4, and tilting the market capitalization weights of these 
+securities based on their Dividend Yield Score. Dividend Yield Scores are calculated for all the 
+securities eligible for inclusion in the Dividend Tilt Index and as described below.  
+ 
+𝑧= (𝑥−µ)
+𝜎
+ 
+ 
+Where: 
+ 
+Z is the Dividend Yield Z-score 
+ 
+𝑥 is the Dividend Yield for a given security included in the Dividend Tilt Index  
+ 
+µ is the equal weighted mean of the Dividend Yield of all the securities included in the 
+Dividend Tilt Index  
+ 
+𝜎 is the equal weighted standard deviation of the Dividend Yield of all the securities 
+included in the Dividend Tilt Index  
+Z scores are then winsorized at +/-3 i.e. the Z-scores above 3 are capped at 3 and Z-scores 
+below -3 are capped at -3. 
+The Dividend Yield Score is then computed from the Dividend Yield Z-Score as follows:  
+ 
+𝐷𝑖𝑣𝑖𝑑𝑒𝑛𝑑 𝑌𝑖𝑒𝑙𝑑 𝑆𝑐𝑜𝑟𝑒= { (1 + 𝑍)      ,          𝑍> 0
+  (1 −𝑍)−1 ,          𝑍< 0 
+ 
+All the securities included in the MSCI Dividend Tilt Indexes are weighted by the product of 
+their market capitalization weight in the Parent Index and the dividend yield score. 
+ 
+Dividend Tilt Index Weight = Dividend Yield Score * Market Capitalization Weight in the 
+Parent Index.  
+ 
+The above weights are then normalized to 100%. Constituent weights are capped at an 
+issuer level in a similar way to the MSCI High Dividend Yield Indexes as described in section 
+2.6.  
+
+ 
+ 
+ 
+MSCI.COM | PAGE 14 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+The MSCI Dividend Tilt Indexes follow the same rebalancing schedule and corporate events 
+treatment as the MSCI High Dividend Yield Indexes as described in section 3.  
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 15 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+APPENDIX IV: TRANSITION OF EXISTING MSCI IMI HDY INDEXES  
+Existing High Dividend Yield Indexes based on Parent Indexes containing small cap securities, 
+which were launched before the enhancement announced in August 2015, will be 
+transitioned to the new methodology at the November 2015 Index Review. Specifically, the 
+following screen would be applied to all the MSCI High Dividend Yield Indexes, irrespective 
+of whether they contain small cap securities or not. 
+ 
+ 
+Dividend Persistence Screening 
+ 
+Quality Screening 
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 16 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+The following sections have been modified since February 2013: 
+1. Introduction 
+ 
+Update of the introduction of the MSCI High Dividend Yield Indexes 
+2. MSCI High Dividend Yield Index Construction 
+ 
+Added Quality Screen and Price Performance Screen in the process list 
+2.6 Free Float-Adjusted Constituent Weights 
+ 
+Clarification of constituent weighting and issuer level capping 
+ 
+The following sections have been modified since May 2014: 
+3.2 Quarterly Index Reviews 
+ 
+Clarification on treatment of FIF/NOS changes at the Quarterly Index Review 
+ 
+The following sections have been modified since October 2014: 
+1. Introduction 
+ 
+Update of the introduction of the MSCI High Dividend Yield Indexes 
+Appendix III.  Constructing MSCI Dividend Tilt Indexes  
+ 
+Addition of Appendix III containing methodology details of MSCI Dividend Tilt Indexes 
+ 
+The following sections have been modified since November 2014: 
+1. Introduction 
+ 
+Dividend Persistence screening is now applied on all Parent Indexes 
+2.3 Quality Screening 
+ 
+Quality screening is now applied on all Parent Indexes 
+Appendix IV 
+ 
+Addition of Appendix IV describing the transition of existing High Dividend Yield Indexes 
+based on Parent Indexes containing small cap securities 
+Modification of several sections to enhance clarity  
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 17 OF 18 
+© 2015 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+ 
+AMERICAS 
+ 
+Americas 
+1 888 588 4567 * 
+Atlanta  
++ 1 404 551 3212 
+Boston  
++ 1 617 532 0920 
+Chicago  
++ 1 312 675 0545 
+Monterrey 
++ 52 81 1253 4020 
+New York 
++ 1 212 804 3901 
+San Francisco 
++ 1 415 836 8800 
+Sao Paulo 
++ 55 11 3706 1360 
+Toronto  
++ 1 416 628 1007 
+ 
+ 
+EUROPE, MIDDLE EAST & AFRICA 
+ 
+Cape Town 
++ 27 21 673 0100 
+Frankfurt 
++ 49 69 133 859 00 
+Geneva  
++ 41 22 817 9777 
+London  
++ 44 20 7618 2222 
+Milan 
+ 
++ 39 02 5849 0415 
+Paris 
+ 
+0800 91 59 17 * 
+ 
+ 
+ASIA PACIFIC 
+ 
+China North 
+10800 852 1032 * 
+China South 
+10800 152 1032 * 
+Hong Kong 
++ 852 2844 9333 
+Mumbai 
+ 
++ 91 22 6784 9160 
+Seoul 
+ 
+00798 8521 3392 * 
+Singapore 
+800 852 3749 * 
+Sydney  
++ 61 2 9033 9333 
+Taipei  
+008 0112 7513 * 
+Tokyo  
++ 81 3 5290 1555 
+ 
+ABOUT MSCI 
+ 
+For more than 40 years, MSCI’s research-
+based indexes and analytics have helped 
+the world’s leading investors build and 
+manage better portfolios.  Clients rely on 
+our offerings for deeper insights into the 
+drivers of performance and risk in their 
+portfolios, broad asset class coverage and 
+innovative research.  
+Our line of products and services includes 
+indexes, analytical models, data, real estate 
+benchmarks and ESG research.   
+MSCI serves 98 of the top 100 largest 
+money managers, according to the most 
+recent P&I ranking.  
+For more information, visit us at 
+www.msci.com. 
+* =  toll free 
+ 
+CONTACT US 
+ 
+clientservice@msci.com 
+
+ 
+ 
+ 
+MSCI HIGH DIVIDEND YIELD INDEXES METHODOLOGY | AUGUST 2015 
+MSCI.COM | PAGE 18 OF 18 
+© 2015 MSCI Inc. All rights reserved. 
+ 
+This document and all of the information contained in it, including without limitation all text, data, graphs, charts (collectively, the “Information”) is 
+the property of MSCI Inc. or its subsidiaries (collectively, “MSCI”), or MSCI’s licensors, direct or indirect suppliers or any third party involved in making 
+or compiling any Information (collectively, with MSCI, the “Information Providers”) and is provided for informational purposes only.  The Information 
+may not be modified, reverse-engineered, reproduced or redisseminated in whole or in part without prior written permission from MSCI.  
+The Information may not be used to create derivative works or to verify or correct other data or information.   For example (but without limitation), 
+the Information may not be used to create indexes, databases, risk models, analytics, software, or in connection with the issuing, offering, 
+sponsoring, managing or marketing of any securities, portfolios, financial products or other investment vehicles utilizing or based on, linked to, 
+tracking or otherwise derived from the Information or any other MSCI data, information, products or services.   
+The user of the Information assumes the entire risk of any use it may make or permit to be made of the Information.  NONE OF THE INFORMATION 
+PROVIDERS MAKES ANY EXPRESS OR IMPLIED WARRANTIES OR REPRESENTATIONS WITH RESPECT TO THE INFORMATION (OR THE RESULTS TO BE 
+OBTAINED BY THE USE THEREOF), AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EACH INFORMATION PROVIDER EXPRESSLY 
+DISCLAIMS ALL IMPLIED WARRANTIES (INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF ORIGINALITY, ACCURACY, TIMELINESS, 
+NON-INFRINGEMENT, COMPLETENESS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE) WITH RESPECT TO ANY OF THE 
+INFORMATION. 
+Without limiting any of the foregoing and to the maximum extent permitted by applicable law, in no event shall any Information Provider have any 
+liability regarding any of the Information for any direct, indirect, special, punitive, consequential (including lost profits) or any other damages even if 
+notified of the possibility of such damages. The foregoing shall not exclude or limit any liability that may not by applicable law be excluded or limited, 
+including without limitation (as applicable), any liability for death or personal injury to the extent that such injury results from the negligence or 
+willful default of itself, its servants, agents or sub-contractors.   
+Information containing any historical information, data or analysis should not be taken as an indication or guarantee of any future performance, 
+analysis, forecast or prediction.  Past performance does not guarantee future results.   
+The Information should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, 
+advisors and/or clients when making investment and other business decisions.  All Information is impersonal and not tailored to the needs of any 
+person, entity or group of persons. 
+None of the Information constitutes an offer to sell (or a solicitation of an offer to buy), any security, financial product or other investment vehicle or 
+any trading strategy.  
+It is not possible to invest directly in an index.  Exposure to an asset class or trading strategy or other category represented by an index is only 
+available through third party investable instruments (if any) based on that index.   MSCI does not issue, sponsor, endorse, market, offer, review or 
+otherwise express any opinion regarding any fund, ETF, derivative or other security, investment, financial product or trading strategy that is based on, 
+linked to or seeks to provide an investment return related to the performance of any MSCI index (collectively, “Index Linked Investments”). MSCI 
+makes no assurance that any Index Linked Investments will accurately track index performance or provide positive investment returns.  MSCI Inc. is 
+not an investment adviser or fiduciary and MSCI makes no representation regarding the advisability of investing in any Index Linked Investments. 
+Index returns do not represent the results of actual trading of investible assets/securities. MSCI maintains and calculates indexes, but does not 
+manage actual assets. Index returns do not reflect payment of any sales charges or fees an investor may pay to purchase the securities underlying the 
+index or Index Linked Investments. The imposition of these fees and charges would cause the performance of an Index Linked Investment to be 
+different than the MSCI index performance. 
+The Information may contain back tested data.  Back-tested performance is not actual performance, but is hypothetical.  There are frequently 
+material differences between back tested performance results and actual results subsequently achieved by any investment strategy.   
+Constituents of MSCI equity indexes are listed companies, which are included in or excluded from the indexes according to the application of the 
+relevant index methodologies. Accordingly, constituents in MSCI equity indexes may include MSCI Inc., clients of MSCI or suppliers to MSCI.  Inclusion 
+of a security within an MSCI index is not a recommendation by MSCI to buy, sell, or hold such security, nor is it considered to be investment advice. 
+Data and information produced by various affiliates of MSCI Inc., including MSCI ESG Research Inc. and Barra LLC, may be used in calculating certain 
+MSCI indexes.  More information can be found in the relevant index methodologies on www.msci.com. 
+MSCI receives compensation in connection with licensing its indexes to third parties.  MSCI Inc.’s revenue includes fees based on assets in Index 
+Linked Investments. Information can be found in MSCI Inc.’s company filings on the Investor Relations section of www.msci.com. 
+MSCI ESG Research Inc. is a Registered Investment Adviser under the Investment Advisers Act of 1940 and a subsidiary of MSCI Inc.  Except with 
+respect to any applicable products or services from MSCI ESG Research, neither MSCI nor any of its products or services recommends, endorses, 
+approves or otherwise expresses any opinion regarding any issuer, securities, financial products or instruments or trading strategies and MSCI’s 
+products or services are not intended to constitute investment advice or a recommendation to make (or refrain from making) any kind of investment 
+decision and may not be relied on as such. Issuers mentioned or included in any MSCI ESG Research materials may include MSCI Inc., clients of MSCI 
+or suppliers to MSCI, and may also purchase research or other products or services from MSCI ESG Research.  MSCI ESG Research materials, including 
+materials utilized in any MSCI ESG Indexes or other products, have not been submitted to, nor received approval from, the United States Securities 
+and Exchange Commission or any other regulatory body. 
+Any use of or access to products, services or information of MSCI requires a license from MSCI.  MSCI, Barra, RiskMetrics, IPD, FEA, InvestorForce, and 
+other MSCI brands and product names are the trademarks, service marks, or registered trademarks of MSCI or its subsidiaries in the United States 
+and other jurisdictions.  The Global Industry Classification Standard (GICS) was developed by and is the exclusive property of MSCI and Standard & 
+Poor’s.  “Global Industry Classification Standard (GICS)” is a service mark of MSCI and Standard & Poor’s. 
+NOTICE AND 
+DISCLAIMER 
+

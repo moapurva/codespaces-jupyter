@@ -1,0 +1,976 @@
+Page count: 15
+Metadata: {'format': 'PDF 1.5', 'title': 'MSCI Hong Kong Mandatory Provident Fund Indexes Methodology', 'author': 'Chui, Leo', 'subject': '', 'keywords': '', 'creator': 'Microsoft® Word 2010', 'producer': 'Microsoft® Word 2010', 'creationDate': "D:20170515111111+08'00'", 'modDate': "D:20170515111111+08'00'", 'trapped': '', 'encryption': None}
+ 
+ 
+MAY 2017 
+INDEX METHODOLOGY  
+MSCI HONG KONG 
+MANDATORY PROVIDENT 
+FUND INDEXES 
+METHODOLOGY 
+ 
+ 
+  
+May 2017 
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 2 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+ 
+ 
+1 
+Introduction to the MSCI Hong Kong Mandatory Provident Fund 
+Indexes .............................................................................................. 3 
+2 
+Index Construction ...................................................................... 4 
+2.1 
+Security Selection ..................................................................................... 4 
+2.1.1 
+Defining the Eligible Universe ...........................................................................4 
+2.2 
+Addressing Concentration Limit 
+............................................................... 4 
+2.3 
+Addressing the Minimum 30% Requirement of Hong Kong Dollar 
+Currency Exposure .............................................................................................. 4 
+2.3.1 
+MSCI MPF Domestic Indexes ............................................................................5 
+2.3.2 
+MSCI MPF Hedged Indexes ...............................................................................5 
+2.3.3 
+MSCI MPF Unhedged Indexes ...........................................................................5 
+3 
+Index Maintenance ..................................................................... 6 
+3.1 
+Quarterly Index Review 
+............................................................................ 6 
+3.2 
+Rebalancing due to non-compliance 
+........................................................ 6 
+3.3 
+Additions and Deletions due to Corporate Events 
+................................... 6 
+3.4 
+Maintenance of the MPFA Investment Restrictions ................................ 7 
+3.5 
+Calculation of the MSCI Net Daily Total Return Indexes 
+.......................... 7 
+Appendix I: Exchanges Approved by MPFA ........................................ 8 
+Appendix II: Withholding Tax ........................................................... 10 
+ 
+ 
+ 
+CONTENTS 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 3 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+1 
+INTRODUCTION TO THE MSCI HONG KONG MANDATORY 
+PROVIDENT FUND INDEXES 
+The Hong Kong Mandatory Provident Fund Schemes Authority (MPFA) regulates the 
+operations of mandatory provident fund (MPF) schemes in accordance with the provisions 
+under the MPF legislation, as well as relevant codes and guidelines. These regulations 
+impose on the MPF funds, among other restrictions, the universe of permissible 
+investments, the level of investment concentration as well as the requirement of 
+maintaining a certain level of Hong Kong Dollar (HKD) exposure.   
+Constructed based on the MSCI Global Investable Market Indexes (GIMI), the MSCI Hong 
+Kong MPF1 Indexes take into account these investment restrictions designed to offer a 
+pertinent benchmarking alternative for MPF compliant funds. The MSCI Hong Kong MPF 
+Indexes are divided into three sub-index families: the MSCI MPF Domestic Indexes, the MSCI 
+MPF Hedged Indexes, and the MSCI MPF Unhedged Indexes, each differs in the mechanism 
+in addressing the MPFA currency exposure requirement. 
+This document describes the methodology that MSCI uses to calculate the MSCI Hong Kong 
+MPF Indexes. 
+                                                     
+ 
+1 The MSCI Hong Kong Mandatory Provident Fund Indexes are independently created and maintained by MSCI without 
+input from or involvement by MPFA.  MPFA does not endorse the MSCI Hong Kong Mandatory Provident Fund Indexes 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 4 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+2 
+INDEX CONSTRUCTION 
+2.1 
+SECURITY SELECTION  
+2.1.1 
+DEFINING THE ELIGIBLE UNIVERSE 
+The MSCI Hong Kong MPF Indexes include only equity securities from approved stock 
+exchanges by the MPFA. The eligible universe of the MSCI Hong Kong MPF Indexes includes 
+all constituent securities of the underlying MSCI Global Investable Market Indexes (“Parent 
+Indexes”) with the following exceptions:  
+ 
+The MSCI MPF Domestic Hong Kong Index is based on the MSCI Hong Kong Index plus 
+the Hong Kong-listing of HSBC  
+ 
+The MSCI MPF China Index is based on the MSCI China Free Index2 
+ 
+The MSCI MPF Hong Kong Index is a composite index made up of the MSCI MPF 
+Domestic Hong Kong Index and the MSCI MPF China Index 
+For any MSCI Hong Kong MPF Index that has a United Kingdom component, the London-
+listing of HSBC will be removed from the eligible universe. REITs are included only if they are 
+listed in the stock exchanges approved by the MPFA for REITs.   
+The full list of permissible investments can be found in the Appendix I. 
+2.2 
+ADDRESSING CONCENTRATION LIMIT  
+In order to comply with the single issuer concentration limit, MSCI applies a capping of 10% 
+on every company in the MSCI Hong Kong MPF Indexes. This capping is applied at the issuer 
+level.  However, a buffer of 10% will be applied to reduce the need of constant rebalancing 
+and excessive index turnover. Specifically, at the point of the index initial construction, the 
+weight of any single issuer is capped at 9% of the index weight. The excess weight of the 
+capped issuer is then proportionally redistributed to other uncapped securities in the index.  
+2.3 
+ADDRESSING THE MINIMUM 30% REQUIREMENT OF HONG KONG DOLLAR 
+CURRENCY EXPOSURE  
+The MSCI Hong Kong MPF Indexes comprise of the following three sub- index families3, 
+characterized by different index designs to address the 30% Hong Kong Dollar currency 
+exposure requirement: 
+                                                     
+ 
+2 The MSCI China Free Index is composed of all H shares, Red Chips and P Chips included in the MSCI China Index 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 5 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+2.3.1 
+MSCI MPF DOMESTIC INDEXES 
+The MSCI MPF Domestic Indexes apply a floor to the weight of the HKD denominated 
+component and do not involve any currency hedging. Specifically, in order to comply with 
+the requirement of at least 30% Hong Kong Dollar (HKD) currency exposure while applying a 
+buffer to avoid excessive index turnover, a floor of 30% is applied to the weight of the HKD 
+denominated MSCI MPF Hong Kong Index component.  
+For example, for regional and global indexes including the HKD denominated MSCI MPF 
+Hong Kong Index component and where its weight is less than 35%, the index weight of the 
+HKD denominated MSCI MPF Hong Kong Index component is set to be 35% at initial 
+construction. The weight of the remaining constituents is decreased in proportion to their 
+weight prior to the application of the floor to the HKD denominated securities.  
+2.3.2 
+MSCI MPF HEDGED INDEXES 
+In order to comply with the requirement of at least 30% HKD currency exposure, exposure 
+to currency movements relative to the HKD is partially hedged on a monthly basis based on 
+the MSCI Hedged Indexes methodology. Specifically, the home currency is set to be HKD and 
+the hedged weight for each foreign currency is set to be 35% of its respective weight in the 
+index on a monthly basis. For more information on the MSCI Hedged Indexes methodology, 
+please refer to:  
+https://www.msci.com/eqb/methodology/meth_docs/MSCI_Hedged_FX_Hedge_and_G
+lobal_Currency_Methodology_Nov2015.pdf 
+2.3.3 
+MSCI MPF UNHEDGED INDEXES 
+The MSCI MPF Unhedged Indexes are constructed without any explicit mechanism to 
+address the 30% Hong Kong Dollar currency exposure. These indexes are mainly used as 
+benchmark building blocks in conjunction with other asset classes/segments within an MPF 
+fund that are already exposed to Hong Kong Dollars or for investors who wish to have the 
+flexibility to applying other specific mechanisms to address the 30% Hong Kong Dollar 
+requirement. 
+                                                                                                                                                 
+3 Please note that due to the original HKD exposure of the regional or global Parent Index, not all three sub-indexes are 
+produced for some regional or global MSCI Hong Kong MPF Indexes.  
+
+ 
+ 
+ 
+MSCI.COM | PAGE 6 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+3 
+INDEX MAINTENANCE 
+3.1 
+QUARTERLY INDEX REVIEW 
+The MSCI Hong Kong MPF Indexes are rebalanced on a quarterly basis, nine business days 
+before the effective dates of the MSCI Quarterly Index Reviews. The changes resulting from 
+the rebalancing are also announced nine business days before the effective dates of the 
+MSCI Quarterly Index Reviews and implemented as of the close of the last business day of 
+each February, May, August and November, to coincide with the Quarterly Index Reviews of 
+their Parent Indexes.  
+3.2 
+REBALANCING DUE TO NON-COMPLIANCE 
+MSCI Hong Kong MPF Indexes are reviewed for non-compliance on concentration limit and 
+on Hong Kong dollar currency exposure on a daily basis. The MSCI MPF Indexes will be 
+rebalanced in the event of non-compliance. The concentration constraint is considered to be 
+breached when the weight of an issuer increases above 10%. The foreign currency exposure 
+constraint is considered to be breached when the weight of the HKD denominated securities 
+decreases below 30%. 
+The rebalancing will take place as of the close of the day when the index breaches any 
+constraint, based on closing prices, such that the MSCI Hong Kong MPF Indexes will always 
+be within the constraints before the opening of the following trading day. 
+In case the pro forma MSCI Hong Kong MPF Indexes become non-compliant between the 
+announcement date and the effective date, the previously announced results will be 
+discarded and a newly rebalanced pro forma index will be announced. 
+3.3 
+ADDITIONS AND DELETIONS DUE TO CORPORATE EVENTS 
+A security added to or deleted from the Parent Index following a corporate event will also be 
+added to or deleted simultaneously from the MSCI Hong Kong MPF Indexes.  
+In case of MSCI Hong Kong MPF Indexes where the concentration constraint and/or the local 
+currency exposure constraint are triggered, additions are included with an estimated weight 
+based on a rebalancing at the time of addition. The constraint applied on other index 
+constituents is however not changed. 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 7 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+3.4 
+MAINTENANCE OF THE MPFA INVESTMENT RESTRICTIONS 
+To ensure the MSCI Hong Kong MPF Indexes accurately reflect the MPF regulatory 
+requirements, MSCI reviews the MPF investment restrictions twice a year coinciding with 
+the May and November Semi-Annual Index Review.  
+3.5 
+CALCULATION OF THE MSCI NET DAILY TOTAL RETURN INDEXES  
+In the calculation of the MSCI Net Daily Total Return Domestic Indexes, MSCI uses the 
+withholding tax rate applicable to Hong Kong investors, as outlined in Appendix II. 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 8 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+APPENDIX I: EXCHANGES APPROVED BY MPFA 
+Country 
+Stock Exchange 
+Australia 
+Australian Stock Exchange  
+Austria 
+Wiener Börse AG  
+Belgium 
+Euronext Brussels  
+Brazil 
+Sao Paulo Stock Exchange (BOVESPA)  
+Canada 
+Toronto Stock Exchange  
+Taiwan 
+Taiwan Stock Exchange  
+Denmark 
+Copenhagen Stock Exchange  
+Finland 
+Helsinki Exchanges  
+France 
+Euronext Paris  
+Germany 
+Deutsche Börse AG  
+Greece 
+Athens Stock Exchange  
+India 
+  
+Bombay Stock Exchange of India  
+National Stock Exchange of India  
+Ireland 
+Irish Stock Exchange  
+Israel 
+Tel-Aviv Stock Exchange  
+Italy 
+Italian Stock Exchange  
+Japan 
+  
+  
+  
+Jasdaq Securities Exchange  
+Osaka Securities Exchange  
+Nagoya Stock Exchange  
+Tokyo Stock Exchange  
+Korea 
+Korea Exchange  
+Luxembourg 
+Luxembourg Stock Exchange  
+Malaysia 
+Bursa Malaysia  
+Mexico 
+Mexican Stock Exchange  
+Netherlands 
+Euronext Amsterdam  
+New Zealand 
+New Zealand Exchange  
+Norway 
+ Oslo Børs  
+Philippines 
+Philippine Stock Exchange 
+Portugal 
+Euronext Lisbon  
+Singapore 
+Singapore Exchange Securities Trading Limited  
+South Africa 
+JSE Securities Exchange South Africa  
+Spain 
+Madrid Stock Exchange  
+Sweden 
+Stockholmsbörsen  
+Switzerland 
+SIX Swiss Exchange  
+Thailand 
+Stock Exchange of Thailand  
+United Kingdom 
+London Stock Exchange  
+USA 
+  
+  
+  
+  
+American Stock Exchange  
+NASDAQ 
+New York Stock Exchange  
+NYSE Arca  
+Philadelphia Stock Exchange  
+
+ 
+ 
+ 
+MSCI.COM | PAGE 9 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+Source: MPFA website. Last updated in May 2015. 
+http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/guidelines/current_version/investment/files
+/Annex_A_to_III_4.pdf 
+In additional to Hong Kong-listed REITs, REITs listed outside of Hong Kong are approved as 
+permissible investments provided that they are listed on an approved stock exchange in the 
+countries of Australia, the United Kingdom or the USA. 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 10 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+APPENDIX II: WITHHOLDING TAX 
+Country Of Incorporation 
+Withholding 
+Tax Rates 
+(%)(1) 
+ 
+Country Of Incorporation 
+Withholding 
+Tax Rates 
+(%)(1) 
+Code 
+Name 
+ 
+Code 
+Name 
+AE 
+United Arab 
+Emirates 
+0 
+ 
+KR 
+Korea 
+15(10) 
+AN 
+Netherlands Antilles 
+0 
+ 
+KW 
+Kuwait 
+15 
+AR 
+Argentina 
+10 
+ 
+KY 
+Cayman Islands 
+0 
+AT 
+Austria 
+10(10) 
+ 
+KZ 
+Kazakhstan 
+15 
+AU 
+Australia (2) 
+30 
+ 
+LB 
+Lebanon 
+10 
+BA 
+Bosnia & 
+Herzegovina 
+5 
+ 
+LI 
+Liechtenstein 
+4 
+BD 
+Bangladesh 
+20 
+ 
+LK 
+Sri Lanka 
+10 
+BE 
+Belgium 
+15(10) 
+ 
+LR 
+Liberia 
+15 
+BG 
+Bulgaria 
+5 
+ 
+LT 
+Lithuania 
+15 
+BH 
+Bahrain 
+0 
+ 
+LU 
+Luxembourg 
+15 
+BM 
+Bermuda 
+0 
+ 
+MA 
+Morocco 
+10 
+BR 
+Brazil (3) 
+0 
+ 
+MH 
+Marshall Islands 
+0 
+BS 
+Bahamas 
+0 
+ 
+MK 
+Macedonia 
+10 
+BW 
+Botswana 
+7.5 
+ 
+MU 
+Mauritius 
+0 
+CA 
+Canada 
+15(10) 
+ 
+MT 
+Malta 
+0 
+CH 
+Switzerland 
+10(10) 
+ 
+MX 
+Mexico (9) 
+0(10) 
+CL 
+Chile 
+35 
+ 
+MY 
+Malaysia (5) 
+0 
+CN 
+China (4) 
+0 or 10 
+ 
+NG 
+Nigeria 
+10 
+CO 
+Colombia 
+0 
+ 
+NL 
+Netherlands 
+10(10) 
+CW 
+Curacao 
+0 
+ 
+NO 
+Norway 
+25 
+CY 
+Cyprus 
+0 
+ 
+NZ 
+New Zealand 
+15 
+CZ 
+Czech Republic 
+35 or 5(10) 
+ 
+OM 
+Oman 
+0 
+DE 
+Germany 
+26.375 
+ 
+PA 
+Panama 
+10 
+DK 
+Denmark 
+27 
+ 
+PE 
+Peru 
+4.1 
+EE 
+Estonia 
+0 
+ 
+PH 
+Philippines 
+30 
+EG 
+Egypt 
+0 
+ 
+PK 
+Pakistan 
+10 
+ 
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 11 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+Country Of Incorporation 
+Withholding 
+Tax Rates 
+(%)(1) 
+ 
+Country Of Incorporation 
+Withholding 
+Tax Rates 
+(%)(1) 
+Code 
+Name 
+ 
+Code 
+Name 
+ES 
+Spain 
+10(10) 
+ 
+PL 
+Poland 
+19 
+FI 
+Finland 
+30 
+ 
+PR 
+Puerto Rico 
+10 
+FO 
+Faroe Islands 
+35 
+ 
+PS 
+Palestine 
+0 
+FR 
+France 
+10(10) 
+ 
+PT 
+Portugal 
+10(10) 
+GB 
+United Kingdom (6) 
+0 
+ 
+QA 
+Qatar 
+0 
+GG 
+Guernsey 
+0 
+ 
+RO 
+Romania 
+16 
+GH 
+Ghana 
+8 
+ 
+RS 
+Serbia 
+20 
+GI 
+Gibraltar 
+0 
+ 
+RU 
+Russia 
+15 
+GR 
+Greece 
+2510 
+ 
+SA 
+Saudi Arabia 
+5 
+HK 
+Hong Kong 
+0 
+ 
+SE 
+Sweden 
+30 
+HR 
+Croatia 
+12 
+ 
+SG 
+Singapore (7) 
+0 
+HU 
+Hungary 
+0 
+ 
+SI 
+Slovenia 
+15 
+ID 
+Indonesia 
+20 or 10(10) 
+ 
+TH 
+Thailand 
+10 
+IE 
+Ireland 
+0(10) 
+ 
+TN 
+Tunisia 
+0 
+IL 
+Israel 
+25 
+ 
+TR 
+Turkey 
+15 
+IM 
+Isle Of Man 
+0 
+ 
+TT 
+Trinidad And Tobago 
+10 
+IN 
+India 
+0 
+ 
+TW 
+Taiwan (8) 
+20 
+IT 
+Italy  
+10 
+ 
+UA 
+Ukraine 
+15 
+JE 
+Jersey 
+0 
+ 
+US 
+USA 
+30 
+JM 
+Jamaica 
+33.333 
+ 
+VG 
+British Virgin Islands 
+0 
+JO 
+Jordan 
+0 
+ 
+VN 
+Vietnam 
+0 
+JP 
+Japan 
+10(10) 
+ 
+ZA 
+South Africa 
+10 
+KE 
+Kenya 
+10 
+ 
+ZW 
+Zimbabwe 
+10 
+Last updated in May 2017 
+ 
+Notes: 
+1. Used in the calculation of the MSCI Net Daily Total Return (DTR) Indexes. 
+Withholding tax rates used are the maximum rates of the company’s country of 
+incorporation applicable to institutional investors who do not benefit from double 
+taxation treaties.  
+2. For Australian dividends, franking percentage and conduit foreign income are taken 
+into consideration on calculation of the MSCI Net DTR Indexes. The actual 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 12 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+withholding tax rate for an Australian dividend ranges from 0% to 30%. For details, 
+please refer to the section 2.3.7.2.1 of the MSCI Index Calculation Methodology. 
+3. Interest on capital is subject to a 15% withholding tax. 
+4. For the MSCI China Index, the withholding tax rates are exceptionally based on 
+Chinese securities’ share types, regardless of the company’s country of 
+incorporation. B-share and H-share are subject to a 10% withholding tax. P-Chip and 
+Red Chip are subject to a 0% withholding tax, unless a specific withholding tax of 
+10% is announced by the companies. 
+5. Dividends on Real Estate Investment Trusts (REITS) are subject to a 10% withholding 
+tax. 
+6. Cash dividends paid by companies incorporated in the United Kingdom includes a 
+10% tax credit. MSCI does not take into consideration the tax credit for both the 
+gross and net dividend amounts. As there is no withholding tax in the United 
+Kingdom, the gross and net amounts of the cash dividends to be reinvested in the 
+MSCI Net Daily Total Return (DTR) indexes are equal. 
+7. Dividends on Real Estate Investment Trusts (REITS) are subject to a 10% withholding 
+tax. 
+8. Dividends on Real Estate Investment Trusts (REITS) are subject to a 15% withholding 
+tax. 
+9. Dividends on Real Estate Investment Trusts (REITS) are subject to a 30% withholding 
+tax. 
+10. The rates take into account the double tax treaties between Hong Kong resident 
+investors and the relevant countries. In the calculation of the Net Daily Total Return 
+Indexes, these withholding tax rates are applied to securities listed in the countries 
+specified. Source: Inland Revenue Department website: 
+http://www.ird.gov.hk/eng/tax/dta_rates.htm 
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 13 OF 15 
+© 2017 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+METHODOLOGY BOOK TRACKED CHANGES 
+The following sections have been modified since May 2014: 
+Appendix I: Exchanges Approved by MPFA 
+ 
+Addition of Philippine Stock Exchange  
+The following sections have been modified since May 2015: 
+Section 3.4: Maintenance of the MPFA Investment Restrictions 
+ 
+Frequency of reviews changed from once a year to twice a year  
+The following sections have been modified since May 2016: 
+Appendix II: Withholding Tax 
+ 
+Withholding tax rates of Italy and South Africa  
+The following sections have been modified since May 2017: 
+Appendix II: Withholding Tax 
+ 
+Withholding tax rates of Korea and Portugal  
+ 
+ 
+ 
+ 
+
+ 
+ 
+MAY 2017 
+INDEX METHODOLOGY  
+AMERICAS 
+ 
+Americas 
+1 888 588 4567 * 
+Atlanta  
++ 1 404 551 3212 
+Boston  
++ 1 617 532 0920 
+Chicago  
++ 1 312 675 0545 
+Monterrey 
++ 52 81 1253 4020 
+New York 
++ 1 212 804 3901 
+San Francisco 
++ 1 415 836 8800 
+Sao Paulo 
++ 55 11 3706 1360 
+Toronto  
++ 1 416 628 1007 
+ 
+ 
+EUROPE, MIDDLE EAST & AFRICA 
+ 
+Cape Town 
++ 27 21 673 0100 
+Frankfurt 
++ 49 69 133 859 00 
+Geneva  
++ 41 22 817 9777 
+London  
++ 44 20 7618 2222 
+Milan 
+ 
++ 39 02 5849 0415 
+Paris 
+ 
+0800 91 59 17 * 
+ 
+ 
+ASIA PACIFIC 
+ 
+China North 
+10800 852 1032 * 
+China South 
+10800 152 1032 * 
+Hong Kong 
++ 852 2844 9333 
+Mumbai 
+ 
++ 91 22 6784 9160 
+Seoul 
+ 
+00798 8521 3392 * 
+Singapore 
+800 852 3749 * 
+Sydney  
++ 61 2 9033 9333 
+Taipei  
+008 0112 7513 * 
+Tokyo  
++ 81 3 5290 1555 
+ 
+ABOUT MSCI 
+ 
+For more than 40 years, MSCI’s research-
+based indexes and analytics have helped 
+the world’s leading investors build and 
+manage better portfolios.  Clients rely on 
+our offerings for deeper insights into the 
+drivers of performance and risk in their 
+portfolios, broad asset class coverage and 
+innovative research.  
+Our line of products and services includes 
+indexes, analytical models, data, real estate 
+benchmarks and ESG research.   
+MSCI serves 97 of the top 100 largest 
+money managers, according to the most 
+recent P&I ranking.  
+For more information, visit us at 
+www.msci.com. 
+* =  toll free 
+ 
+CONTACT US 
+ 
+clientservice@msci.com 
+
+ 
+ 
+ 
+MSCI HONG KONG MANDATORY PROVIDENT FUND INDEXES METHODOLOGY | MAY 2017 
+MSCI.COM | PAGE 15 OF 15 
+© 2017 MSCI Inc. All rights reserved. 
+ 
+This document and all of the information contained in it, including without limitation all text, data, graphs, charts (collectively, the “Information”) is 
+the property of MSCI Inc. or its subsidiaries (collectively, “MSCI”), or MSCI’s licensors, direct or indirect suppliers or any third party involved in making 
+or compiling any Information (collectively, with MSCI, the “Information Providers”) and is provided for informational purposes only.  The Information 
+may not be modified, reverse-engineered, reproduced or redisseminated in whole or in part without prior written permission from MSCI.  
+The Information may not be used to create derivative works or to verify or correct other data or information.   For example (but without limitation), 
+the Information may not be used to create indexes, databases, risk models, analytics, software, or in connection with the issuing, offering, 
+sponsoring, managing or marketing of any securities, portfolios, financial products or other investment vehicles utilizing or based on, linked to, 
+tracking or otherwise derived from the Information or any other MSCI data, information, products or services.   
+The user of the Information assumes the entire risk of any use it may make or permit to be made of the Information.  NONE OF THE INFORMATION 
+PROVIDERS MAKES ANY EXPRESS OR IMPLIED WARRANTIES OR REPRESENTATIONS WITH RESPECT TO THE INFORMATION (OR THE RESULTS TO BE 
+OBTAINED BY THE USE THEREOF), AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EACH INFORMATION PROVIDER EXPRESSLY 
+DISCLAIMS ALL IMPLIED WARRANTIES (INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF ORIGINALITY, ACCURACY, TIMELINESS, 
+NON-INFRINGEMENT, COMPLETENESS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE) WITH RESPECT TO ANY OF THE 
+INFORMATION. 
+Without limiting any of the foregoing and to the maximum extent permitted by applicable law, in no event shall any Information Provider have any 
+liability regarding any of the Information for any direct, indirect, special, punitive, consequential (including lost profits) or any other damages even if 
+notified of the possibility of such damages. The foregoing shall not exclude or limit any liability that may not by applicable law be excluded or limited, 
+including without limitation (as applicable), any liability for death or personal injury to the extent that such injury results from the negligence or 
+willful default of itself, its servants, agents or sub-contractors.   
+Information containing any historical information, data or analysis should not be taken as an indication or guarantee of any future performance, 
+analysis, forecast or prediction.  Past performance does not guarantee future results.   
+The Information should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, 
+advisors and/or clients when making investment and other business decisions.  All Information is impersonal and not tailored to the needs of any 
+person, entity or group of persons. 
+None of the Information constitutes an offer to sell (or a solicitation of an offer to buy), any security, financial product or other investment vehicle or 
+any trading strategy.  
+It is not possible to invest directly in an index.  Exposure to an asset class or trading strategy or other category represented by an index is only 
+available through third party investable instruments (if any) based on that index.   MSCI does not issue, sponsor, endorse, market, offer, review or 
+otherwise express any opinion regarding any fund, ETF, derivative or other security, investment, financial product or trading strategy that is based on, 
+linked to or seeks to provide an investment return related to the performance of any MSCI index (collectively, “Index Linked Investments”). MSCI 
+makes no assurance that any Index Linked Investments will accurately track index performance or provide positive investment returns.  MSCI Inc. is 
+not an investment adviser or fiduciary and MSCI makes no representation regarding the advisability of investing in any Index Linked Investments. 
+Index returns do not represent the results of actual trading of investible assets/securities. MSCI maintains and calculates indexes, but does not 
+manage actual assets. Index returns do not reflect payment of any sales charges or fees an investor may pay to purchase the securities underlying the 
+index or Index Linked Investments. The imposition of these fees and charges would cause the performance of an Index Linked Investment to be 
+different than the MSCI index performance. 
+The Information may contain back tested data.  Back-tested performance is not actual performance, but is hypothetical.  There are frequently 
+material differences between back tested performance results and actual results subsequently achieved by any investment strategy.   
+Constituents of MSCI equity indexes are listed companies, which are included in or excluded from the indexes according to the application of the 
+relevant index methodologies. Accordingly, constituents in MSCI equity indexes may include MSCI Inc., clients of MSCI or suppliers to MSCI.  Inclusion 
+of a security within an MSCI index is not a recommendation by MSCI to buy, sell, or hold such security, nor is it considered to be investment advice. 
+Data and information produced by various affiliates of MSCI Inc., including MSCI ESG Research LLC and Barra LLC, may be used in calculating certain 
+MSCI indexes.  More information can be found in the relevant index methodologies on www.msci.com.  
+MSCI receives compensation in connection with licensing its indexes to third parties.  MSCI Inc.’s revenue includes fees based on assets in Index 
+Linked Investments. Information can be found in MSCI Inc.’s company filings on the Investor Relations section of www.msci.com. 
+MSCI ESG Research LLC is a Registered Investment Adviser under the Investment Advisers Act of 1940 and a subsidiary of MSCI Inc.  Except with 
+respect to any applicable products or services from MSCI ESG Research, neither MSCI nor any of its products or services recommends, endorses, 
+approves or otherwise expresses any opinion regarding any issuer, securities, financial products or instruments or trading strategies and MSCI’s 
+products or services are not intended to constitute investment advice or a recommendation to make (or refrain from making) any kind of investment 
+decision and may not be relied on as such. Issuers mentioned or included in any MSCI ESG Research materials may include MSCI Inc., clients of MSCI 
+or suppliers to MSCI, and may also purchase research or other products or services from MSCI ESG Research.  MSCI ESG Research materials, including 
+materials utilized in any MSCI ESG Indexes or other products, have not been submitted to, nor received approval from, the United States Securities 
+and Exchange Commission or any other regulatory body. 
+Any use of or access to products, services or information of MSCI requires a license from MSCI.  MSCI, Barra, RiskMetrics, IPD, FEA, InvestorForce, and 
+other MSCI brands and product names are the trademarks, service marks, or registered trademarks of MSCI or its subsidiaries in the United States 
+and other jurisdictions.  The Global Industry Classification Standard (GICS) was developed by and is the exclusive property of MSCI and Standard & 
+Poor’s.  “Global Industry Classification Standard (GICS)” is a service mark of MSCI and Standard & Poor’s. 
+NOTICE AND 
+DISCLAIMER 
+

@@ -1,0 +1,2180 @@
+Page count: 41
+Metadata: {'format': 'PDF 1.5', 'title': 'Corporate Events Methodology Book', 'author': 'MSCI', 'subject': '', 'keywords': '', 'creator': 'Microsoft® Office Word 2007', 'producer': 'Microsoft® Office Word 2007', 'creationDate': 'D:20120813105430', 'modDate': 'D:20120813105430', 'trapped': '', 'encryption': None}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+msci.com 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+Guiding Principles and Methodology for Corporate Events Implementation in 
+the MSCI Equity Indices 
+ 
+August 2012
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+2 of 41 
+Table of contents 
+ 
+Section 1: Introduction .............................................................. 4 
+Section 2: Mergers & Acquisitions (M&As) .............................. 6 
+2.1 Treatment of M&As in the MSCI Universe..................................................... 
+6 
+2.2 Late Announcements of the Completion of M&As 
+....................................... 
+9 
+2.3 Conversions of Share Classes 
+........................................................................ 10 
+2.4 Pro Forma Float Calculation for M&As ....................................................... 10 
+2.5 Spin-Offs 
+.......................................................................................................... 11 
+2.6 Historical Links and PAFs 
+............................................................................... 12 
+Section 3: Corporate Actions ................................................... 13 
+3.1 Splits / Reverse Splits /Consolidations ......................................................... 13 
+3.2 Stock Dividends / Bonus Issues 
+..................................................................... 13 
+3.3 Capital Repayments ...................................................................................... 14 
+3.4 Special Cash Dividends .................................................................................. 15 
+3.5 Rights Issues ................................................................................................... 15 
+3.6 Redemptions .................................................................................................. 18 
+Section 4: Other Events Resulting in Changes in Number of 
+Shares and FIFs and/or DIFs .................................................... 19 
+4.1 Share Placements and Offerings 
+.................................................................. 19 
+4.2 Debt-to-Equity Swaps 
+.................................................................................... 21 
+4.3 Optional Dividends ........................................................................................ 21 
+Section 5: Suspensions, Delisting and Bankruptcies............... 23 
+Section 6: IPOs and Other Early Inclusions ............................. 24 
+Section 7: General Announcement Policy for Corporate Events25 
+7.1 Client Announcements .................................................................................. 25 
+7.2 Public Announcements ................................................................................. 27 
+Appendix I: PAF Formulas and Definitions 
+.............................. 29 
+Appendix II: Implementation Dates for Corporate Events..... 33 
+Appendix III: Corporate Events Occurring on Saturdays and 
+Sundays .................................................................................... 34 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+3 of 41 
+Appendix IV: Guidelines Concerning Implementation of Partial 
+Tender Offers ........................................................................... 35 
+Appendix V: Clarification Regarding Effective Dates in Option 
+P, Q, T, US Announcements 
+..................................................... 37 
+Appendix VI: Announcement Status and Timing ................... 38 
+Appendix VII: Additional Corporate Events Rules Applying to 
+the MSCI Global Investable Market Indices 
+............................ 39 
+Client Service Information is Available 24 Hours a Day ....................................... 41 
+Notice and Disclaimer 
+.............................................................................................. 41 
+About MSCI 
+............................................................................................................... 41 
+ 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+4 of 41 
+Section 1: Introduction 
+ 
+This methodology book describes MSCI’s general maintenance policies and detailed guidelines for the 
+implementation of corporate events affecting securities across all the MSCI Equity Indices and products. 
+While each MSCI Indices has its own separate index construction and maintenance methodology, MSCI 
+endeavors to develop and maintain a set of corporate event implementation rules that are as generic as 
+possible and that can apply to any equity security included in the MSCI universe, regardless of the 
+specific indices or products the security may belong to. Unless otherwise stated the policies and 
+guidelines apply therefore to all securities in the MSCI universe. 
+ 
+MSCI strives to maintain all companies and securities in its Equity Indices and products with the 
+objective of reflecting, on a timely basis, the evolution of the underlying equity markets. In maintaining 
+the MSCI Equity Indices, MSCI adheres to the guiding principles set forth in the MSCI Equity Indices 
+Methodology Books, including the consistent application of its methodology over time, across regions, 
+and for developed and emerging markets alike. Of particular relevance in the design and maintenance of 
+MSCI’s Corporate Events Methodology are the principles of replicability, consistency, continuity and 
+minimizing turnover. These principles imply that the perspective of portfolios replicating the various 
+indices must systematically be taken into account in the implementation of each corporate event. In 
+particular the consistency of approach should ensure that similar events should as much as possible be 
+given the same treatment and hence facilitate predictability of changes. Also, no unnecessary turnover 
+should result from the implementation of corporate events. Obviously, some corporate events are very 
+complex with many considerations coming into play, and there is a fine balance to be found between 
+potentially conflicting implications of the various objectives, for example, when the complete 
+information is not available until after the event, or when the event involves companies trading in 
+different time zones. In order to provide transparency and predictability to the marketplace in all cases, 
+MSCI not only publishes general maintenance policies and detailed guidelines for the implementation of 
+corporate events, but has also instituted a policy of announcing all changes to its Equity Indices resulting 
+from all corporate events in advance of implementing such changes. 
+ 
+Changes resulting from corporate events involve many aspects, including additions, deletions, changes 
+in number of shares, changes in industry classification, and changes in Foreign Inclusion Factors (FIFs) 
+and/or Domestic Inclusion Factors (DIFs) as a result of updated free float estimates. As a general policy, 
+changes resulting from corporate events are implemented in the MSCI Equity Indices as they occur 
+simultaneously with the event. In addition, changes in number of shares are consistently coordinated 
+with changes in FIFs and/or DIFs to accurately reflect the investability of the underlying securities. 
+Changes resulting from corporate events that could not be implemented on or near the effective dates, 
+and where no price adjustment factor (PAF) is necessary, are implemented at the following regularly 
+scheduled Index Review. Examples of such corporate events include private placements and secondary 
+offerings. 
+ 
+As outlined in the MSCI Index Calculation Methodology, the MSCI Equity Indices are calculated using the 
+Laspeyres’ concept of a weighted arithmetic average together with the concept of chain-linking. 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+5 of 41 
+For certain corporate events, MSCI applies a PAF at the security level in order to neutralize (at least 
+partially) the price movement due to the event and keep only the price performance in the index due to 
+real market movement. This is done (as per the Laspeyres’ concept) to enable comparison with the 
+previous day’s price. Consequently, for such events, changes in number of shares and FIF, if any, are 
+reflected one day after the PAF is applied. 
+ 
+Overall, the corporate events methodology can be described in four broad categories:  
+ 
+ Mergers and Acquisitions (M&As) and Spin-offs. 
+ Corporate Actions. 
+ Other Events Resulting in Changes in Number of Shares and FIFs and/or DIFs. 
+ Suspensions and Bankruptcies. 
+ 
+Certain specific aspects of MSCI’s Corporate Events Methodology are treated in appendices at the end of 
+this Methodology Book. 
+ 
+The policies and guidelines set forth apply in most corporate events cases. For corporate events not 
+described in this Methodology Book or combinations of different types of corporate events and other 
+exceptional cases, MSCI reserves the right to determine the most appropriate implementation method 
+and announces it prior to the changes becoming effective in the MSCI Equity Indices. 
+ 
+Throughout this document the following abbreviations apply: FIF: Foreign Inclusion Factor, DIF: 
+Domestic Inclusion Factor, PAF: Price Adjustment Factor. For other terms, definitions and abbreviations, 
+see Appendix I, entitled “PAF Formulas and Definitions” and Appendix II, entitled “Implementation Dates 
+for Corporate Events”. 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+6 of 41 
+Section 2: Mergers & Acquisitions (M&As) 
+ 
+Mergers and acquisitions are the combination of two or more companies achieved through a mutual 
+agreement or through a tender offer. They can be structured in a wide variety of ways with unique 
+characteristics and complexities. In a merger, the merging entities cease to exist and a new entity is 
+created, while in an acquisition, the acquiror takes over the controlling interest in the acquired 
+company. Here, in the large majority of cases, the acquiree subsequently ceases to exist as an 
+independent entity, however this is not always the case. 
+ 
+MSCI adheres to consistent, transparent and predictable treatment of mergers and acquisitions both in 
+terms of timing of implementation and pricing policy. 
+2.1 
+Treatment of M&As in the MSCI Universe  
+As a general principle, MSCI implements M&As as of the close of the last trading day of the acquired 
+entity or merging entities (last offer day for tender offers), regardless of the status of the securities 
+(index constituents or non-index constituents) involved in the event. MSCI uses market prices for 
+implementation. 
+  
+This principle applies if all necessary information is available prior to the completion of the event and if 
+the liquidity of the relevant constituent(s) is not expected to be significantly diminished on the day of 
+implementation. Otherwise, MSCI will determine the most appropriate implementation method and 
+announce it prior to the changes becoming effective in the indices. 
+ 
+For US M&As, where the delisting date for the acquired security is not available in advance and the 
+completion of the transaction may be delayed due, for example, to the existence of financing conditions, 
+MSCI will wait until the official announcement of the completion of the deal to delete the security and 
+will give clients advance notice before the deletion.  However, if the delisting date for the acquired 
+security is not available in advance, and the transaction is not subject to any financing conditions, MSCI 
+will delete such securities shortly after the relevant shareholders' approvals, provided that all other 
+conditions required for completion of the transaction have been met. 
+If the delisting notice is published late (ie during the last trading day), MSCI may delay the 
+implementation and keep the acquiree for one additional day or more in order to give clients sufficient 
+advance notice. 
+ 
+If the deletion of securities after the official announcement of the completion of a deal results in 
+deleting securities after they have ceased trading. MSCI will use the following deletion prices: 
+ the last traded price before the delisting if the acquisition is for cash; or  
+ a calculated price based on the terms of the acquisition and the market share price of the acquirer if 
+the acquisition is for shares or cash and shares. 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+7 of 41 
+For M&As, MSCI generally sends the “confirmed” notice two days before the effective date of the 
+implementation. In the situation where new public information, captured by MSCI after the “confirmed” 
+notice has been sent, would change the outcome and/or the likelihood of the acquisition to happen or 
+delay it, MSCI will generally proceed with the implementation as announced as part of the “confirmed” 
+notice. This applies especially in the situation where a reversal of the implementation would be provided 
+with too short notice to clients. MSCI reserves the right to handle specific cases differently if more 
+appropriate.  
+If a security is deleted from an index while the transaction has lapsed or failed, the security will not be 
+reinstated immediately after its deletion. It may be reconsidered for index inclusion at the following 
+regularly scheduled Index Review. 
+ 
+2.1.1 
+M&As with Suspension Periods 
+ 
+M&As that encompass a suspension period prior to the listing of the post-event entity are also 
+implemented as of the close of the last trading day using market prices and prior to the suspension of 
+the merging entities. During the suspension period, the merged entity will be maintained with a 
+calculated price based on the market price of one of the merging entities and the terms of the 
+transaction. 
+ 
+2.1.2 
+Cross Border M&As 
+ 
+Cross-border M&As involving companies trading in different time zones or for which necessary 
+information (such as confirmation of the date of completion, last regulatory approvals, etc.) is lacking 
+prior to the event’s completion, can be implemented as of the close of the first trading day of the post-
+event entity. In these cases, MSCI will use a calculated price for the acquired or merging entities, based 
+on the terms of the transaction,  the price of the acquiring or merged entity and the foreign exchange 
+rates, if applicable. When this is not possible, MSCI will carry forward the market price for the acquired 
+or merging entities for one additional business day. 
+ 
+2.1.3 
+Tender Offers 
+ 
+Tender offers are offers to buy shares of a company, usually at a premium above the shares’ market 
+price for cash and/or stock, with the objective of taking control of the acquired company. A tender offer 
+may be a result of friendly negotiations or may be unsolicited and possibly unfriendly. 
+ 
+In tender offers, the acquired or merging security is generally deleted from MSCI Indices: 
+ 
+ at the end of the initial offer period, when the offer is likely to be successful and / or if the free float 
+of the security is likely to be substantially reduced (this rule is applicable even if the offer is 
+extended), or 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+8 of 41 
+ once the results of the offer have been officially communicated and the offer has been successful 
+and the security’s free float has been substantially reduced, if all required information is not available 
+in advance or if the offer’s outcome is uncertain. 
+ 
+The main factors considered by MSCI when assessing the outcome of a tender offer (not in order of 
+importance) are: the announcement of the offer as friendly or hostile, a comparison of the offer price to 
+the acquired security’s market price, the recommendation by the acquired company’s board of 
+directors, the major shareholders’ stated intention whether to tender their shares, the required level of 
+acceptance, the existence of pending regulatory approvals, market perception of the transaction, official 
+preliminary results if any, and other additional conditions for the offer.  
+ 
+In certain cases, securities may be deleted earlier or using a different date than the last offer day. For 
+example: 
+ 
+In the case of tender offers in the United Kingdom, a security is typically deleted two business 
+days after the offer is declared unconditional in all respects. 
+ 
+In the case of tender offers in Brazil, a security is typically deleted as of the close of the auction 
+date as announced by the Bovespa Stock Exchange. 
+ 
+In the case of tender offers where shareholders receive stock or a combination of stock and 
+cash, the acquired security will be generally deleted as of the close of the last trading day even 
+when the offer ends after the last trading day of the acquired security. 
+ 
+If a security is deleted from an index, the security will not be reinstated immediately after its deletion 
+even when the tender offer is subsequently declared unsuccessful and/or the free float of the security is 
+not substantially reduced. It may be reconsidered for index inclusion at the following regularly 
+scheduled Index Review. 
+ 
+MSCI uses market prices for implementation.  
+ 
+2.1.4 
+Partial tender offers and buyback offers 
+ 
+MSCI defines partial tender offers as the acquisitions of a portion of a company’s shares through shares 
+and/or cash, or as share buy-backs that are carried out by means of an offer. 
+2.1.4.1 
+Fixed price offer 
+ 
+For fixed price partial tender offer opened for a pre-determined period, where the offer price (or the 
+terms) is announced prior to the acceptance period, a Price Adjustment Factor (PAF) is applied on the 
+ex-date of the offer. In cases where the ex-date is not available, the PAF is applied on the first business 
+day after the end of the offer. 
+Any changes in the number of shares and subsequent FIF and/or DIF changes are implemented, with 
+sufficient advance notice, after the results of the offer have been officially communicated, regardless 
+whether or not the calculated PAF is 1. 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+9 of 41 
+Withholding taxes, if any, are generally considered in the calculation of the MSCI Net Daily Total Return 
+(DTR) Indices provided the PAF applied on the ex-date has a value different than 1 and that sufficient 
+information is available publicly in advance. In such cases, MSCI reinvests a negative amount 
+corresponding to the withholding tax in the MSCI Net DTR Indices only. This negative reinvestment is 
+reflected simultaneously with the PAF on the ex-date of the partial tender offer. 
+For further details on the MSCI policy on Partial Tender Offers, especially on the PAF, see Appendix IV, 
+entitled “Guidelines Concerning Implementation of Partial Tender Offers”. 
+2.1.4.2 
+Dutch Auction offer 
+ 
+For Dutch Auctions, where the offer price and the acquired number of shares are generally announced 
+after the end of the offer, MSCI implements changes in the number of shares and subsequent FIF and/or 
+DIF changes, with sufficient advance notice, after the results have been officially communicated.  
+No PAF is applied on the ex-date of the offer, as the offer price is generally unknown prior to the offer 
+taking place. 
+ 
+2.1.5 
+Hostile M&As 
+ 
+In cases of hostile M&As or when the outcome of an M&A is unlikely to be successful, MSCI will 
+implement the changes, if any, only when the results have been officially communicated. This usually 
+occurs a few days following the last offer day. MSCI uses market prices for implementation. 
+ 
+2.1.6 
+Acquisitions of Unlisted Securities 
+ 
+Changes to a security resulting from large acquisition of non-listed companies or assets and conversion 
+of unlisted shares are generally implemented at the next regularly scheduled Index Review following the 
+completion of the event. 
+ 
+2.1.7 
+Acquisitions of Listed Non-Index Constituents Securities 
+ 
+Increases in a security’s number of shares resulting from acquisition of listed non-index constituent 
+securities representing at least 5% of the security’s number of shares are generally implemented as of 
+the close of the last trading day of the acquired entity if all necessary information is available prior to 
+the completion of the event or if such information is not available prior to the completion of the event, 
+as soon as practicable following the completion of the event. Changes representing less than 5% of the 
+security’s number of shares are implemented at the next regularly scheduled Index Review following the 
+completion of the event.     
+2.2 
+Late Announcements of the Completion of M&As 
+When the completion of an event is announced too late to be reflected as of the close of the last trading 
+day of the acquired or merging entities, implementation occurs as of the close of the following day or as 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+10 of 41 
+soon as practicable thereafter. In these cases, MSCI uses a calculated price for the acquired or merging 
+entities. The calculated price is determined using the terms of the transaction and the price of the 
+acquiring or merged entity, or, if not appropriate, using the last trading day’s market price of the 
+acquired or merging entities. 
+2.3 
+Conversions of Share Classes 
+Conversions of a share class into another share class resulting in the deletion and/or addition of one or 
+more classes of shares are implemented as of the close of the last trading day of the share class to be 
+converted. 
+2.4 
+Pro Forma Float Calculation for M&As 
+The post-event free float of an entity resulting from an M&A is estimated on a pro forma basis, unless 
+the actual post-event free float is available prior to implementation. In general, any other pending 
+shareholder information or shareholder reclassification will also be reflected in the pro forma free float 
+estimates related to the event. Resulting changes in FIFs and/or DIFs will be implemented 
+simultaneously.  
+ 
+When subsequent public disclosure is made by the company, regarding the new shareholder structure 
+following the event, and results in a significantly different free float estimation than that calculated at 
+the time of the event, MSCI will update the FIFs and/or DIFs at the following regularly scheduled Index 
+Review.  
+ 
+2.4.1 
+Pro Forma Float Calculations for M&As 
+2.4.4.1 
+Cash M&A Transactions  
+ 
+Cash M&A transactions have no impact on the free float of the securities of the acquiring company, as 
+no new shares are issued. 
+2.4.4.2 
+Stock-for-Stock M&A Transactions 
+ 
+In stock-for-stock M&A transactions, the pro forma free float of the securities of the acquiring or 
+merged entity is calculated as a weighted average of the free float of the shares of the pre-event 
+entities. 
+2.4.4.3 
+Stock and Cash M&A Transactions 
+ 
+In M&A transactions involving cash and stock, the pro forma free float of the securities of the acquiring 
+or merged entity is calculated based on the information provided by the company indicating which 
+shareholders will be receiving newly issued shares. If this information is unavailable, then the resulting 
+pro forma free float is calculated as a weighted average of the free float of the shares of the pre merging 
+entities. 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+11 of 41 
+ 
+2.4.2 
+Pro Forma Float Calculations for Partial Tender Offers 
+2.4.4.1 
+Partial Acquisitions 
+ 
+The post-event free float of a partially acquired security is reduced by an amount corresponding to the 
+percentage of free float shares that are acquired.  
+2.4.4.2 
+Share Buy-Backs 
+ 
+For share buy-backs carried out by means of an offer, MSCI generally assumes that all shareholders 
+participate in the share buy-back on a pro rata basis, and as such, the post-event free float of the 
+security does not change. When, based on publicly available information, there are shareholders that 
+will not participate in the share buy-back, this information is taken into account to determine the post-
+event free float.  
+2.5 
+Spin-Offs  
+A spin-off is the distribution of shares in a wholly-owned or a partially-owned company to the parent 
+company’s existing shareholders. In some countries, spin-offs are referred to as demergers or 
+unbundlings.  
+ 
+On the ex-date of a spin-off, a PAF is applied to the price of the security of the parent company. The PAF 
+is calculated based on the terms of the transaction and the market price of the spun-off security. If the 
+spun-off entity qualifies for inclusion, it is included as of the close of its first trading day. 
+ 
+In order to decide whether the spun-off entity qualifies for inclusion, the full company market 
+capitalization of the spun-off entity is estimated by MSCI prior to the spin-off being effective. These 
+estimates are typically based on public information provided by the parent company, including amongst 
+others the spin-off prospectus, and estimates from brokers. 
+ 
+In cases of spin-offs of partially-owned companies, the post-event free float of the spun-off entity is 
+calculated using a weighted average of the existing shares and the spun-off shares, each at their 
+corresponding free float. Any resulting changes to FIFs and/or DIFs are implemented as of the close of 
+the ex-date. 
+ 
+When the spun-off security does not trade on the ex-date, a "detached" security is created to avoid a 
+drop in the free float-adjusted market capitalization of the parent entity, regardless of whether the 
+spun-off security is added or not. The detached security is included until the spun-off security begins 
+trading, and is deleted thereafter. Generally, the value of the detached security is equal to the 
+difference between the cum price and the ex price of the parent security.  
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+12 of 41 
+In certain situations, the spun-off security is not trading on the ex-date on a regular basis but instead is 
+trading on a conditional basis or with an “as-if-and-when-issued” price. In those situations, MSCI may 
+use this “when-issued” price in its implementation of the spin off on the ex-date, for example in its PAF 
+and its estimation of the market capitalization of the spun-off. In addition, MSCI may add the spun-off 
+security in the MSCI Indices, provided it qualifies for inclusion, using the “when-issued” prices and then 
+the regular price. 
+ 
+For further details on PAFs for spin-offs, see Appendix I, entitled “PAF Formulas and Definitions”. 
+2.6 
+Historical Links and PAFs 
+In cases of mergers, MSCI typically links the price history of one of the merging entities with the price of 
+the newly merged entity.  
+ 
+The merging entity that will provide the price history is one for which the factors of continuity with the 
+resulting entity are prevailing. These factors of continuity include: relative market capitalization size, 
+industry classification, domicile and previous index family status. 
+ 
+A PAF is applied on the first trading day of the merged entity to ensure that the price of the merged 
+entity is comparable to the price of the merging entity. For mergers that encompass suspension periods, 
+the PAF is applied on the first suspension day of the merged entity.  
+ 
+A PAF is required only when the terms of exchange are different from one for one. The PAF is based on 
+the specific terms of the merger. 
+ 
+In cases of spin-offs, MSCI may link the price history of the spun-off security to the security of the parent 
+company before the spin-off if factors of continuity of the parent company before the spin-off with the 
+spun-off entity are clearly prevailing. Factors of continuity include: relative market capitalization size, 
+industry classification, domicile and previous index family status. 
+ 
+When MSCI considers the spun-off entity as the continuation of the parent company, a PAF is applied to 
+the market price of the spun-off security on the ex-date of the spin-off. The PAF is calculated based on 
+the terms of the transaction and the market price of the security of the parent company. 
+ 
+If appropriate, historical links to existing securities may also be made in cases of conversions of a share 
+class into another share class. 
+ 
+For further details on PAFs related to historical links, see Appendix I, entitled “PAF Formulas and 
+Definitions”. 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+13 of 41 
+Section 3: Corporate Actions 
+ 
+Corporate actions such as splits, stock dividends and rights issues, which affect the price of a security, 
+require a price adjustment. In general, the PAF is applied on the ex-date of the event to allow (as per the 
+Laspeyres’ concept) security prices to be comparable between the ex-date and the cum date. To do so, 
+MSCI adjusts for the value of the right and/or the value of the special assets that are distributed and the 
+changes in number of shares and FIF, if any, are reflected as of the close of the ex-date. Corporate 
+actions that require a PAF are described below. 
+ 
+In general, corporate actions do not impact the free float of the securities because the distribution of 
+new shares is carried out on a pro rata basis to all existing shareholders. Therefore, MSCI will generally 
+not implement any pending number of shares and/or free float updates simultaneously with the event.  
+ 
+If a security does not trade for any reason on the ex-date of the corporate action, the event will be 
+generally implemented on the day the security resumes trading.  
+ 
+For further details on PAF formulas for corporate actions, see Appendix I, entitled “PAF Formulas and 
+Definitions”.  
+3.1 
+Splits / Reverse Splits /Consolidations  
+These events are characterized by a pro rata distribution of shares to shareholders, or a pro rata 
+consolidation of shares held by existing shareholders. Market prices and number of shares of securities 
+are adjusted accordingly. As no funds flow into or out of the company and its securities, the free float-
+adjusted market capitalization value remains unchanged.  
+3.2 
+Stock Dividends / Bonus Issues 
+3.2.1 
+Distribution of New Underlying Shares 
+ 
+This event is characterized by a free distribution of new shares to existing shareholders on a pro rata 
+basis. Market prices and number of shares of securities are adjusted accordingly. As no funds flow into 
+or out of the company and its securities, the free float-adjusted market capitalization value remains 
+unchanged. 
+ 
+In Taiwan, stock dividends can be distributed from capital surplus or retained earnings. The portion of 
+stock dividends distributed from retained earnings is subject to the default withholding tax rate against 
+the par value of each new share. The portion of stock dividends paid out from capital surplus is not 
+subject to a withholding tax. In the event that stock dividends are distributed from retained earnings, to 
+take into account this withholding tax in the MSCI Indices, MSCI reinvests a negative amount 
+corresponding to the withholding tax in the MSCI Net Daily Total Return (DTR) Indices only. This negative 
+reinvestment will be reflected simultaneously with the PAF on the ex-date of the stock dividend. For 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+14 of 41 
+more information about the treatment of withholding tax on Taiwanese stock dividends, please refer to 
+MSCI Index Calculation Methodology, Section 2: MSCI Daily Total Return (DTR) Index Methodology. 
+ 
+Generally, shares issued following stock dividends / bonus issues are entitled to forthcoming cash 
+dividends paid by the company, however, in rare cases, the shares issued are not entitled to the 
+forthcoming cash dividend. In cases where the shares issued are not entitled to the forthcoming 
+dividend, if the cash dividend amount is known before the ex-date of the stock dividend and if the 
+impact of the cash dividend is deemed significant, the market price of the security is adjusted with a PAF 
+that takes into account the forthcoming cash dividend. 
+MSCI uses the gross amount of the cash dividend per share, as announced by the company, in the PAF 
+calculation. 
+If the cash dividend amount is unknown at the time of the stock dividend’s ex-date, then the market 
+price of the security is adjusted with a PAF that does not take into account the forthcoming cash 
+dividend (which is a PAF similar to the one applied in case of regular stock dividends). 
+ 
+3.2.2 
+Distribution of Other Types of Assets 
+ 
+In the case of a distribution of other types of assets (e.g. bonds, warrants, preferred shares, shares in 
+another company), the price of the underlying share is adjusted only when the value of the other asset 
+is available on the ex-date. The number of underlying shares generally remains unchanged. 
+3.3 
+Capital Repayments 
+A capital repayment or a return of capital is characterized by a cash distribution from the company’s 
+share capital or additional paid-in capital (capital contribution reserve) to its shareholders.  
+ 
+In the case of capital repayments that are deemed to be extraordinary compared to the dividend’s 
+policy of the company or to the historical cash distributions, the price of the security is adjusted on the 
+ex-date of the event.  
+ 
+Regular capital repayments are treated in the same manner as regular cash dividends paid out of 
+retained earnings, and are therefore reinvested on their ex-date in the MSCI Daily Total Return (DTR) 
+Indices. For more information about the treatment of regular capital repayments, please refer to MSCI 
+Index Calculation Methodology, Section 2: MSCI Daily Total Return (DTR) Index Methodology. 
+ 
+In Taiwan, a cash distribution paid out of capital reserves is considered as regular unless specified by the 
+company that the distribution is deemed to be extraordinary. The cash distribution is reinvested in the 
+MSCI DTR Indices free of withholding tax. 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+15 of 41 
+3.4 
+Special Cash Dividends 
+A special cash dividend is a distribution of cash made by a company to its shareholders. The funds are 
+taken from annual profits, capital and/or reserves. 
+ 
+Special dividends that are greater than or equal to 5% of the cum market price of the underlying security 
+are adjusted on the ex-date. 
+ 
+For special cash dividends that are greater than or equal to 5% and subject to withholding taxes, MSCI 
+reinvests a negative amount corresponding to the withholding tax in the MSCI Net DTR Indices only. This 
+negative amount will be reflected simultaneously with the PAF on the ex-date of the special cash 
+dividend. For more information about the treatment of special dividends subject to withholding taxes, 
+please refer to section 2.2.4 of the MSCI Index Calculation Methodology. 
+3.5 
+Rights Issues 
+In a rights issue, the company offers existing shareholders the right to purchase new shares, generally at 
+a cost below the current market price. Rights issues result in capital inflow, and increase both the 
+number of shares and the free float-adjusted market capitalization of a security.  
+ 
+If a security does not trade for any reason on the ex-date of the rights issue, the event will be generally 
+implemented on the day the security resumes trading.  
+ 
+MSCI applies a PAF to the market price of the security on the ex-date of a rights issue. The PAF applied 
+depends on the market price of the security on the ex-date compared to the subscription price of the 
+rights issue. The number of shares is generally increased as of the close of the ex-date, except for rights 
+issues which are offered at a premium to the market price and which are not fully underwritten (see 
+section 3.5.3 below). The decision whether or not to increase the number of shares of the security as of 
+the close of the ex-date is generally announced and confirmed by MSCI before the ex-date based on 
+current market prices, among other factors. In such cases, this decision will generally not be changed 
+based on actual market prices on the ex-date. 
+ 
+For rights issues made by Australian companies, it is a common practice for companies first to be 
+suspended, then to release the rights issue terms, and then to announce when the company will resume 
+trading. MSCI generally reflects the rights issue on the first day the securities of the company resume 
+trading by adjusting the market prices and number of shares of securities, if the subscription price of the 
+new shares is below the market price on that day (as described below under sections 3.5.1.1 and 
+3.5.2.1). 
+ 
+If the subscription price of the new shares is greater than the market price on the day the securities of 
+the company resume trading, MSCI does not reflect the rights issue on that day (as described below 
+under sections 3.5.1.2 and 3.5.2.2).  
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+16 of 41 
+ 
+Generally, shares issued following rights issues are entitled to forthcoming dividends paid by the 
+company, however, in certain cases, the shares issued are not entitled to the forthcoming dividend and 
+the PAF applied to the security on the right issue’s ex-date is different as explained below.  
+ 
+3.5.1 
+Rights for New Underlying Shares with Normal Dividend Entitlement 
+3.5.1.1 
+Rights for New Underlying Shares (Discount to Market Price) 
+ 
+A PAF is applied to the market price of the security on the ex-date of the rights issue if the subscription 
+price of the new shares is below the market price on the ex-date. 
+3.5.1.2 
+Rights for New Underlying Shares (Premium to Market Price) 
+ 
+If the subscription price of the new shares is greater than or equal to the market price on the ex-date, 
+MSCI reflects the rights issue on the ex-date by applying a PAF of 1. 
+ 
+3.5.2 
+Rights for New Underlying Shares Not Entitled to Forthcoming Dividend 
+ 
+In the case of a rights issue where the new shares to be issued following the rights issue are not entitled 
+to the forthcoming known dividend paid by the company, the market price of the security is adjusted 
+with a PAF that takes into account the forthcoming dividend. 
+ 
+If the dividend amount is unknown at the time of the rights issue’s ex-date, then the market price of the 
+security is adjusted with a PAF that does not take into account the forthcoming dividend (which is a PAF 
+similar to the one applied in case of rights issues where new shares are entitled to forthcoming 
+dividend). 
+3.5.2.1 
+Rights for New Underlying Shares Not Entitled to Forthcoming Dividend (Discount to 
+Market Price) 
+ 
+A PAF is applied to the market price of the security on the ex-date of the rights issue if the subscription 
+price of the new shares not entitled to the forthcoming dividend is below the market price on the ex-
+date minus the dividend per share, provided that the dividend amount is available. MSCI uses the gross 
+amount of the dividend per share, as announced by the company, in the PAF calculation. 
+3.5.2.2 
+Rights for New Underlying Shares Not Entitled to Forthcoming Dividend (Premium to 
+Market Price) 
+ 
+If the subscription price of the new shares not entitled to the forthcoming dividend is greater than or 
+equal to the market price on the ex-date minus the dividend per share, MSCI reflects the rights issue on 
+the ex-date by applying a PAF of 1. 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+17 of 41 
+ 
+For further details on PAF formulas, see Appendix I, entitled “PAF Formulas and Definitions”. 
+For the dividend reinvestment in the MSCI Daily Total Return (DTR) Indices on the dividend ex-date, 
+MSCI will reinvest the full dividend amount as announced by the company, using the number of shares 
+on the day prior to the dividend ex-date which is generally the number of shares post-rights issue, 
+according to the MSCI Index Calculation Methodology. 
+ 
+3.5.3 
+Number of Shares, FIF and/or DIF Changes Following Rights for New Underlying Shares 
+ 
+In cases of rights of new underlying shares, the decision to increase or not increase the number of 
+shares of the security as of the close of the ex-date is generally announced and confirmed by MSCI 
+before the ex-date based on current market prices compared to the subscription price, among other 
+factors. In such cases, this decision will generally not be changed based on actual market prices on the 
+ex-date. 
+ 
+If the subscription price of the new shares is below the market price of the security at the time MSCI 
+announces and confirms the implementation of a rights issue, the rights issue is generally assumed to be 
+fully subscribed on a pro rata basis and the number of shares of the security is increased accordingly as 
+of the close of the ex-date. 
+ 
+If the subscription price of the new shares is greater than or equal to the market price of the security at 
+the time MSCI announces and confirms the implementation of a rights issue, the number of shares and 
+the FIF and/or DIF of the security is not changed as of the close of the ex-date unless the rights issue is 
+fully underwritten (see next paragraph). If the rights issue is not fully underwritten, any increase in the 
+number of shares and potential changes in the FIF and/or DIF of the security are generally implemented 
+after the results of the rights issue are made available, provided the number of shares increase is above 
+5%. Increases in the number of shares smaller than 5% are generally implemented at Index Review. 
+ 
+For rights issues which are fully underwritten, the securities’ number of shares of the company making 
+the right issue is generally increased as of the close of the ex-date, regardless if the rights issue is offered 
+at a premium or discount to the market price. 
+In case the underwriter is a government or a shareholder or group of shareholders of a strategic nature, 
+the new shares issued following the rights issue are generally considered as non-free float and the 
+securities’ FIF and/or DIF of the company making the rights issue are adjusted at the time of the event. 
+In case the underwriters are investment bankers and/or brokers, the new shares issued following the 
+rights issue are generally considered on a pro rata basis. 
+ 
+For rights issues affecting a company with several classes of shares that are all index constituents and 
+where they are all given the rights to subscribe to new shares for only one class of shares, MSCI will 
+reflect the change in the NOS and/or FIF/DIF at the time of the event. 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+18 of 41 
+For rights issues where one class of shares, not an index constituent, is given the right to subscribe to 
+new shares of an index constituent class of shares, MSCI will generally defer the changes in NOS and/or 
+in FIF/DIF coming from the non-index constituent class of shares to the next Index Review following the 
+completion of the event. 
+For example, a company with 2 classes of shares A and B, where A is an index constituent and B is not an 
+index constituent, is doing a right issue where both A and B shares are given the right to subscribe to A 
+shares only. MSCI will implement the event by taking into consideration the rights given to holders of 
+the A shares only. Changes in the NOS and/or FIF/DIF coming from the B shares holders participation in 
+the rights issue will be implemented as part of the next Index Review following the completion of the 
+event. 
+ 
+3.5.4 
+Rights for Other Types of Assets 
+ 
+In the case of a rights issue entitling the purchase of assets other than the underlying share (e.g. bonds, 
+warrants, preferred shares, shares in another company), the price of the underlying share is adjusted 
+only if the other asset value or the value of the right is available on the ex-date. The number of 
+underlying shares generally remains unchanged. 
+3.6 
+Redemptions 
+Redemptions are characterized by a mandatory pro rata buy back of shares held by existing 
+shareholders. The market price of the security is adjusted on the ex-date. The number of shares is 
+decreased as of the close of the ex-date, accordingly. The post-event free float of the security does not 
+change. 
+ 
+If the redemption is optional for the shareholders, MSCI will treat the corporate event as a partial 
+buyback. The market price of the security may be adjusted on the ex-date similarly to partial tender 
+offers (see Appendix IV for details on the MSCI policy on Partial Tender Offers). The number of shares 
+and free float of the security may change, whether the bought back shares are cancelled or kept as 
+treasury by the company. 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+19 of 41 
+Section 4: Other Events Resulting in Changes in 
+Number of Shares and FIFs and/or DIFs 
+ 
+Changes in number of shares and subsequent FIF and/or DIF changes can also result from other events 
+such as share placements and offerings, and debt-to-equity swaps. 
+4.1 
+Share Placements and Offerings 
+MSCI differentiates between the following types of share placements and offerings: 
+ 
+ Primary equity offerings involve the issuance of new shares.  
+- 
+Public offering or public placement refers to issuance of new shares placed by underwriters to 
+institutional or other non-strategic investors.  
+- 
+Primary private placements involves direct placement of new shares by one company to 
+another company, an individual investor, or a group of investors. This direct placement of 
+shares is generally accomplished without an underwriter. 
+ 
+ Secondary offerings or block sales do not involve issuance of new shares but involve the distribution 
+of current shareholders’ existing shares.  
+- 
+Secondary offerings are usually pre-announced by the company or by a company’s shareholder 
+and open for public subscription during a pre-determined period. These existing shares are 
+generally placed by underwriters to institutional or other non-strategic investors. 
+- 
+Block sales of existing shares or large market transaction done by way of immediate book 
+building involving change in strategic ownership are generally announced only when effective 
+or with short advance notice and generally do not include an offer prospectus. 
+ 
+4.1.1 
+Implementation of Share Placements and Offerings in the MSCI Universe 
+ 
+Changes in number of shares and FIF resulting from primary equity offerings representing at least 5% of 
+the security’s number of shares are generally implemented as of the close of the first trading day of the 
+new shares, if all necessary information is available at that time. Otherwise, the event is implemented as 
+soon as practicable after the relevant information is made available.  
+ 
+Changes in number of shares and FIF resulting from primary equity offerings representing less than 5% 
+of the security’s number of shares are implemented at the next regularly scheduled Index Review 
+following the completion of the event. 
+ 
+Block sales or large market transactions involving changes in strategic ownership, which are publicly 
+announced, made by way of immediate book-building and/or in the absence of an offer prospectus, that 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+20 of 41 
+result in significant changes in free float estimates and corresponding FIFs will generally be reflected at 
+the following regularly scheduled Index Review. Please refer to section 3.2.3 of the MSCI Global 
+Investable Market Indices Methodology for more details on changes in the FIF done at Index Reviews. 
+ 
+For public secondary offerings of existing constituents representing at least 5% of the security’s number 
+of shares, where possible, MSCI will announce these changes and reflect them shortly after the results 
+of the subscription are known. Secondary offerings that, given lack of sufficient notice, were not 
+reflected immediately will be implemented at the following regularly scheduled Index Review. 
+ 
+For US securities, increases in number of shares and changes in FIF and/ or DIFs resulting from primary 
+equity offerings and from secondary offerings representing at least 5% of the security’s number of 
+shares will be implemented as soon as practicable after the offering is priced. Generally, implementation 
+takes place as of the close of the same day that the pricing of the shares is made public. If this is not 
+possible, the implementation will take place as of the close of the following trading day.  
+ 
+For Latin American and Canadian securities, increases in number of shares and changes in FIF and/or 
+DIFs resulting from primary equity offerings and from secondary equity offerings representing at least 
+5% of the security’s number of shares are implemented on the settlement date of the offering or shortly 
+after, when such information is already publicly available.  Normally, MSCI provides at least two 
+business days advance notice before implementation. 
+ 
+For Canadian securities, increases in number of shares and changes in FIF and/or DIFs resulting from 
+offerings of subscription receipts are generally implemented at the next regularly scheduled Index 
+Review following the conversion of subscription receipts into common shares. Normally, MSCI does not 
+include subscription receipts in the number of shares outstanding of the security at the time of the 
+offering because the conversion of subscription receipts is usually subject to the completion of 
+transactions such as acquisitions of non-listed companies or assets.  
+ 
+For Australian securities, increases in number of shares and changes in FIF and / or DIFs resulting from 
+primary equity offerings representing at least 5% of the security’s number of shares are generally 
+implemented as soon as the relevant Appendix 3B is made publicly available by the company on the 
+Australian Securities Exchange (ASX). The Appendix 3B form provides the relevant and precise 
+information on any newly listed shares for Australian companies. 
+ 
+For non-US securities included in the MSCI Micro Cap Indices only, changes in number of shares and FIF 
+resulting from primary equity offerings only representing at least 25% of the security’s number of shares 
+are generally implemented as of the close of the first trading day of the new shares, if all necessary 
+information is available at that time. Otherwise, these offerings are implemented as soon as practicable 
+after the relevant information is made available.  
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+21 of 41 
+For the changes in number of shares and FIF resulting from primary equity offerings representing less 
+than 25% of the security’s number of shares, they are generally implemented at the next regularly 
+scheduled Index Review following the completion of the offering. 
+ 
+4.1.2 
+Pro Forma Float Calculation for Share Placements and Offerings 
+ 
+In general, shares issued in equity offerings and secondary offerings are assumed to be issued to non-
+strategic investors. As such, the post-event free float is calculated on a pro forma basis assuming that all 
+these shares are free float. 
+ 
+Shares issued in private placements are considered on a case-by-case basis and the post-event free float 
+is determined under the following assumptions: If the shares are issued to institutional or other non-
+strategic investors, they are considered as free float, and if issued to strategic investors, they are 
+regarded as non-free float. If no information is available as to whom the shares are issued to, these 
+shares are generally assumed to be issued to strategic investors. 
+4.2 
+Debt-to-Equity Swaps 
+In general, large debt-to-equity swaps involve the conversion of debt into equity originally not 
+convertible at the time of issue. In this case, changes in numbers of shares and subsequent FIF and/or 
+DIF changes are implemented as of the close of the first trading day of the newly issued shares, or 
+shortly thereafter if all necessary information is available at the time of the swap. In general, shares 
+issued in debt-to-equity swaps are assumed to be issued to strategic investors. As such, the post-event 
+free float is calculated on a pro forma basis assuming that all these shares are non-free float. 
+ 
+Changes in numbers of shares and subsequent FIF and/or DIF changes due to conversions of convertible 
+bonds or other convertible instruments, including periodical conversions of preferred stocks and small 
+debt-to-equity swaps are implemented at a following regularly scheduled Index Review. 
+4.3 
+Optional Dividends 
+In the case of an optional dividend, the company offers shareholders the choice of receiving the 
+dividend either in cash or in shares.  
+ 
+In the U.S., it is common practice that shareholders electing the cash option receive the dividend 
+consideration in cash or shares, or some combination of cash and shares. In such cases, for dividend 
+reinvestment purposes, MSCI assumes that investors elect the cash option, therefore the dividend is 
+reinvested in the MSCI DTR Indices and price adjustment is not necessary (if the dividend is less than 5% 
+of the cum market price of the underlying security). In the event that shareholders electing the cash 
+option receive the dividend distribution in shares, or a combination of cash and shares, MSCI will 
+increase the number of shares accordingly after results have been officially communicated, with two full 
+business days notice.  
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+22 of 41 
+In Spain, dividends may be paid in the form of free rights offering shareholders the choice to convert the 
+rights into new shares (default option), sell the rights on the market or convert the rights into a fixed 
+cash amount that is previously announced by the company. In such cases, MSCI assumes that investors 
+elect the option to convert the rights into a fixed cash amount, therefore this dividend amount is 
+reinvested in the MSCI DTR Indices. If some shareholders choose to take the stock option, when it is 
+confirmed, the number of shares will be increased accordingly at a following regularly scheduled Index 
+Review. 
+ 
+In other countries, companies may extend shareholders the choice to participate in certain programs 
+(including, but not limited to Dividend Reinvestment Plans and Bonus buyback programs). In these 
+cases, MSCI assumes that investors elect the default distribution. If no default distribution is available, 
+MSCI assumes that investors elect the cash option. If some shareholders choose to take the stock 
+option, when it is confirmed, the number of shares will be increased accordingly at a following regularly 
+scheduled Index Review. 
+ 
+Optional Dividends do not impact the free float of the securities because the distribution of new shares 
+is assumed to be carried out on a pro rata basis to all existing shareholders. 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+23 of 41 
+Section 5: Suspensions, Delisting and Bankruptcies 
+ 
+MSCI will remove from the MSCI Equity Indices as soon as practicable companies that file for bankruptcy 
+or protection from their creditors and/or are suspended and for which a return to normal business 
+activity and trading is unlikely in the near future. MSCI will treat in the same way companies that fail 
+stock exchanges listing requirements with announcements of delisting from the stock exchanges. 
+ 
+MSCI will delete from the MSCI Equity Indices after 40 business days of suspension, where feasible,  
+securities of companies facing financial difficulties (e.g., liquidity issues, debt repayment issues, 
+companies under legal investigation, etc.) with at least two business days advance notice. Subsequently, 
+if and when these securities resume normal trading, they may be considered as a potential addition to 
+the MSCI Indices at the next scheduled Semi-Annual Index Review based on the rules described in the 
+section 3.1 of the MSCI Global Investable Market Indices Methodology Book. In certain cases, when the 
+financial situation of companies may not be transparent to the public, after 40 business days of 
+suspension, MSCI may keep these companies longer in the Indices and may delete them at one of the 
+following Index Reviews.  
+ 
+Securities of companies suspended due to pending corporate events (e.g., merger, acquisition, etc.), will 
+continue to be maintained in the MSCI Indices until they resume trading regardless of the duration of 
+the suspension period. 
+ 
+When the primary exchange price is not available, MSCI will delete securities at an over the counter or 
+equivalent market price when such a price is available and deemed relevant. If no over the counter or 
+equivalent price is available, the security will be deleted at the smallest price (unit or fraction of the 
+currency) at which a security can trade on a given exchange.  
+ 
+For securities that are suspended, MSCI will carry forward the market price prior to the suspension 
+during the suspension period.  
+ 
+Corporate events (with or without a PAF) occurring during a suspension period are implemented on the 
+day the security resumes trading.  
+In case of technical suspension, either ordered by the stock exchange or requested by the company, 
+where only a temporarily freeze of the market price applies with still trading volume activity, corporate 
+events without PAF, such as private placement and secondary offering, are implemented on the 
+effective date of the event, whereas corporate events with PAF are implemented on the day the 
+technical suspension is lifted. 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+24 of 41 
+Section 6: IPOs and Other Early Inclusions 
+ 
+In general, newly listed equity securities are considered for inclusion in the MSCI Equity Indices at the 
+time of the Index Reviews. However, in the case of certain MSCI Indices (including the MSCI Global 
+Investable Market Indices), IPOs which are significant in size may be considered for an early inclusion (at 
+the time of the event, i.e. outside of the Index Reviews), depending on the inclusion criteria applying to 
+the relevant MSCI Indices. 
+ 
+If the decision is made to include an IPO early, the inclusion will generally become effective after the 
+close of the security’s tenth day of trading. However, in certain cases, another date may be chosen for 
+the inclusion to reduce turnover. For example, IPOs for which the effective date of inclusion is either 5 
+days before the effective date of a regularly scheduled Index Review or 3 days after, will be made 
+effective to coincide with the Index Review. 
+ 
+For companies in the United Kingdom trading on a conditional basis (when-issued trading) prior to its 
+listing and unconditional trading, MSCI intends to assess the inclusion of the company in the MSCI 
+Indices on its first day of conditional trading.  
+ 
+Securities may also be considered for early inclusion in other significant cases, including but not limited 
+to those resulting from a large additional offering of an already listed security or from a consolidation or 
+restructuring in the industry giving rise to a large new company. Such cases will be treated in the same 
+way as IPOs of significant size. 
+ 
+For further details on the rules on IPOs and other early inclusions in the MSCI Equity Indices, please refer 
+to the methodology book of each MSCI Index since each MSCI Index has its own separate index 
+construction and maintenance methodology. In the case of the MSCI Global Investable Market Indices, 
+please refer to the following sections of the MSCI Global Investable Market Indices Methodology. 
+ 
+ Rules on early inclusions of IPOs and other early inclusions 
+See Section “Corporate Events Affecting Non-Index Constituents” 
+ Rules on inclusion of new companies to the Market Investable Equity Universes (including IPOs that 
+were not added earlier) at the Semi-Annual Index Reviews 
+See Section “Updating the Market Investable Equity Universes” 
+ Rules on inclusion of new securities with a FIF lower than 0.15 (including IPOs that were not added 
+earlier) at Semi-Annual Index Reviews 
+See Section “Global Minimum Foreign Inclusion Factor Requirement” 
+ Rules on additions of significant new companies to the Standard Index (including large IPOs that were 
+not added earlier) at Quarterly Index Reviews 
+See Section "Quarterly Index Review of Addition of Companies Currently not constituents of the 
+Investable Market Indices” 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+25 of 41 
+Section 7: General Announcement Policy for 
+Corporate Events 
+7.1 
+Client Announcements 
+All changes resulting from corporate events affecting constituents of the MSCI Equity Indices are 
+announced to clients prior to their implementation. 
+MSCI uses mainly three statuses to announce these changes: “undetermined”, “expected” and 
+“confirmed”. The sequence of the announcements reflects the different stages of a corporate event 
+implementation. 
+ 
+MSCI generally sends an “undetermined” or an “expected” announcement at least 10 business days 
+prior to the effective date of corporate events. In situations where the effective date is not yet known 
+and/or certain aspects of the events are uncertain, MSCI generally sends an “undetermined” 
+announcement. MSCI sends an “expected” announcement to describe the implementation and changes 
+that are intended to be made when the effective date is known and when the event is likely to be 
+successful, provided that the necessary public information concerning the event is available. Note that 
+an “expected” announcement is not final.  
+For example, in the situation where new public information would change the outcome and/or the 
+likelihood of the corporate event to happen as anticipated, MSCI could revise its implementation and 
+change its “expected” announcement to an “undetermined” announcement. Similarly, following new 
+public information, MSCI can change an “undetermined” announcement to an “expected” 
+announcement.  
+ 
+When the effective date is known and provided that all necessary public information concerning the 
+event is available, MSCI sends a “confirmed” announcement at least 2 business days prior to the 
+effective date. 
+ 
+For certain events, MSCI only sends “confirmed” announcements, especially due to insufficient or lack of 
+publicly available information or late company disclosure. 
+ 
+In addition to the three statuses described above, in case a “confirmed” announcement needs to be 
+amended, MSCI would send a “correction” announcement with a descriptive text announcement to 
+provide details about the changes.  
+ 
+For an exhaustive list of statuses, please refer to the Appendix VI of the MSCI Corporate Events 
+Methodology book. 
+ 
+The full list of all new and pending changes is delivered to clients on a daily basis, between 5:30 PM and 
+6:00 PM US Eastern Standard Time (EST) through the Advance Corporate Events (ACE) File. 
+ 
+In exceptional cases, events are announced during market hours for same or next day implementation. 
+Announcements made by MSCI during market hours are usually linked to late company disclosure of 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+26 of 41 
+corporate events or unexpected changes to previously announced corporate events. A descriptive text 
+announcement is sent for all corporate events effective on the same day or on the next day. 
+ 
+In general, MSCI also sends text announcement for corporate events effective within the next 48 hours, 
+except for US Equities’ equity offerings and market neutral events such as split, reverse split or stock 
+dividend. In the case of secondary offerings representing at least 5% of a security’s number of shares for 
+existing constituents, these changes will be announced prior to the end of the subscription period when 
+possible and a subsequent announcement confirming the details of the event (including the date of 
+implementation) will be made as soon as the results are available.  
+ 
+Both primary equity offerings and secondary offerings for US securities, representing at least 5% of the 
+security’s number of shares, will be confirmed through an announcement during market hours for next 
+day or shortly thereafter implementation, as the completion of the events cannot be confirmed prior to 
+the notification of the pricing. 
+ 
+Early deletions of constituents due to bankruptcy or other significant cases are announced as soon as 
+practicable prior to their implementation in the MSCI indices. 
+ 
+A more descriptive text announcement may be sent to clients for significant events according to the 
+index specific announcement criteria as described in the respective MSCI Equity Indices Methodology 
+Books. 
+ 
+For MSCI Global Standard Index constituents, a more descriptive text announcement is sent to clients 
+for significant events that meet any of the following criteria: 
+ Additions and deletions of constituents. 
+ Changes in free float-adjusted market capitalization equal to or larger than USD 5 billion, or with an 
+impact of at least 1% of the constituent's underlying country index. 
+ 
+If warranted, MSCI may make additional announcements for events that are complex in nature and for 
+which additional clarification could be beneficial.  
+ 
+For corporate events for which a PAF formula utilizes the ex-price (such as rights issues, spin-offs, capital 
+repayments, special dividends, etc.), MSCI calculates the PAF value using the opening market price on 
+the ex-date of the event (“Opening PAF”) and the PAF value using the closing market price of the stock 
+on its ex-date (“Closing PAF”), and announces both via email to clients.  The “Closing PAF” is used in the 
+MSCI End of Day Indices calculation. 
+ 
+For further details, see Appendix VI, entitled “Announcement Status and Timing”.  
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+27 of 41 
+7.2 
+Public Announcements 
+All additions and deletions of constituents of the MSCI Equity Indices resulting from corporate events 
+are publicly announced prior to their implementation. 
+ 
+In general, other changes resulting from corporate events that affect constituents of the MSCI Equity 
+Indices, such as changes in the Foreign Inclusion Factor (FIF) and/or in the number of shares of a 
+constituent, are not publicly announced but are announced only to clients. 
+ 
+If warranted, MSCI reserves the right to make public announcements related to corporate events for 
+special cases, such as the ineligibility of a security in the MSCI Equity Indices. 
+ 
+The changes are typically announced at least two business days prior to events becoming effective in the 
+indices. Public announcements are a summary of the “confirmed” announcements that are made to 
+clients. Public announcements are typically made shortly before a “confirmed” client announcement is 
+made. 
+ 
+MSCI posts the announcements on its web site, www.msci.com, and on Bloomberg page MSCN. In 
+addition, announcements are posted on Reuters public pages MSCIA for MSCI Global Standard Index 
+constituents and MSCI Domestic Standard Index constituents. 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+28 of 41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendices 
+ 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+29 of 41 
+Appendix I: PAF Formulas and Definitions 
+ 
+Event Type 
+Comments 
+PAF = [Cum Price Formula] / [Ex Price Formula]                       
+Capital 
+Repayment 
+ 
+[P(t) + Cash] / [P(t)] 
+Consolidation 
+ 
+[Shares Issued] / [Shares Before] 
+Conversion 
+Exchange of Shares (PAF applied 
+for historical link when terms are 
+<> 1for 1) 
+[Other Asset Issued] / [Shares Before] 
+Merger 
+Exchange of Shares (PAF applied 
+for historical link when terms are 
+<> 1for 1) 
+[Other Asset Issued] / [Shares Before] 
+Merger 
+Exchange of Cash and Shares 
+[(P(t) * Other Asset Issued + Cash) / Shares Before] / [P(t)] 
+Partial Tender 
+Offer 
+Exchange of Shares 
+If Premium > 20% and Estimated Gain per Share > 5% on t-1 
+then  
+[(Other Asset P(t) * Other Asset Issued * Estimated Minimum 
+Entitlement + (100 - Estimated Minimum Entitlement) * P(t)) / 
+100] / [P(t)] 
+else PAF=1 
+Partial Tender 
+Offer 
+Against Cash 
+If Premium > 20% and Estimated Gain per Share > 5% on t-1 
+then 
+[(Estimated Minimum Entitlement * Offer Price + (100 - 
+Estimated Minimum Entitlement) * P(t)) / 100] / [P(t)]  
+else PAF=1 
+Reverse Split 
+ 
+[Shares Issued] / [Shares Before] 
+Redemption 
+ 
+[((Shares Before – Shares Acquired) * P(t) + Shares Acquired * 
+Offer P) / Shares Before] / [P(t)]  
+Rights Issue 
+Right of New Underlying Shares 
+If Issue P is < P(t) then 
+[(P(t) * (Shares Before + Shares Issued) – Shares Issued * Issue 
+P) / Shares Before] / [P(t)] 
+else PAF=1 
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+30 of 41 
+Event Type 
+Comments 
+PAF = [Cum Price Formula] / [Ex Price Formula]                       
+Rights Issue 
+Right of New Underlying Shares 
+Not Entitled to Forthcoming 
+Dividend 
+If Forthcoming Gross Dividend is available and Issue P >= [P(t) – 
+Forthcoming Gross Dividend] then PAF=1 
+or 
+if Forthcoming Gross Dividend is available and Issue P < [P(t) – 
+Forthcoming Gross Dividend] then 
+[(P(t) * (Shares Before + Shares Issued) – Shares Issued * Issue 
+P – Shares Issued * Forthcoming Gross Dividend) / Shares 
+Before] / [P(t)] 
+or 
+if Forthcoming Gross Dividend is not available and Issue P >= 
+P(t) then PAF=1 
+or 
+if Forthcoming Gross Dividend is not available and Issue P < P(t) 
+then 
+[(P(t) * (Shares Before + Shares Issued) – Shares Issued * Issue 
+P) / Shares Before] / [P(t)] 
+Rights Issue 
+Right of New Underlying Shares 
+with Another Asset (bond, 
+warrant, preferred, etc.) attached 
+If Right P(t) is available then 
+[P(t) + Right per Share P(t)] / [P(t)] 
+or  
+if Other Asset P(t) is available and Issue P < [P(t) + (Other Asset 
+Attached * Other Asset P(t)) / Shares Issued] then [((Shares 
+Before + Shares Issued) * P(t) + Other Asset Attached * Other 
+Asset P(t) - Shares Issued * Issue P) / Shares Before] / [P(t)] 
+or  
+if Other Asset P(t) is available and Issue P >= [P(t) + (Other 
+Asset Attached * Other Asset P(t)) / Shares Issued] then PAF = 1 
+or  
+if Other Asset P(t) is not available and Issue P < P(t) then [(P(t) * 
+(Shares Before + Shares Issued) – Shares Issued * Issue P) / 
+Shares Before] / [P(t)] 
+or  
+if Other Asset P(t) is not available and Issue P >= P(t) then 
+PAF=1 
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+31 of 41 
+Rights Issue 
+Right of Another Type of Asset 
+(bond, warrant, preferred, etc.) 
+If Other Asset P(t) is available and Issue P < Other Asset P(t) 
+then 
+[(P(t) * Shares Before + (Other Asset P(t) - Issue P) *  
+Other Asset Issued) / Shares Before] / [P(t)]  
+or 
+if Other Asset P(t) is not available but Right P(t) is available 
+then 
+[P(t) + Right per Share P(t)] / [P(t)] 
+or 
+if Other Asset P(t) and Right P(t) are not available then PAF=1  
+Rights Issue 
+Right of Shares in Another Listed 
+Security 
+If Issue P < Other Security P(t) then  
+[P(t) + (Other Security P(t) - Issued P) * Other Security Shares 
+Issued / Shares Before] / [P(t)] else PAF=1 
+Special Dividend 
+PAF is applied for special 
+dividends when the impact of 
+dividend on the price of the day 
+prior the ex-date is greater than 
+or equal to 5%. 
+If impact of Special Div on P(t-1) >=5%, then [P(t) + Special Div] 
+/ [P(t)] 
+Spin-off 
+Spun-off traded on the ex-date 
+[P(t) + Spun Off P(t) * Spun Off Shares Issued / Shares Before] / 
+[P(t)] 
+Spin-off 
+Spun-off NOT traded on the ex-
+date (creation of a 'detached' 
+security) 
+[P(t-1)] / [P(t)] 
+Split 
+ 
+[Shares Issued] / [Shares Before] 
+Stock 
+Stock Dividend / Bonus / Scrip 
+Issue / Stock 
+[Shares Issued + Shares Before] / [Shares Before] 
+Stock 
+Stock Dividend Not Entitled to 
+Forthcoming Dividend 
+[[(Shares Issued + Shares Before) * P(t) - (Shares Issued * 
+Forthcoming Gross Cash Dividend)] / Shares Before] / [P(t)] 
+Stock 
+Distribution of Another Type of 
+Asset (bond, warrant, preferred, 
+etc.) 
+If Other Asset P(t) is not available then PAF=1  
+else 
+[(P(t) * Shares Before + Other Asset P(t) * Other Asset Issued) / 
+Shares Before] / [P(t)] 
+Stock 
+Distribution of New Underlying 
+Shares with Warrants attached 
+If Other Asset P(t) is not available then  
+[Shares Issued + Shares Before] / [Shares Before] 
+ else 
+[(P(t) * (Shares Issued + Shares Before) + Other Asset P(t) * 
+Other Asset Issued)/ Shares Before] / [P(t)] 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+32 of 41 
+Terms/abbreviations 
+Definitions 
+Cash 
+Amount shareholders are entitled to 
+Cum Date 
+Day prior to the ex-date 
+Estimated gain per share 
+{[(Offer price - P(t-1)) * estimated minimum entitlement] / P(t-1)} * 100 
+Estimated Minimum Entitlement 
+Minimum percentage of shareholders' holdings that will be accepted by the 
+acquirer assuming all shareholders tender their shares, except for the acquirer 
+and the shareholders who explicitly state that they will not participate in the 
+partial tender offer. 
+Ex Date 
+Day on which a security is traded without a previously declared dividend, 
+distribution, or other right 
+Issue P 
+Issue price 
+Offer P 
+Offer price 
+Other Asset Issued 
+Number of other asset distributed (e.g. warrant, convertible bond) 
+Other Asset P(t) 
+Closing price of the other asset on the ex-date 
+P(t) 
+Closing price on the ex-date 
+P(t-1) 
+Closing price on the cum date (ex-date -1) 
+Premium 
+[(Offer price - P(t-1)) / P(t-1)] * 100 
+ 
+Terms/abbreviations 
+Definitions 
+Right P(t) 
+Closing right price on the ex-date 
+Shares Before 
+Number of shares shareholders need to hold before the event 
+Shares Issued 
+Number of shares distributed 
+Shares Acquired 
+Number of shares acquired 
+Forthcoming Gross Dividend 
+Gross dividend per share paid by the company following another event. In 
+certain cases of rights issues and stock dividends, the newly issued shares are 
+not entitled to the dividend which is ex after the rights issue / stock dividend 
+ex-date. 
+Special Div 
+Amount shareholders are entitled to 
+Spun Off P(t) 
+Closing price of the spun off security on the ex-date 
+Spun Off Shares Issued 
+Number of spun off security shares distributed 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+33 of 41 
+Appendix II: Implementation Dates for Corporate 
+Events 
+ 
+MSCI uses several terms to specify the timing of corporate events implementation: 
+ 
+As of the close of date (t-1) indicates that the changes are implemented after the close on day t-1.  For 
+example, if a security is deleted as of the close of t-1, the security still appears in the index on the day t-
+1. 
+ 
+Effective date/Ex-date (t) indicates the date on which the changes are reflected. For example, if a 
+security is deleted as of the close of t-1, the security no longer appears in the index on the effective date 
+(t). It also indicates the date on which a security is traded without a previously declared dividend, 
+distribution, or other right. 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+34 of 41 
+Appendix III: Corporate Events Occurring on 
+Saturdays and Sundays 
+ 
+A selected list of MSCI Indices is calculated on Saturdays and Sundays to reflect the performance of the 
+markets open on this day. The Saturday and Sunday index performances capture the price changes and 
+reflect corporate events effective on this day. 
+In case of corporate events occurring on Saturdays and where a Price Adjustment Factor (PAF) is 
+needed, the PAF is applied to the market price of the security on Saturday, Sunday and Monday. If 
+the security does not trade on Monday, the Sunday closing market price is carried forward to 
+Monday, including the PAF. 
+In case of corporate events occurring on Sundays and where a PAF is needed, the PAF is applied to the 
+market price of the security on Sunday and Monday. If the security does not trade on Monday, the 
+Sunday closing market price is carried forward to Monday, including the PAF. 
+Changes in the security’s number of shares, FIFs and/or DIFs due to corporate events occurring on 
+Saturdays or Sundays are implemented as of the close of Monday, regardless of whether the corporate 
+event requires the application of a PAF on Saturday and/or Sunday or not. 
+For details on the Saturday/Sunday Index Calculation Methodology, refer to Appendix I of the MSCI 
+Index Calculation Methodology. 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+35 of 41 
+Appendix IV: Guidelines Concerning Implementation 
+of Partial Tender Offers  
+Summary 
+As a general principle, MSCI applies a PAF for partial tender offers on the ex-date when the following 
+criteria are fulfilled: 
+- The premium is greater than 20%, and 
+- The estimated gain per share is greater than 5%. 
+If at least 1 of the 2 conditions is not met (i.e. premium is < 20% and/or estimated gain per share < 5%), 
+MSCI applies a PAF of 1. 
+In cases where the ex-date is not available, the PAF is applied on the first business day after the end of 
+the offer. 
+Changes in the NOS and/or FIF are generally implemented following the results of the offer regardless 
+the PAF applied on the ex-date is 1 or not. 
+ 
+PAF formula in detail 
+If premium > 20% AND estimated gain per share > 5% on t-1 then 
+PAF = [(estimated minimum entitlement * offer price + (100 - estimated minimum entitlement) * P(t)) / 
+100] / [P(t)] 
+Else PAF = 1 
+ 
+Definitions 
+Premium in % = [(offer price - P(t-1)) / P(t-1)] * 100 
+Estimated gain per share in % = {[(offer price - P(t-1)) * estimated minimum entitlement] / P(t-1)} * 100 
+P(t-1) is the closing price on the day prior to the ex-date 
+P(t) is the closing price on the ex-date 
+ 
+Estimated minimum entitlement = “NOS sought by acquirer” / “NOS free to participate in the offer” 
+In other words, the estimated minimum entitlement is the minimum percentage of shareholders 
+holdings that will be accepted by the acquiror assuming all shareholders tender their shares, except for 
+the acquiror and the shareholders who explicitly state that they will not participate in the partial tender 
+offer. 
+ 
+Example 
+A company is buying back 10% of its shares at an offer price of USD 90. One shareholder, owning 20% of 
+the shares publicly declares that he will not participate in the offer. In addition, the company already 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+36 of 41 
+owns 5% of treasury shares that will not participate in the offer. The closing market price on the day 
+prior to the ex-date is USD 60 and the closing price on the ex-date is USD 55. 
+ 
+Based on the information available in this example, the estimated minimum entitlement, the premium 
+and the estimated gain per share are calculated as follows: 
+Estimated minimum entitlement 
+10% / (100% - 20% - 5%) = 13.33% 
+Premium 
+(90-60) / 60 = 50% 
+Estimated gain per share 
+[(90-60) * 13.33%] / 60 = 6.66% 
+ 
+As the premium is above 20% and the estimated gain per share is above 5%, meaning both conditions 
+are met, the PAF applied on the ex-date is calculated as follows: 
+[(13.33 * 90 + (100 – 13.33) * 55) / 100] / [55] = 1.085 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+37 of 41 
+Appendix V: Clarification Regarding Effective Dates in 
+Option P, Q, T, US Announcements  
+ 
+This appendix provides clarification regarding the effective date field in the Option P, Q, T, US 
+announcements following the changes in format effective as of June 2, 2003. 
+ 
+MSCI has enhanced the content of its Option P, Q, T, US announcements with additional fields to make 
+them comparable to the data provided in the daily Advance Corporate Events (ACE) files. 
+ 
+In general, the effective date in the header of the Option P, Q, T, US announcement means that all 
+related changes are reflected in the indices as of the open of the specified date, unless indicated 
+otherwise in the text of the announcement. This is typically the case for most mergers and acquisitions. 
+ 
+In some exceptional cases, such as rights issues, stock dividends and splits, the effective date in the 
+header of the Option P, Q, T, US announcement represents the ex-date (or ex-entitlement date) of the 
+event. A PAF is applied on the ex-date (effective date), and the number of shares is changed 
+as of the close of the effective date. 
+ 
+MSCI will continue to use "as of the close of" in the text of the announcements to clarify if the changes 
+are effective as of the open or as of the close of the specified date. 
+ 
+For more details regarding "as of the close of", "ex-date" or "effective date", please refer to Appendix II 
+entitled "Implementation Dates for Corporate Events" in the MSCI Corporate Events Methodology Book. 
+ 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+38 of 41 
+Appendix VI: Announcement Status and Timing  
+ 
+All changes resulting from corporate events affecting constituents of the MSCI Equity Indices are 
+announced prior to their implementation. The changes can have the following status: 
+Status 
+Description 
+Timing 
+Acknowledged 
+The "Acknowledged" status is used to indicate that MSCI 
+is aware of an upcoming event. With this status, MSCI 
+will not disclose any details of the treatment of the 
+corporate event.                                                                                                                    
+The "Acknowledged" status is used for all corporate 
+events (mergers, acquisitions, spin off, buybacks, and 
+conversions), except for corporate actions resulting in a 
+price adjustment (stock, split, rights, etc.), where an 
+"Expected" or "Undetermined" announcement will be 
+sent. For IPOs, a "Confirmed" announcement will be 
+sent. 
+As early as practicable. 
+Undetermined 
+The "Undetermined" status will be used when the event 
+is conditional upon uncertain events (e.g.: the outcome 
+of the tender offer is uncertain), or the effective date is 
+not known. MSCI describes the event and how it intends 
+to implement it if and when the event becomes effective. 
+Undetermined announcements 
+will be sent when there is some 
+uncertainty that the event will 
+take place. 
+Expected 
+MSCI sends an “expected” announcement to describe 
+the implementation and changes that are intended to be 
+made when the effective date is known and when MSCI 
+considers that an event is likely to be successful, 
+provided 
+that 
+the 
+necessary 
+public 
+information 
+concerning the event is available 
+ 
+Generally 10 business days 
+before the effective date. 
+Confirmed 
+The "Confirmed" status will be used when all details for 
+the implementation of the security's change have been 
+finalized. 
+Confirmed announcement is 
+generally sent 2 days before the 
+effective date. 
+Implemented 
+The "Implemented" status will be used when the change 
+has been implemented in the index. 
+The event will remain in the 
+Advance Corporate Events (ACE) 
+file 2 days after its effective 
+date. 
+Canceled 
+The "Canceled" status will be used when a previously 
+announced event does not occur. 
+As early as practicable. 
+Correction 
+The "Correction" status will be used when a modification 
+needs to be made to an event that was previously 
+“Confirmed”.  
+As early as practicable. 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+39 of 41 
+Appendix VII: Additional Corporate Events Rules 
+Applying to the MSCI Global Investable Market Indices 
+ 
+Corporate events may have different implications depending on the specificities for constructing and 
+maintaining each MSCI Index. Such specificities, if any, are described in the respective methodology 
+book of each MSCI Index. 
+ 
+Corporate events rules used for the maintenance of the MSCI Global Investable Market Indices include 
+the rules described in this methodology book as well as the rules described in Section 3 “Maintaining the 
+MSCI Global Investable Market Indices” of the MSCI Global Investable Market Indices Methodology. 
+Please refer to the following sections, among others, of the MSCI Global Investable Market Indices 
+Methodology. 
+ 
+ Changes in FIF, NOS and GICS due to corporate events 
+See Section 3.3 (changes made at the time of the event) and Section 3.2 (changes made at Index 
+Reviews) 
+ Size and style segment reviews due to corporate events 
+See Section 3.3 (at the time of the event) as well as Sections 3.1 and 3.2 (at Index Reviews) 
+ Deletions of securities from the MSCI Global Investable Market Indices due to corporate events 
+See Section 3.3 
+ Announcement policy 
+See Section 3.4 
+ 
+For details on rules for the treatment of IPOs in the MSCI Global Investable Market Indices, see Section 6 
+of this methodology book “IPOs and Other Early Inclusions”.
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+40 of 41 
+May 2012 updates: 
+Section 2.1.3 Tender Offers 
+ clarification on securities that could be deleted before the end of an offer 
+Section 2.1.5: Acquisition of unlisted securities 
+ updated 
+Section 3.5.3: Number of Shares, FIF and/or DIF Changes Following Rights for New Underlying Shares 
+ third paragraph updated 
+Section 4.1.1: Implementation of Share Placements and Offerings in the MSCI Universe 
+ new paragraph for Latin American and Canadian offerings 
+Section 5: Suspensions, Delistings and Bankruptcies 
+ first paragraph updated 
+ 
+June 2012 updates: 
+Section 2.1.4 Partial Tender Offers 
+ section updated 
+Appendix III: Corporate Events Occurring on Saturdays and Sundays 
+ updated to incorporate Saturday calculation 
+Appendix IV: Guidelines Concerning Implementation of Partial Tender Offers 
+ updated 
+ 
+August 2012 updates: 
+Section 2.1: Treatment of M&As in the MSCI Indices 
+ update on US M&As 
+ new paragraph on treatment of delayed deals 
+Section 2.1.2 Cross Borders M&As 
+ foreign exchange rate is used, if applicable 
+Section 2.1.3 Tender offers 
+ Brazilian tender offers 
+Section 2.5 Spin offs 
+ “When-issued” prices 
+Section 3.3 Capital Repayments 
+ updated for Taiwan capital repayments 
+ 
+
+ 
+  
+ 
+ 
+MSCI Data Operations & Technology 
+msci.com 
+© 2012 MSCI Inc. All rights reserved.  
+Please refer to the disclaimer at the end of this document 
+ 
+Index Methodology 
+MSCI Corporate Events Methodology 
+August 2012 
+ 
+41 of 41 
+Client Service Information is Available 24 Hours a Day 
+clientservice@msci.com 
+Notice and Disclaimer 
+ This document and all of the information contained in it, including without limitation all text, data, graphs, charts (collectively, the “Information”) is the property of MSCl Inc. or its 
+subsidiaries (collectively, “MSCI”), or MSCI’s licensors, direct or indirect suppliers or any third party involved in making or compiling any Information (collectively, with MSCI, the 
+“Information Providers”) and is provided for informational purposes only.  The Information may not be reproduced or redisseminated in whole or in part without prior written permission 
+from MSCI.  
+ The Information may not be used to create derivative works or to verify or correct other data or information.   For example (but without limitation), the Information many not be used to 
+create indices, databases, risk models, analytics, software, or in connection with the issuing, offering, sponsoring, managing or marketing of any securities, portfolios, financial products or 
+other investment vehicles utilizing or based on, linked to, tracking or otherwise derived from the Information or any other MSCI data, information, products or services.   
+ The user of the Information assumes the entire risk of any use it may make or permit to be made of the Information.  NONE OF THE INFORMATION PROVIDERS MAKES ANY EXPRESS OR 
+IMPLIED WARRANTIES OR REPRESENTATIONS WITH RESPECT TO THE INFORMATION (OR THE RESULTS TO BE OBTAINED BY THE USE THEREOF), AND TO THE MAXIMUM EXTENT 
+PERMITTED BY APPLICABLE LAW, EACH INFORMATION PROVIDER EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES (INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF 
+ORIGINALITY, ACCURACY, TIMELINESS, NON-INFRINGEMENT, COMPLETENESS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE) WITH RESPECT TO ANY OF THE 
+INFORMATION. 
+ Without limiting any of the foregoing and to the maximum extent permitted by applicable law, in no event shall any Information Provider have any liability regarding any of the 
+Information for any direct, indirect, special, punitive, consequential (including lost profits) or any other damages even if notified of the possibility of such damages. The foregoing shall not 
+exclude or limit any liability that may not by applicable law be excluded or limited, including without limitation (as applicable), any liability for death or personal injury to the extent that 
+such injury results from the negligence or wilful default of itself, its servants, agents or sub-contractors.   
+ Information containing any historical information, data or analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction.  Past 
+performance does not guarantee future results. 
+ None of the Information constitutes an offer to sell (or a solicitation of an offer to buy), any security, financial product or other investment vehicle or any trading strategy.   
+ MSCI’s indirect wholly-owned subsidiary Institutional Shareholder Services, Inc. (“ISS”) is a Registered Investment Adviser under the Investment Advisers Act of 1940.  Except with respect 
+to any applicable products or services from ISS (including applicable products or services from MSCI ESG Research Information, which are provided by ISS), none of MSCI’s products or 
+services recommends, endorses, approves or otherwise expresses any opinion regarding any issuer, securities, financial products or instruments or trading strategies and none of MSCI’s 
+products or services is intended to constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. 
+ The MSCI ESG Indices use ratings and other data, analysis and information from MSCI ESG Research.  MSCI ESG Research is produced by ISS or its subsidiaries.  Issuers mentioned or 
+included in any MSCI ESG Research materials may be a client of MSCI, ISS, or another MSCI subsidiary, or the parent of, or affiliated with, a client of MSCI, ISS, or another MSCI subsidiary, 
+including ISS Corporate Services, Inc., which provides tools and services to issuers.  MSCI ESG Research materials, including materials utilized in any MSCI ESG Indices or other products, 
+have not been submitted to, nor received approval from, the United States Securities and Exchange Commission or any other regulatory body. 
+ Any use of or access to products, services or information of MSCI requires a license from MSCI.  MSCI, Barra, RiskMetrics, ISS, CFRA, FEA, and other MSCI brands and product names are 
+the trademarks, service marks, or registered trademarks or service marks of MSCI or its subsidiaries in the United States and other jurisdictions.  The Global Industry Classification Standard 
+(GICS) was developed by and is the exclusive property of MSCI and Standard & Poor’s.  “Global Industry Classification Standard (GICS)” is a service mark of MSCI and Standard & Poor’s. 
+About MSCI  
+MSCI Inc. is a leading provider of investment decision support tools to investors globally, including asset managers, banks, hedge funds and pension funds. MSCI 
+products and services include indices, portfolio risk and performance analytics, and governance tools.  
+The company’s flagship product offerings are: the MSCI indices which include over 148,000 daily indices covering more than 70 countries; Barra portfolio risk and 
+performance analytics covering global equity and fixed income markets; RiskMetrics market and credit risk analytics; ISS governance research and outsourced proxy 
+voting and reporting services; FEA valuation models and risk management software for the energy and commodities markets; and CFRA forensic accounting risk 
+research, legal/regulatory risk assessment, and due-diligence. MSCI is headquartered in New York, with research and commercial offices around the world. 
+Americas 
+ 
+Europe, Middle East & Africa 
+Asia Pacific 
+ 
+Americas 
+Atlanta 
+Boston 
+Chicago 
+Montreal 
+Monterrey 
+New York 
+San Francisco 
+Sao Paulo 
+Stamford 
+Toronto 
+1.888.588.4567 (toll free)  
++ 1.404.551.3212 
++ 1.617.532.0920 
++ 1.312.675.0545 
++ 1.514.847.7506 
++ 52.81.1253.4020 
++ 1.212.804.3901 
++ 1.415.836.8800 
++ 55.11.3706.1360 
++1.203.325.5630 
++ 1.416.628.1007 
+Cape Town 
+Frankfurt 
+Geneva 
+London 
+Milan 
+Paris 
+ 
++ 27.21.673.0100 
++ 49.69.133.859.00 
++ 41.22.817.9777 
++ 44.20.7618.2222 
++ 39.02.5849.0415 
+0800.91.59.17 (toll free) 
+ 
+China North 
+China South 
+Hong Kong 
+Seoul 
+Singapore 
+Sydney 
+Tokyo 
+10800.852.1032 (toll free)  
+10800.152.1032 (toll free)  
++ 852.2844.9333 
+798.8521.3392 (toll free) 
+800.852.3749 (toll free) 
++ 61.2.9033.9333 
++ 81.3.5226.8222 
+

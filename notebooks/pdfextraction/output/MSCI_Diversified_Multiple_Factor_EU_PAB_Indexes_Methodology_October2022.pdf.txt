@@ -1,0 +1,954 @@
+Page count: 21
+Metadata: {'format': 'PDF 1.7', 'title': 'MSCI Diversified Multiple-Factor EU PAB Indexes Methodology', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Microsoft® Word for Microsoft 365', 'producer': 'Microsoft® Word for Microsoft 365', 'creationDate': "D:20221027181458+05'30'", 'modDate': "D:20221027181458+05'30'", 'trapped': '', 'encryption': None}
+ 
+ 
+MSCI Diversified 
+Multiple-Factor EU 
+PAB Indexes 
+Methodology 
+  
+October 2022 
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 2 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+ 
+ 
+1 
+Introduction ............................................................................ 3 
+2 
+MSCI ESG Research ............................................................... 4 
+2.1 
+MSCI Climate Change Metrics 
+........................................................... 
+4 
+2.2 
+MSCI ESG Controversies 
+.................................................................... 
+4 
+2.3 
+MSCI ESG Business Involvement Screening Research ................... 
+5 
+3 
+Index Construction Methodology .......................................... 6 
+3.1 
+Applicable Universe ............................................................................ 
+6 
+3.2 
+Eligible Universe 
+.................................................................................. 
+6 
+3.3 
+Defining the Exclusion Criteria........................................................... 
+6 
+3.3.1 
+Controversey Based Exclusion Criteria .................................................... 6 
+3.3.2 
+Business Exclusion Criteria 
+....................................................................... 6 
+3.4 
+Constituent Identification................................................................... 
+7 
+3.5 
+Weighting Scheme 
+.............................................................................. 
+7 
+3.5.1 
+Calculation Of the Alpha Score ................................................................. 7 
+3.6 
+Optimization Constraints ................................................................... 
+7 
+3.7 
+Determining the Optimized Index ...................................................... 
+9 
+4 
+Maintaining the Indexes 
+....................................................... 10 
+4.1 
+Quarterly Index Reviews ................................................................... 
+10 
+4.2 
+Ongoing Event Related changes 
+...................................................... 
+10 
+Appendix I: Business Exclusion Criteria .................................... 12 
+Appendix II: Target Factor Definition Summary ........................ 14 
+Appendix III: Calculation of Target Metrics ............................... 15 
+Appendix IV: New release of Barra® Equity Model or Barra® 
+Optimizer ..................................................................................... 18 
+Appendix V: Handling Infeasible Optimizations ........................ 19 
+ 
+ 
+Contents 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 3 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+1 
+Introduction 
+The MSCI Diversified Multiple-Factor EU PAB Indexes (the “Indexes”) are designed to 
+represent the performance of a strategy that meets the minimum standards of the 
+EU Paris Aligned Benchmark (PAB) 1 and seek higher exposure to the four style 
+factors - Value, Momentum, Low Size and Quality - relative to other factors from the 
+relevant Barra Equity Model2 while maintaining market risk exposure similar to the 
+underlying Parent Index (herein, the “Parent Index”).  
+This index methodology aims to incorporate climate-based constraints in an 
+optimization-based index construction approach by using risk-target optimization. 
+ 
+1 https://www.msci.com/documents/1296102/15294579/eu-teg-interim-report-on-climate-benchmarks-and-
+benchmarks-esg-disclosures.pdf.  In case there are changes in the EU delegated acts and an update to the Index 
+methodology is required, MSCI will issue an announcement prior to implementing the changes in the 
+methodology. MSCI will not conduct a formal consultation for such an update. 
+2 Please refer to Appendix II 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 4 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+2 
+MSCI ESG Research 
+The Indexes use company ratings and research provided by MSCI ESG Research LLC. 
+In particular, these Indexes use the following three MSCI ESG Research products: 
+MSCI Climate Change Ratings, MSCI ESG Controversies Score and MSCI ESG 
+Business Involvement Screening Research.  
+For details on MSCI ESG Research’s full suite of ESG products, please refer to: 
+https://www.msci.com/esg-investing. 
+2.1 
+MSCI CLIMATE CHANGE METRICS 
+MSCI Climate Change Metrics provides climate data & tools to support investors 
+integrating climate risk & opportunities into their investment strategy and processes. 
+It supports investors seeking to achieve a range of objectives, including measuring 
+and reporting on climate risk exposure, implementing low carbon and fossil fuel-free 
+strategies, align with temperature pathways and factoring climate change research 
+into their risk management processes, in particular through climate scenario analysis 
+for both transition and physical risks.  
+The dataset spans across the four dimensions of a climate strategy: transition risks, 
+green opportunities, physical risks and 1.5° alignment. 
+For more details on MSCI Climate Change Metrics, please refer to 
+https://www.msci.com/climate-solutions. 
+2.2 
+MSCI ESG CONTROVERSIES 
+MSCI ESG Controversies provides assessments of controversies concerning the 
+negative environmental, social, and/or governance impact of company operations, 
+products and services. The evaluation framework used in MSCI ESG Controversies is 
+designed to be consistent with international norms represented by the UN 
+Declaration of Human Rights, the ILO Declaration on Fundamental Principles and 
+Rights at Work, and the UN Global Compact. MSCI ESG Controversies Score falls on 
+a 0-10 scale, with “0” being the most severe controversy.  
+For more details on MSCI ESG Controversies Score, please refer to 
+https://www.msci.com/documents/10199/acbe7c8a-a4e4-49de-9cf8-
+5e957245b86b. 
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 5 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+2.3 
+MSCI ESG BUSINESS INVOLVEMENT SCREENING RESEARCH 
+MSCI ESG Business Involvement Screening Research (BISR) aims to enable 
+institutional investors to manage environmental, social and governance (ESG) 
+standards and restrictions reliably and efficiently.  
+For more details on MSCI ESG Business Involvement Screening Research, please 
+refer to http://www.msci.com/resources/factsheets/MSCI_ESG_BISR.pdf.  
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 6 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+3 
+Index Construction Methodology 
+The Indexes are constructed based on an optimization process from the underlying 
+Parent Index using a Barra Equity Model to maximize the Index-level exposure to the 
+targeted style factors while maintaining market risk similar to the Parent Index and 
+meeting the minimum standards of the EU Paris Aligned Benchmark (PAB). 
+The steps for constructing the Indexes are described below. 
+3.1 
+APPLICABLE UNIVERSE 
+The Applicable Universe includes all the existing constituents of an underlying MSCI 
+Parent Index. The relevant Parent Index could be any MSCI Global Investable Market 
+Index. 
+3.2 
+ELIGIBLE UNIVERSE 
+The Eligible Universe is constructed by excluding securities from the Applicable 
+Universe based on the exclusion criteria described below.  
+3.3 
+DEFINING THE EXCLUSION CRITERIA 
+3.3.1 
+CONTROVERSEY BASED EXCLUSION CRITERIA 
+Securities of companies involved in “Very Severe” business controversies as defined 
+by the MSCI ESG Controversies Methodology are not eligible for inclusion in the 
+Index. This is implemented by excluding securities from the Applicable Universe with 
+ESG Controversy Score = 0 (‘Red Flag’ companies). 
+3.3.2 
+BUSINESS EXCLUSION CRITERIA 
+Companies that are involved in specific businesses which have high potential for 
+negative social and/or environmental impact are ineligible for inclusion in the Index.  
+• 
+Controversial Weapons 
+• 
+Environmental Harm 
+• 
+Tobacco 
+• 
+Thermal Coal Mining 
+• 
+Oil & Gas 
+• 
+Power Generation 
+Please refer to Appendix I for more details on these criteria. 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 7 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+3.4 
+CONSTITUENT IDENTIFICATION 
+The selection of constituents from the Eligible Universe is conducted through the 
+process of optimization. 
+The optimization relies on the factor exposures for all the securities in the Parent 
+Index and the factor covariance matrix of the relevant Barra Equity Model. The 
+optimization is performed using a base currency. The default currency is the US 
+Dollar. 
+3.5 
+WEIGHTING SCHEME 
+The optimization objective is to maximize the Alpha score (representative of the 
+exposures to the set of target factors) under the “target risk “constraint where the 
+risk target is equal to the ex-ante risk of the Parent Index at the time of rebalancing. 
+3.5.1 
+CALCULATION OF THE ALPHA SCORE 
+ 
+∝i= 0.25 ∗F1,i + 0.25 ∗F2,i  + 0.25 ∗F3,i +  0.25 ∗F4,i 
+Where, 
+ 𝐹
+𝑗,𝑖= Factor exposure of each security i for each of the target factors. 
+The factor exposures for the target factors are sourced as follows:  
+• 
+Momentum – The winsorized z-score of factor exposure for each security 
+taken from the Momentum factor exposure in the relevant Barra Equity 
+Model. The factor definition is given in Appendix II.  
+• 
+Low Size - The winsorized z-score of factor exposure for each security taken 
+from the relevant Barra Equity Model. The factor definition is given in 
+Appendix II.  
+• 
+Value – Sector-relative score calculated using the security-level exposures to 
+earnings-based, asset-based and whole-firm based valuation metrics from 
+the relevant Barra Equity Model. The factor definition is given in Appendix II.  
+• 
+Quality – Sector-relative score calculated using the security-level exposures 
+to all Quality factors from the relevant Barra Equity Model. The factor 
+definition is given in Appendix II.  
+3.6 
+OPTIMIZATION CONSTRAINTS 
+At each Quarterly Index Review (QIR), the following optimization constraints are 
+employed, which aim to ensure investability while achieving total risk in line with that 
+of the Parent Index: 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 8 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+• 
+If the Parent Index is an MSCI Standard Index or MSCI Investable Market Index 
+(IMI), then the maximum weight of an Index constituents that belong to the Large 
+Cap size segment will be restricted to the lower of (the weight of the security in 
+the Parent Index + 2%) and 10 times the weight of the security in the Parent 
+Index. The minimum weight of an Index constituent will be restricted to the 
+higher of the (weight of the security in the Parent Index - 2%) and 0. The 
+maximum weight of an Index constituents that belong to the Mid Cap or Small 
+Cap size segments will be restricted to the lower of (the weight of the security in 
+the Parent Index + 1%) or 5 times the weight of the security in the Parent Index. 
+The minimum weight of an Index constituent will be restricted to the higher of the 
+(weight of the security in the Parent Index - 1%) or 0. 
+• 
+If the Parent Index is an MSCI Mid Cap index or an MSCI Small Cap index, the 
+maximum weight of an Index constituent will be restricted to the lower of (the 
+weight of the security in the Parent Index + 1%) and 5 times the weight of the 
+security in the Parent Index. The minimum weight of an Index constituent will be 
+restricted to the higher of (the weight of the security in the Parent Index - 1%) and 
+0. 
+• 
+Active exposure of the Index to the target Barra style factors (factors included in 
+the calculation of Alpha score) will be constrained to be greater than 0.1 and less 
+than 0.6. Factors, namely, Earnings Variability, Leverage, Size, Beta and Residual 
+Volatility if included in the calculation of Alpha score, will be constrained to be 
+greater than -0.6 and less than -0.1 relative to the Parent Index. 
+• 
+The exposure of the Index to the non-target Barra style factors will be restricted 
+to +/-0.1 standard deviations relative to the Parent Index. 
+• 
+The Global Industry Classification Standard (GICS®)3 sector weights of the Index 
+will not deviate more than +/- 5% from the sector weights of the Parent Index (the 
+Energy GICS Sector is not constrained). 
+• 
+For countries with weight greater than 2.5% in the Parent Index, the weight in the 
+Index will not deviate more than +/-5% from the country weight in the Parent 
+Index. 
+• 
+For countries with weight less than 2.5% in the Parent Index, the weight in the 
+Index will be capped at 3 times their weight in the Parent Index. 
+• 
+The above country weight constraint will also apply on China A Stock Connect 
+listings as a group separately in addition to the usual country weight constraint 
+on China. 
+• 
+The one-way turnover of the Index is constrained to a maximum of 10% at each 
+QIR. 
+ 
+3 Please refer to MSCI GICS Methodology for details. The GICS methodology is available at: 
+https://www.msci.com/gics  
+
+ 
+ 
+ 
+MSCI.COM | PAGE 9 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+• 
+In addition to the above-mentioned constraints, the climate objective constraints 
+are applied as detailed in Table 1 below: 
+ 
+No. 
+Climate  Objectives 
+1. 
+Minimum reduction in Greenhouse Gas (GHG) 
+Intensity relative to EVIC (Scope 1+2+34) relative 
+to the Parent Index 
+50% 
+2. 
+Minimum average reduction (per annum) in GHG 
+Intensity (relative to EVIC) relative to GHG 
+Intensity of the Index at the Base Date5 
+7% 
+3. 
+Minimum active weight in High Climate Impact 
+Sector relative to Parent Index as defined in 
+Appendix III 
+0% 
+Table 1: Constraints imposed to meet climate objectives 
+ 
+3.7 
+DETERMINING THE OPTIMIZED INDEX  
+The MSCI Diversified Multiple-Factor EU PAB Indexes are constructed using the 
+Barra Open Optimizer in combination with the relevant Barra Equity Model6. The 
+optimization uses the Eligible Universe and the Applicable Universe and the specified 
+optimization objective and constraints to determine the constituents and the weights 
+of the Index. The Eligible Universe is used to determine the securities eligible in the 
+Index and the Applicable Universe is used to define other constraints like “target 
+risk”. Infeasible optimizations are handled as explained in Appendix V. 
+ 
+ 
+ 
+4 Prior to the May 2020 Semi-Annual Index Review (SAIR) of the Indexes, the Weighted Average Carbon 
+Emissions Intensity relative to EVIC has been calculated based on Scope 1+2 Emissions.  
+5 Prior to the May 2020 Semi-Annual Index Review (SAIR) of the Indexes, the average reduction in Weighted 
+Average Carbon Emissions Intensity relative to EVIC has been calculated using Scope 1+2 Emissions since 
+Inception. 
+6 Please refer to Appendix IV for the detailed information on model usage 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 10 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+4 
+Maintaining the Indexes 
+4.1 
+QUARTERLY INDEX REVIEWS 
+The MSCI Diversified Multiple-Factor EU PAB Indexes are rebalanced on a quarterly 
+basis, usually as of the close of the last business day of February, May, August and 
+November, coinciding with the regular Index Reviews (Semi-Annual Index Reviews in 
+May and November and Quarterly Index Reviews in February and August) of the MSCI 
+Global Investable Market Indexes. The Barra Equity Model data as of the day before 
+the rebalancing day is used. This approach aims to capture timely updates to the risk 
+characteristics of the companies and coincide with the rebalancing frequency of the 
+relevant Parent Index.  
+In general, MSCI uses MSCI ESG Research data (including MSCI Climate Change 
+Metrics, MSCI ESG Controversies and MSCI Business Involvement Screening 
+Research) as of the end of the month preceding the Index Reviews for the 
+rebalancing of the Indexes.  
+The pro forma MSCI Diversified Multiple-Factor EU PAB Indexes are in general 
+announced nine business days before the effective date. 
+4.2 
+ONGOING EVENT RELATED CHANGES   
+The general treatment of corporate events in the Indexes aims to minimize turnover 
+outside of Index Reviews. The methodology aims to appropriately represent an 
+investor’s participation in an event based on relevant deal terms and pre-event 
+weighting of the Index constituents that are involved. Further, changes in Index 
+market capitalization that occur as a result of corporate event implementation will be 
+offset by a corresponding change in the Variable Weighting Factor (VWF) of the 
+constituent. 
+Additionally, if the frequency of Index Reviews in the Parent Index is greater than the 
+frequency of Index Reviews in the Index, the changes made to the Parent Index 
+during intermediate Index Reviews will be neutralized in the Index. 
+The following section briefly describes the treatment of common corporate events 
+within the Index. 
+No new securities will be added (except where noted below) to the Index between 
+Index Reviews. Parent Index deletions will be reflected simultaneously. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 11 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+EVENT TYPE 
+ 
+ 
+ 
+ 
+EVENT DETAILS 
+ 
+ 
+ 
+New additions to the Parent Index 
+A new security added to the Parent 
+Index (such as IPO and other early 
+inclusions) will not be added to the 
+Index. 
+ 
+Spin-Offs 
+All securities created as a result of the 
+spin-off of an existing Index 
+constituent will be added to the Index 
+at the time of event implementation. 
+Reevaluation for continued inclusion 
+in the Index will occur at the 
+subsequent Index Review. 
+ 
+Merger/Acquisition 
+For Mergers and Acquisitions, the 
+acquirer’s post event weight will 
+account for the proportionate amount 
+of shares involved in deal 
+consideration, while cash proceeds 
+will be invested across the Index. 
+ 
+If an existing Index constituent is 
+acquired by a non-Index constituent, 
+the existing constituent will be deleted 
+from the Index and the acquiring non-
+constituent will not be added to the 
+Index. 
+ 
+Changes in Security Characteristics 
+A security will continue to be an Index 
+constituent if there are changes in 
+characteristics (country, sector, size 
+segment, etc.) Reevaluation for 
+continued inclusion in the Index will 
+occur at the subsequent Index Review. 
+ 
+Further detail and illustration regarding specific treatment of corporate events 
+relevant to this Index can be found in the MSCI Corporate Events Methodology book 
+under the sections detailing the treatment of events in Capped Weighted and Non-
+Market Capitalization Weighted Indexes.   
+The MSCI Corporate Events methodology book is available at: 
+https://www.msci.com/index-methodology. 
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 12 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+Appendix I: Business Exclusion Criteria 
+Companies whose activities meet the following values and climate change-based 
+criteria, as evaluated by MSCI ESG Research, are excluded from the MSCI Diversified 
+Multiple-Factor EU PAB Indexes.  
+ 
+• 
+ESG Controversy Score (“Red Flags”)  
+o 
+Securities of companies having faced very severe controversies pertaining to 
+ESG issues are not eligible for inclusion in the Index. This is implemented by 
+excluding constituents of Parent Index with MSCI ESG Controversy Score = 0 
+(“Red Flag” companies). For more details on MSCI ESG Controversies Score, 
+please refer to https://www.msci.com/esg-integration. 
+ 
+• 
+Controversial Weapons Involvement  
+O 
+All companies with any tie to Controversial Weapons (cluster munitions, 
+landmines, depleted uranium weapons, biological/chemical weapons, 
+blinding lasers, non-detectable fragments and incendiary weapons), as 
+defined by the methodology of the MSCI Ex-Controversial Weapons Indexes 
+available at https://www.msci.com/index-methodology.  
+ 
+• 
+Environmental Harm 
+o 
+All companies having faced very severe and severe controversies pertaining 
+to Environmental issues – Defined as companies with an Environment 
+Controversy Score of 0 or 1. 
+ 
+• 
+Tobacco 
+o 
+All companies that are involved in the manufacturing of Tobacco products. 
+ 
+• 
+Thermal Coal Mining 
+o 
+All companies deriving 1% or more revenue (either reported or estimated) 
+from the mining of thermal coal (including lignite, bituminous, anthracite and 
+steam coal) and its sale to external parties. It excludes revenue from 
+metallurgical coal, coal mined for internal power generation (e.g., in the case 
+of vertically integrated power producers), intracompany sales of mined 
+thermal coal, and revenue from coal trading (either reported or estimated). 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 13 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+• 
+Oil & Gas 
+o 
+All companies deriving 10% or more revenue from oil and gas related 
+activities, including distribution / retail, equipment and services, extraction 
+and production, pipelines and transportation and refining but excluding 
+biofuel production and sales and trading activities. 
+ 
+• 
+Power Generation 
+o 
+All companies deriving 50% or more revenue from thermal coal-based power 
+generation, liquid fuel-based power generation and natural gas-based power 
+generation7. 
+ 
+ 
+ 
+ 
+7 As per https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter7.pdf, thermal coal based 
+power generation, liquid fuel based power generation and natural gas based power generation have median 
+lifecycle emissions exceeding 100gCO2/kWh. 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 14 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+Appendix II: Target Factor Definition Summary 
+The style factors targeted in the MSCI Diversified Multiple-Factor EU PAB Index are 
+the four style factor families and their combinations: Value, Quality, Momentum and 
+Low Size. These factor families are described using individual factor scores from the 
+current release of the MSCI Barra Equity Model. The choice of factors used within 
+each factor family is governed by the current model used for the optimization, which 
+may change with a new release of the Barra Equity Model (as specified in Appendix 
+IV). The model data will be used from a day prior to the rebalancing date. All factor 
+exposures are re-normalized at the Parent Index level prior to the calculation of the 
+Alpha score. Following are the definitions of factor families currently used in the 
+Index. For more detailed information on individual factors in GEMLTL, please refer to 
+https://www.msci.com/portfolio-management. 
+Value: 
+The Value score for each security is calculated by combining the security-level 
+exposures to two factors, Book-to-Price and Earnings Yield, from the relevant Barra 
+Equity Model (currently GEMLTL). A sector-relative score is derived from the 
+combined score by standardizing (z-score) the latter within each sector and 
+winsorizing at +/- 3. 
+Valuei = (0.33) ∗BtoP
+i + (0.67) ∗EarningsYieldi 
+Quality: 
+The Quality score for each security is calculated by combining in equal 
+proportion the security-level exposures to five factors - Profitability, Investment 
+Quality, Earnings Quality, Leverage and Earnings Variability - from the relevant 
+Barra Equity Model (currently GEMLTL). A sector-relative score is derived from 
+the combined score by standardizing (z-score) the latter within each sector and 
+winsorizing at +/- 3. 
+Qualityi = (0.2) ∗Profitabilityi + (0.2) ∗Investment Qualityi + (0.2) ∗Earnings Qualityi
++ (−1) ∗(0.2) ∗Earnings Variabilityi + (−1) ∗(0.2) ∗Leveragei 
+Momentum: 
+The Momentum score for each security is the standardized (z-score) Momentum 
+factor score from the relevant Barra Equity Model (currently GEMLTL) within the 
+Parent Index and winsorized at +/- 3. 
+Low Size: 
+The Low Size score for each security is the standardized (z-score) Size factor score 
+with sign reversed from the relevant Barra Equity Model (currently GEMLTL) within 
+the Parent Index and winsorized at +/- 3. 
+Low Sizei = −(1)Sizei 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 15 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+Appendix III: Calculation of Target Metrics 
+Calculation of GHG Intensity relative to EVIC 
+For Parent Index constituents where the Scope 1+2+3 Emissions Intensity is not 
+available, the average Scope 1+2+3 Emissions Intensity of all the constituents of the 
+MSCI ACWI in the same GICS Industry Group in which the constituent belongs is 
+used.  
+Security Level GHG Intensity = 
+ 𝑆𝑐𝑜𝑝𝑒 1 + 2 + 3 𝐶𝑎𝑟𝑏𝑜𝑛 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠∗ (1 + 𝐸𝑉𝐼𝐴𝐹)
+𝐸𝑛𝑡𝑒𝑟𝑝𝑟𝑖𝑠𝑒 𝑉𝑎𝑙𝑢𝑒+ 𝐶𝑎𝑠ℎ(𝑖𝑛 𝑀$)
+ 
+ 
+Enterprise Value Inflation Adjustment Factor (EVIAF) = 
+𝐸𝑉𝐼𝐴𝐹= (
+𝐴𝑣𝑒𝑟𝑎𝑔𝑒(𝐸𝑛𝑡𝑒𝑟𝑝𝑟𝑖𝑠𝑒 𝑉𝑎𝑙𝑢𝑒+ 𝐶𝑎𝑠ℎ)
+𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 (𝐴𝑣𝑒𝑟𝑎𝑔𝑒(𝐸𝑛𝑡𝑒𝑟𝑝𝑟𝑖𝑠𝑒 𝑉𝑎𝑙𝑢𝑒+ 𝐶𝑎𝑠ℎ)) ) −1 
+ 
+Weighted Average GHG Intensity of Parent Index = 
+ 
+∑(𝑊𝑒𝑖𝑔ℎ𝑡 𝑖𝑛 𝑃𝑎𝑟𝑒𝑛𝑡 𝐼𝑛𝑑𝑒𝑥∗ 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝐿𝑒𝑣𝑒𝑙 𝐺𝐻𝐺 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦) 
+ 
+Weighted Average GHG Intensity of Derived Index =   
+∑(𝐼𝑛𝑑𝑒𝑥 𝑊𝑒𝑖𝑔ℎ𝑡∗ 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝐿𝑒𝑣𝑒𝑙 𝐺𝐻𝐺 𝐼𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦) 
+ 
+Calculation of Average Decarbonization 
+On average, the Indexes follow a 7% decarbonization trajectory since the Base Date. 
+The Weighted Average GHG Intensity relative to EVIC at the Base Date (W1) is used to 
+compute the target Weighted Average GHG Intensity relative to EVIC at any given Semi-
+Annual Index Review (Wt) as per the below formula. 
+𝑊
+𝑡= 𝑊
+1 ∗  0.93
+(𝑡−1)
+2  
+Where ‘t’ is the number of Semi-Annual Index Reviews since the Base Date.  
+Thus, for the 3rd Semi-Annual Index Review since the Base Date (t=3), the target 
+Weighted Average GHG Intensity relative to EVIC will be W1*0.93. 
+Calculation of GHG Intensity relative to Sales 
+For Parent Index constituents where the Scope 1+2+3 Emissions Intensity is not 
+available, the average Scope 1+2+3 Emissions Intensity of all the constituents of the 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 16 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+MSCI ACWI in the same GICS Industry Group in which the constituent belongs is 
+used.  
+Security Level GHG Intensity = 
+ 𝑆𝑐𝑜𝑝𝑒 1 + 2 + 3 𝐶𝑎𝑟𝑏𝑜𝑛 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠∗ (1 + 𝐸𝑉𝐼𝐴𝐹)
+𝑆𝑎𝑙𝑒𝑠 (𝑖𝑛 𝑀$)
+ 
+ 
+Climate Impact Sectors 
+NACE8 is the European Union’s classification of economic activities. As per the draft 
+DA, stocks in the NACE Section codes A, B, C, D, E, F, G, H, L are classified as “High 
+Climate Impact” sector and other stocks are classified ‘Low Climate Impact’ sector. 
+The GICS9 Sub-Industry code for each security is mapped to the corresponding 
+“Climate Impact Sector” using a mapping. This mapping is constructed in the 
+following steps: 
+1. MSCI has published a mapping10 between the NACE classes and GICS Sub-
+Industry.  
+2. For each GICS Sub-Industry, the number of NACE classes which fall under the 
+High Climate Impact Sector (say the number of classes is NH) and Low 
+Climate Impact Sector (say the number of classes is NL) is identified. 
+3. If all the NACE classes for a given GICS Sub-Industry are identified in the High 
+Climate Impact Sector (NL = 0), then the GICS Sub-Industry is mapped to the 
+High Climate Impact Sector. Conversely, if all the NACE classes for a given 
+GICS Sub-Industry are identified in the Low Climate Impact Sector (NH = 0) 
+then the GICS Sub-Industry is mapped to the Low Climate Impact Sector. 
+4. In case a GICS Sub-Industry is mapped to some NACE classes in the High 
+Climate Impact Sector and the others in the Low Climate Impact Sector, the 
+GICS Industry is mapped to the Climate Impact Sector in the following 
+manner: 
+a. NH >= NL: If the number of NACE classes in the High Climate Impact 
+Sector is at least equivalent to the number of NACE classes in the 
+Low Climate Impact Sector, the GICS Sub-Industry is mapped to the 
+High Climate Impact Sector. 
+ 
+8 For further details regarding NACE, please refer to https://ec.europa.eu/eurostat/statistics-
+explained/index.php?title=NACE_background 
+9 For further information regarding GICS, please refer to https://www.msci.com/gics 
+10 This mapping is available in the Handbook of Climate Transition Benchmarks, Paris-Aligned Benchmark and 
+Benchmarks’ ESG Disclosures 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 17 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+b. NH < NL: If the number of NACE classes in the High Climate Impact 
+Sector is less than the number of NACE classes in the Low Climate 
+Impact Sector, the GICS Sub-Industry is mapped to the Low Climate 
+Impact Sector. 
+5. Using the GICS Sub-Industry to Climate Impact Sector mapping created in 
+Step 4, and the security-level GICS Sub-Industry, each security in the Parent 
+Index is classified in either High Climate Impact Sector or Low Climate 
+Impact Sector. 
+ 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 18 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+Appendix IV: New release of Barra® Equity Model or 
+Barra® Optimizer 
+The methodology presently uses MSCI Barra Global Equity Model for Long-Term 
+Investors (“GEMLTL”) for the optimization. A new release of the relevant Barra Equity 
+Model or Barra Optimizer may replace the former version within a suitable 
+timeframe. 
+ 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 19 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+Appendix V: Handling Infeasible Optimizations 
+During the Quarterly Index Review, in the event that there is no optimal solution that 
+satisfies all the optimization constraints defined in Section 3.6, the following 
+constraints will be relaxed, until an optimal solution is found: 
+• 
+Relax the maximum weight multiple in steps of 2 for the Large Cap size 
+segment and in steps of 1 for the Mid Cap and Small Cap size segments, up 
+to a maximum of 5 iterations based upon the following formula: 
+𝑤𝑚i+1= step + 𝑤𝑚i 𝑓𝑜𝑟 𝑖 = 0 − 4 
+Where 𝑤𝑚i = Maximum Active weight multiple 
+𝑤𝑚0 = 10 and step=2 for the Large Cap size segment 
+𝑤𝑚0 = 5 and step=1 for the Mid Cap and Small Cap size segment 
+• 
+Relax the turnover constraint in steps of 2%, up to a maximum of 20%.  
+• 
+The maximum weight multiple constraint and the maximum turnover 
+constraint are alternately relaxed until a feasible solution is achieved. For 
+example, constraints relaxation is executed in the sequence as illustrated 
+below:  
+ 
+In the event that no optimal solution is found after the above constraints have been 
+relaxed over all the iterations, the relevant MSCI Diversified Multiple-Factor EU PAB 
+Index will not be rebalanced for that Quarterly Index Review. 
+ 
+ 
+Order of 
+Relaxation 
+ 
+Maximum Asset Weight Multiple 
+ 
+Turnover 
+Limit 
+1 
+12 times (for Large Cap)/ 6 times (for Mid Cap and 
+Small Cap) the weight of the security in the Parent Index 
+10% 
+2 
+12 times (for Large Cap)/ 6 times (for Mid Cap and 
+Small Cap) the weight of the security in the Parent Index 
+12% 
+3 
+14 times (for Large Cap)/ 7 times (for Mid Cap and 
+Small Cap) the weight of the security in the Parent Index 
+12% 
+4 
+14 times (for Large Cap)/ 7 times (for Mid Cap and 
+Small Cap) the weight of the security in the Parent Index 
+14% 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 20 OF 21 
+© 2022 MSCI Inc. All rights reserved. Please refer to the disclaimer at the end of this document. 
+ 
+MSCI Diversified Multiple-Factor EU PAB Indexes Methodology | October 2022 
+AMERICAS 
+ 
+Americas 
+1 888 588 4567 * 
+Atlanta  
++ 1 404 551 3212 
+Boston  
++ 1 617 532 0920 
+Chicago 
++ 1 312 675 0545 
+Monterrey 
++ 52 81 1253 4020 
+New York 
++ 1 212 804 3901 
+San Francisco + 1 415 836 8800 
+São Paulo 
++ 55 11 3706 1360 
+Toronto 
++ 1 416 628 1007 
+ 
+ 
+EUROPE, MIDDLE EAST & AFRICA 
+ 
+Cape Town 
++ 27 21 673 0100 
+Frankfurt 
++ 49 69 133 859 00 
+Geneva  
++ 41 22 817 9777 
+London 
+ 
++ 44 20 7618 2222 
+Milan  
++ 39 02 5849 0415 
+Paris 
+ 
+0800 91 59 17 * 
+ 
+ 
+ASIA PACIFIC 
+ 
+China North 
+10800 852 1032 * 
+China South 
+10800 152 1032 * 
+Hong Kong 
++ 852 2844 9333 
+Mumbai 
++ 91 22 6784 9160 
+Seoul  
+00798 8521 3392 * 
+Singapore 
+800 852 3749 * 
+Sydney  
++ 61 2 9033 9333 
+Taipei  
+008 0112 7513 * 
+Thailand 
+0018 0015 6207 7181 * 
+Tokyo  
++ 81 3 5290 1555 
+ 
+ABOUT MSCI 
+ 
+MSCI is a leader provider of critical 
+decision support tools and services for 
+the global investment community. With 
+over 50 years of expertise in research, 
+data and technology, we power better 
+investment decisions by enabling clients 
+to understand and analyze key drivers of 
+risk and return and confidently build 
+more effective portfolios. We create 
+industry-leading research-enhanced 
+solutions that clients use to gain insight 
+into and improve transparency across 
+the investment process. 
+The process for submitting a formal 
+index complaint can be found on the 
+index regulation page of MSCI’s website 
+at: www.msci.com/index-regulation.  
+To learn more, please visit 
+www.msci.com. 
+* = toll free 
+ 
+Contact us 
+ 
+clientservice@msci.com 
+
+ 
+ 
+ 
+MSCI.COM | PAGE 21 OF 21 
+© 2022 MSCI Inc. All rights reserved. 
+ 
+Notice and disclaimer 
+ 
+This document and all of the information contained in it, including without limitation all text, data, graphs, charts (collectively, the “Information”) is the property of MSCI Inc. or its 
+subsidiaries (collectively, “MSCI”), or MSCI’s licensors, direct or indirect suppliers or any third party involved in making or compiling any Information (collectively, with MSCI, the “Informat 
+ion Providers”) and is provided for informational purposes only. The Information may not be modified, reverse-engineered, reproduced or redisseminated in whole or in part without prior 
+written permission from MSCI. All rights in the Information are reserved by MSCI and/or its Information Providers. 
+The Information may not be used to create derivative works or to verify or correct other data or information.   For example (but without limitation), the Information may not be used to 
+create indexes, databases, risk models, analytics, software, or in connection with the issuing, offering, sponsoring, managing or marketing of any securities, portfolios, financial products or 
+other investment vehicles utilizing or based on, linked to, tracking or otherwise derived from the Information or any other MSCI data, information, products or services.   
+The user of the Information assumes the entire risk of any use it may make or permit to be made of the Information.  NONE OF THE INFORMATION PROVIDERS MAKES ANY EXPRESS OR 
+IMPLIED WARRANTIES OR REPRESENTATIONS WITH RESPECT TO THE INFORMATION (OR THE RESULTS TO BE OBTAINED BY THE USE THEREOF), AND TO THE MAXIMUM EXTENT 
+PERMITTED BY APPLICABLE LAW, EACH INFORMATION PROVIDER EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES (INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES 
+OF ORIGINALITY, ACCURACY, TIMELINESS, NON-INFRINGEMENT, COMPLETENESS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE) WITH RESPECT TO ANY OF THE 
+INFORMATION. 
+Without limiting any of the foregoing and to the maximum extent permitted by applicable law, in no event shall any Information Provider have any liability regarding any of the Information 
+for any direct, indirect, special, punitive, consequential (including lost profits) or any other damages even if notified of the possibility of such damages. The foregoing shall not exclude or 
+limit any liability that may not by applicable law be excluded or limited, including without limitation (as applicable), any liability for death or personal injury to the extent that such injury 
+results from the negligence or willful default of itself, its servants, agents or sub-contractors.   
+Information containing any historical information, data or analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction.  Past 
+performance does not guarantee future results.   
+The Information should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making 
+investment and other business decisions.  All Information is impersonal and not tailored to the needs of any person, entity or group of persons. 
+None of the Information constitutes an offer to sell (or a solicitation of an offer to buy), any security, financial product or other investment vehicle or any trading strategy.  
+It is not possible to invest directly in an index.  Exposure to an asset class or trading strategy or other category represented by an index is only available through third party investable 
+instruments (if any) based on that index.   MSCI does not issue, sponsor, endorse, market, offer, review or otherwise express any opinion regarding any fund, ETF, derivative or other 
+security, investment, financial product or trading strategy that is based on, linked to or seeks to provide an investment return related to the performance of any MSCI index (collectively, 
+“Index Linked Investments”). MSCI makes no assurance that any Index Linked Investments will accurately track index performance or provide positive investment returns.  MSCI Inc. is not 
+an investment adviser or fiduciary and MSCI makes no representation regarding the advisability of investing in any Index Linked Investments. 
+Index returns do not represent the results of actual trading of investible assets/securities. MSCI maintains and calculates indexes but does not manage actual assets. Index returns do not 
+reflect payment of any sales charges or fees an investor may pay to purchase the securities underlying the index or Index Linked Investments. The imposition of these fees and charges 
+would cause the performance of an Index Linked Investment to be different than the MSCI index performance. 
+The Information may contain back tested data.  Back-tested performance is not actual performance but is hypothetical.  There are frequently material differences between back tested 
+performance results and actual results subsequently achieved by any investment strategy.   
+Constituents of MSCI equity indexes are listed companies, which are included in or excluded from the indexes according to the application of the relevant index methodologies. 
+Accordingly, constituents in MSCI equity indexes may include MSCI Inc., clients of MSCI or suppliers to MSCI.  Inclusion of a security within an MSCI index is not a recommendation by 
+MSCI to buy, sell, or hold such security, nor is it considered to be investment advice. 
+Data and information produced by various affiliates of MSCI Inc., including MSCI ESG Research LLC and Barra LLC, may be used in calculating certain MSCI indexes.  More information can 
+be found in the relevant index methodologies on www.msci.com.  
+MSCI receives compensation in connection with licensing its indexes to third parties.  MSCI Inc.’s revenue includes fees based on assets in Index Linked Investments. Information can be 
+found in MSCI Inc.’s company filings on the Investor Relations section of www.msci.com. 
+MSCI ESG Research LLC is a Registered Investment Adviser under the Investment Advisers Act of 1940 and a subsidiary of MSCI Inc.  Except with respect to any applicable products or 
+services from MSCI ESG Research, neither MSCI nor any of its products or services recommends, endorses, approves or otherwise expresses any opinion regarding any issuer, securities, 
+financial products or instruments or trading strategies and MSCI’s products or services are not intended to constitute investment advice or a recommendation to make (or refrain from 
+making) any kind of investment decision and may not be relied on as such. Issuers mentioned or included in any MSCI ESG Research materials may include MSCI Inc., clients of MSCI or 
+suppliers to MSCI, and may also purchase research or other products or services from MSCI ESG Research.  MSCI ESG Research materials, including materials utilized in any MSCI ESG 
+Indexes or other products, have not been submitted to, nor received approval from, the United States Securities and Exchange Commission or any other regulatory body. 
+Any use of or access to products, services or information of MSCI requires a license from MSCI. MSCI, Barra, RiskMetrics, IPD and other MSCI brands and product names are the 
+trademarks, service marks, or registered trademarks of MSCI or its subsidiaries in the United States and other jurisdictions.  The Global Industry Classification Standard (GICS) was 
+developed by and is the exclusive property of MSCI and Standard & Poor’s.  “Global Industry Classification Standard (GICS)” is a service mark of MSCI and Standard & Poor’s. 
+MIFID2/MIFIR notice: MSCI ESG Research LLC does not distribute or act as an intermediary for financial instruments or structured deposits, nor does it deal on its own account, provide 
+execution services for others or manage client accounts. No MSCI ESG Research product or service supports, promotes or is intended to support or promote any such activity. MSCI ESG 
+Research is an independent provider of ESG data, reports and ratings based on published methodologies and available to clients on a subscription basis.  We do not provide custom or one-
+off ratings or recommendations of securities or other financial instruments upon request. 
+Privacy notice: For information about how MSCI collects and uses personal data concerning officers and directors, please refer to our Privacy Notice at https://www.msci.com/privacy-
+pledge. 
+
